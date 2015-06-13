@@ -109,7 +109,7 @@ To turn the city and state information into more useful geographical information
 <!--code lang=python linenums=true-->
     from nominatim import Nominatim
     geolocator = Nominatim()
-    geolocator.query("Houston TX")
+    geolocator.query("Houston, TX")
 
 The query object returns a list of possible results. Each result is a dictionary that contains a "lat" and a "lon" column. We decide to take the coordinates of the first result or return None if the query does not succeed in identifying the location. It is also a good idea to cache the results by using a simple Python dictionary so as to not send a query for "Houston, TX" multiple times, because Nominatim needs to query a REST API every time which takes a while. The exact code used is not shown so as not to clutter the tutorial, but we're still making use of the "apply" functionality given by pandas to use the city and state columns as inputs to create new ones with the coordinates.
 
