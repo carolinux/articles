@@ -121,7 +121,7 @@ We can export the data that we have into CSV format for further processing.
 
 <!--code lang=python linenums=true-->
     # Note: dropna will drop any columns with None values, which is desirable
-    ufos_df[["start","end","lon","lat","shape"]].dropna().to_csv("ufo_data.csv",index=False)
+    ufos_df[["start","end","lon","lat","shape"]].dropna().to_csv("ufo_data.csv",index=False, encoding='utf-8')
 
 ##Third task: Visualization with QGIS
 

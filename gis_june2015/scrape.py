@@ -64,4 +64,4 @@ ufos_df = pd.DataFrame(last_year_ufos, columns=["datestr","city","state","shape"
 ufos_df["secs"] = ufos_df.duration_description.apply(infer_duration_in_seconds)
 print len(ufos_df)
 print len(ufos_df.dropna())
-ufos_df.to_csv("test.csv",index=False)
+ufos_df.to_csv("test.csv",index=False,encoding='utf-8')
