@@ -15,21 +15,23 @@ A machine running CentOS 6.4.
 
 ##Install Python
 
-First we need to choose a directory where the new Python binaries will be installed. Let's say that this is */usr/lib/miniconda*.
+First we need to choose a directory where the new Python binaries will be installed. Let's say that this is */usr/local/miniconda*.
 We can install Python 2.7 using the following commands: 
 
 <!--code lang=bash linenums=true-->
-    wget http://repo.continuum.io/miniconda/Miniconda-3.0.0-Linux-x86_64.sh # download the install script
-    sh Miniconda-3.0.0-Linux-x86_64.sh -b -p /usr/lib/miniconda # may or may not need sudo depending on the file access settings of the target directory
+    wget https://repo.continuum.io/miniconda/Miniconda-3.0.0-Linux-x86_64.sh # download the install script
+    sh Miniconda-3.0.0-Linux-x86_64.sh -b -p /usr/local/miniconda # may or may not need sudo depending on the file access settings of the target directory
 
 ### Add Python 2.7 to the PATH
 If it is desirable for us to launch the newly installed Python when typing 'python' in the shell, then we need to add this line to the *~/.bashrc* file of all the users that have a need for this behavior (for instance, the user our webserver runs as).
 
 <!--code lang=bash linenums=true-->
-    export PATH=/usr/lib/miniconda/bin:$PATH # prepend the new binaries to the path
-    # exit the editor
-    bash # type this in the shell to make the changes take effect
+    export PATH=/usr/local/miniconda/bin:$PATH # prepend the new binaries to the path
 
+After editing the *bashrc* file, run the following to make the changes take effect immediately.
+
+<!--code lang=bash linenums=true-->
+    source ~/.bashrc
 
  Users that don't have this in their profiles will call system Python instead. Yum will always call system Python because the path */usr/bin/python* is hardcoded in its source code. So unless we a try to create a symlink to this path or replace the binary, the package manager will keep working fine.
 
@@ -37,13 +39,13 @@ If it is desirable for us to launch the newly installed Python when typing 'pyth
 If we don't want to override the 'python' command, we can also create aliases in *bashrc* for 'python2.7' and 'python2.6'. This will require us to explicitly say which version we want to use every time.
 
 <!--code lang=bash linenums=true-->
-    alias python2.7="/usr/lib/miniconda/bin/python"
+    alias python2.7="/usr/local/miniconda/bin/python"
     alias python2.6="/usr/bin/python"
 
 
 ### Install Pip
 
-If our server houses a django application, chances are we also need to install pip for managing our packages. The goal is to have pip install the new packages for Python2.7 installed in /usr/lib/miniconda and not for the system Python. It is possible to do this with one line (assuming we added python 2.7 in the path in the previous section).
+If our server houses a django application, chances are we also need to install pip for managing our packages. The goal is to have pip install the new packages for Python2.7 installed in /usr/local/miniconda and not for the system Python. It is possible to do this with one line (assuming we added python 2.7 in the path in the previous section).
 
 <!--code lang=bash linenums=true-->
     conda install pip
@@ -52,6 +54,6 @@ To verify that it worked do:
 
 <!--code lang=bash linenums=true-->
     which pip
-    /usr/lib/miniconda/bin/pip
+    /usr/local/miniconda/bin/pip
 
 
