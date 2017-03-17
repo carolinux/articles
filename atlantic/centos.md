@@ -1,6 +1,6 @@
 #How to install Python 2.7 on CentOS with Anaconda
 
-##Introduction
+###Introduction
 
 The CentOS family of Linux distributions is widely used by enterprises to house applications. It is a popular distribution because it's free to use without the need for a license and because the feature-freeze practices applied during the release cycle guarantee long-term stability. 
 
@@ -8,7 +8,7 @@ The price for stability is that the operating system ships with certain librarie
 
 However, it's important to leave the already installed Python intact, because the operating system requires it for internal use, for instance for its package manager (yum). The most common thing that can go wrong is that the developer, by trying to install the new Python version, manages to corrupt the system (just Google for "installing Python 2.7 on CentOS broke my yum").
 
- For that reason, instead of building Python by hand, it makes sense to use an existing tool that can manage Python installations without tampering with the system Python which is installed at */usr/bin/python* and instead installs the new version side-by-side with the old one. A relatively new but already widely-used tool for managing Python installations is Anaconda by [Continuum.io](http://www.continuum.io) which makes building Python a breeze.
+ For that reason, instead of building Python by hand, it makes sense to use an existing tool that can manage Python installations without tampering with the system Python which is installed at */usr/bin/python* and instead installs the new version side-by-side with the old one. A relatively new but already widely-used tool for managing Python installations is Anaconda by [Continuum.io](http://www.continuum.io) which makes building Python quite easy.
 
 ###Prerequisites
 A machine running CentOS 6.4.

@@ -56,12 +56,11 @@ base_url = "http://www.nuforc.org/webreports/"
 index_url = "http://www.nuforc.org/webreports/ndxevent.html"
 
 source = BeautifulSoup(urlopen(index_url), "html5lib")
+# map -> for loop
 monthly_urls = map(lambda x: (x.text,base_url+x['href']),source('a')) # get all the links 
 monthly_urls = filter(lambda x: can_cast_as_dt(x[0],"%m/%Y") , monthly_urls)[:12] # get all the links that have a text like 06/2015
 
 last_year_ufos = list(chain(*map(lambda x: get_data_from_url(x[1]), monthly_urls)))
 ufos_df = pd.DataFrame(last_year_ufos, columns=["datestr","city","state","shape","duration_description"])
-ufos_df["secs"] = ufos_df.duration_description.apply(infer_duration_in_seconds)
-print len(ufos_df)
-print len(ufos_df.dropna())
 ufos_df.to_csv("test.csv",index=False,encoding='utf-8')
+
