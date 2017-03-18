@@ -45,6 +45,27 @@ for color, season in zip(colors, seasons):
 plt.legend(loc='upper left')
 plt.show()
 
+# map plot
+from mpl_toolkits.basemap import Basemap
+
+map = Basemap(projection='mill',lon_0=0)
+
+map.drawcoastlines()
+map.drawcountries()
+map.fillcontinents(color = 'coral')
+map.drawmapboundary()
+
+
+
+lons = df["lon"].values
+lats = df["lat"].values
+
+x,y = map(lons, lats)
+map.plot(x, y, 'bo', markersize=5)
+
+plt.show()
+
+
 
 
 
