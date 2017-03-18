@@ -45,6 +45,20 @@ for color, season in zip(colors, seasons):
 plt.legend(loc='upper left')
 plt.show()
 
+def get_marker(shape):
+    if shape=="triangle":
+        return "v"
+    if shape=="circle" or shape=="sphere" or shape=="disk" or shape=="oval":
+        return "o"
+
+    if shape=="light":
+        return "*"
+
+    if shape=="rectangle":
+        return "s"
+
+    return "x"
+
 # map plot
 from mpl_toolkits.basemap import Basemap
 
@@ -60,8 +74,10 @@ map.drawmapboundary()
 lons = df["lon"].values
 lats = df["lat"].values
 
-x,y = map(lons, lats)
-map.plot(x, y, 'bo', markersize=5)
+df["marker"] = df["shape"].apply(get_marker)
+xs,ys = map(lons, lats)
+for x,y,m in zip(xs,ys, df["marker"].values):
+    map.plot(x, y, m, markersize=5) # here it varies the colour every time
 
 plt.show()
 
