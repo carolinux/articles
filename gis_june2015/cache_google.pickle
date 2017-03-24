@@ -1,0 +1,11753 @@
+(dp0
+S'CA Eastvale'
+p1
+(lp2
+F33.952463
+aF-117.5848025
+asS'NY Oneonta'
+p3
+(lp4
+sS'NJ West Deptford'
+p5
+(lp6
+F39.8318378
+aF-75.1895576
+asS'WV Vienna'
+p7
+(lp8
+sS'NJ Stockholm'
+p9
+(lp10
+sS'SD Madison'
+p11
+(lp12
+F44.0060847
+aF-97.1139496
+asS'FL Coconut Creek'
+p13
+(lp14
+F26.2517482
+aF-80.17893509999999
+asS'AZ New River'
+p15
+(lp16
+F33.9158687
+aF-112.1359906
+asS'NJ Riverdale'
+p17
+(lp18
+F40.9939865
+aF-74.3034823
+asS'MI Grand Blanc'
+p19
+(lp20
+sS'CA San Rafael'
+p21
+(lp22
+F37.9735346
+aF-122.5310874
+asS'NM Lincoln'
+p23
+(lp24
+F33.4920276
+aF-105.3838716
+asS'HI Haleiwa'
+p25
+(lp26
+sS'UT West Valley City'
+p27
+(lp28
+F40.6916132
+aF-112.0010501
+asS'CA Yucaipa'
+p29
+(lp30
+F34.033625
+aF-117.0430865
+asS'NJ Somerville (toward; on Route 287)'
+p31
+(lp32
+sS'OH Elyria'
+p33
+(lp34
+F41.3683798
+aF-82.10764859999999
+asS'ND Fargo'
+p35
+(lp36
+F46.8771863
+aF-96.7898034
+asS'UT Garden City'
+p37
+(lp38
+sS'WI Walworth'
+p39
+(lp40
+sS'ME Biddeford'
+p41
+(lp42
+sS'WA Richland'
+p43
+(lp44
+F46.2856907
+aF-119.2844621
+asS'NJ Upper Freehold Township'
+p45
+(lp46
+F40.174405
+aF-74.5228916
+asS'MD Easton'
+p47
+(lp48
+F38.7742826
+aF-76.0763305
+asS'CA Rancho Cucamonga'
+p49
+(lp50
+F34.10639889999999
+aF-117.5931084
+asS'TX Fayetteville'
+p51
+(lp52
+F29.9057817
+aF-96.6727528
+asS'CA Bass Lake'
+p53
+(lp54
+sS'IL Lively Grove'
+p55
+(lp56
+sS'NC Maxton'
+p57
+(lp58
+sS'SC Monetta'
+p59
+(lp60
+F33.8501416
+aF-81.6095493
+asS'CA Anderson'
+p61
+(lp62
+sS'PA Pottstown'
+p63
+(lp64
+F40.2453741
+aF-75.6496302
+asS'CA Sylmar'
+p65
+(lp66
+F34.3058279
+aF-118.4571974
+asS'MN Litchfield'
+p67
+(lp68
+sS'CA Fairfield'
+p69
+(lp70
+F38.24935809999999
+aF-122.0399663
+asS'MO St. Peters'
+p71
+(lp72
+F38.7874699
+aF-90.6298922
+asS'AR St. Joe (SW of)'
+p73
+(lp74
+F36.0300743
+aF-92.80461179999999
+asS'AR Newport'
+p75
+(lp76
+F35.6048018
+aF-91.2817951
+asS'DE Pike Creek'
+p77
+(lp78
+F39.7309451
+aF-75.704099
+asS'AK Juneau'
+p79
+(lp80
+F58.3019444
+aF-134.4197222
+asS'PA Sellersville'
+p81
+(lp82
+F40.3539926
+aF-75.3048982
+asS'HI Kaimuki'
+p83
+(lp84
+F21.278845
+aF-157.800346
+asS'MA Plymouth'
+p85
+(lp86
+F41.9584457
+aF-70.6672621
+asS'AZ Grand Canyon'
+p87
+(lp88
+sS'ME Bangor'
+p89
+(lp90
+F44.80118210000001
+aF-68.77781379999999
+asS'HI Kawaihae'
+p91
+(lp92
+sS'NC Salisbury'
+p93
+(lp94
+sS'CA Palo Alto'
+p95
+(lp96
+sS'NJ Hamilton Square'
+p97
+(lp98
+sS'AZ Sahaurita'
+p99
+(lp100
+F31.9575818
+aF-110.955646
+asS'WI Oconomowoc'
+p101
+(lp102
+sS'CA Jamestown'
+p103
+(lp104
+F37.9532584
+aF-120.4226952
+asS'TX Springtown'
+p105
+(lp106
+F32.9659566
+aF-97.68363839999999
+asS'ME Minot'
+p107
+(lp108
+F44.1563223
+aF-70.3471228
+asS'IN Lafayette'
+p109
+(lp110
+sS'TN Gray'
+p111
+(lp112
+sS'NM Magdalena'
+p113
+(lp114
+F34.1167305
+aF-107.2439251
+asS'NC Winterville'
+p115
+(lp116
+F35.529051
+aF-77.40107619999999
+asS'MO Independence'
+p117
+(lp118
+F39.0911161
+aF-94.41550679999999
+asS'IA Casey'
+p119
+(lp120
+F41.5047095
+aF-94.51830369999999
+asS'CA Alameda'
+p121
+(lp122
+sS'CA Oceanside'
+p123
+(lp124
+F33.1958696
+aF-117.3794834
+asS'KY Dabney'
+p125
+(lp126
+F37.1839682
+aF-84.54994169999999
+asS'OK Bartlesville'
+p127
+(lp128
+F36.7473114
+aF-95.98081789999999
+asS'AB Sundre (Canada)'
+p129
+(lp130
+F51.79721499999999
+aF-114.640501
+asS'NH Stoddard'
+p131
+(lp132
+F43.0786901
+aF-72.1145281
+asS'MI Jackson'
+p133
+(lp134
+F42.245869
+aF-84.40134619999999
+asS'WV Huntington'
+p135
+(lp136
+F38.4192496
+aF-82.44515400000002
+asS'HI Waianae'
+p137
+(lp138
+F21.4359641
+aF-158.1848755
+asS'GA Augusta'
+p139
+(lp140
+F33.4734978
+aF-82.0105148
+asS'PA Susquehanna'
+p141
+(lp142
+sS'PA Home'
+p143
+(lp144
+sS'NC Durham'
+p145
+(lp146
+F35.9940329
+aF-78.898619
+asS'IL South Elgin'
+p147
+(lp148
+sS'NY Mastic Beach'
+p149
+(lp150
+F40.7667655
+aF-72.85204759999999
+asS'KS Effingham'
+p151
+(lp152
+sS'PA Throop'
+p153
+(lp154
+sS'PA Lower Makefield'
+p155
+(lp156
+sS'MD Fort Washington'
+p157
+(lp158
+F38.7073379
+aF-77.0230313
+asS'IL Canton'
+p159
+(lp160
+sS'OH Reynoldsburg'
+p161
+(lp162
+F39.9547861
+aF-82.81211909999999
+asS'AB Caroline (Canada)'
+p163
+(lp164
+sS'CT New Britain'
+p165
+(lp166
+sS'VA Madison Heights'
+p167
+(lp168
+sS'GA Snellville'
+p169
+(lp170
+F33.857328
+aF-84.0199108
+asS'MI Allen Park'
+p171
+(lp172
+F42.2575385
+aF-83.2110375
+asS'WY Cody'
+p173
+(lp174
+F44.52634219999999
+aF-109.0565308
+asS'CO Evans'
+p175
+(lp176
+sS'NM Moriarty'
+p177
+(lp178
+sS'CT Bridgeport'
+p179
+(lp180
+F41.1865478
+aF-73.19517669999999
+asS'IL Oak Lawn'
+p181
+(lp182
+F41.719978
+aF-87.7479528
+asS'MO St. Robert'
+p183
+(lp184
+sS'WI Blanchardville'
+p185
+(lp186
+F42.8102794
+aF-89.8620682
+asS'MN North Mankato'
+p187
+(lp188
+F44.1732996
+aF-94.033845
+asS'NC Hope Mills'
+p189
+(lp190
+F34.9704419
+aF-78.9453056
+asS'ID Brueno'
+p191
+(lp192
+sS'NJ Cinnaminson'
+p193
+(lp194
+F39.9969646
+aF-74.99276929999999
+asS'MO Lockwood'
+p195
+(lp196
+F37.3856044
+aF-93.9532705
+asS'FL Cocoa'
+p197
+(lp198
+F28.3861159
+aF-80.7419984
+asS'WA Ferndale'
+p199
+(lp200
+F48.8464991
+aF-122.5910056
+asS'MI Midland'
+p201
+(lp202
+F43.6155825
+aF-84.2472116
+asS'CA Ukiah'
+p203
+(lp204
+sS'IL Joliet'
+p205
+(lp206
+sS'CO Parker'
+p207
+(lp208
+F39.5186002
+aF-104.7613633
+asS'NH Bow'
+p209
+(lp210
+sS'VT Manchester'
+p211
+(lp212
+F43.16368749999999
+aF-73.0723268
+asS'OR Vancouver & Portland'
+p213
+(lp214
+sS'CA Terra Linda'
+p215
+(lp216
+F38.0040892
+aF-122.5497
+asS'WA White Center'
+p217
+(lp218
+sS'CO Ft. Collins'
+p219
+(lp220
+sS'FL Floral City'
+p221
+(lp222
+F28.7499876
+aF-82.29675809999999
+asS'UT Saint George'
+p223
+(lp224
+F37.0965278
+aF-113.5684164
+asS'OH Mentor'
+p225
+(lp226
+sS'OR Brookings'
+p227
+(lp228
+sS'NC Asheboro'
+p229
+(lp230
+F35.7079146
+aF-79.8136446
+asS'TX Hurst'
+p231
+(lp232
+sS'CA San Bernardino'
+p233
+(lp234
+F34.1083449
+aF-117.2897652
+asS'MO Hayti'
+p235
+(lp236
+F36.233679
+aF-89.74952720000002
+asS'CA Oakdale'
+p237
+(lp238
+F37.7665947
+aF-120.8471545
+asS'UT Herriman'
+p239
+(lp240
+F40.5141147
+aF-112.0329938
+asS'NY Ticonderoga'
+p241
+(lp242
+F43.8486707
+aF-73.4234531
+asS'WI Rosholt'
+p243
+(lp244
+sS'AB Ashmont (Canada)'
+p245
+(lp246
+sS'MD Hagerstown'
+p247
+(lp248
+F39.6417629
+aF-77.71999319999999
+asS'VA Colonial Beach'
+p249
+(lp250
+F38.2545737
+aF-76.963583
+asS'GA Conyers'
+p251
+(lp252
+F33.6676103
+aF-84.01769039999999
+asS'CA La Puente'
+p253
+(lp254
+F34.0200114
+aF-117.9495083
+asS'AK Wasilla'
+p255
+(lp256
+F61.5813889
+aF-149.4394444
+asS'CA Lemon Grove'
+p257
+(lp258
+F32.7425516
+aF-117.0314172
+asS'NC Franklinton'
+p259
+(lp260
+F36.1018163
+aF-78.4580543
+asS'WI Janesville'
+p261
+(lp262
+F42.6827885
+aF-89.0187222
+asS'MN Big Lake'
+p263
+(lp264
+sS'IN Fishers'
+p265
+(lp266
+F39.9567548
+aF-86.01335
+asS'AL Oxford'
+p267
+(lp268
+sS'KS Dodge City'
+p269
+(lp270
+F37.7527982
+aF-100.0170787
+asS'PA Warrington'
+p271
+(lp272
+sS'KS Bel Aire'
+p273
+(lp274
+sS'MS Lena'
+p275
+(lp276
+sS'TN Great Smokey Mountains National Park'
+p277
+(lp278
+F35.6117644
+aF-83.4895449
+asS'WI Webster'
+p279
+(lp280
+F45.8774469
+aF-92.3674164
+asS'WA McChord AFB/Ft. Lewis'
+p281
+(lp282
+F47.1342432
+aF-122.4857321
+asS'MN Ham Lake'
+p283
+(lp284
+sS'OK Tulsa'
+p285
+(lp286
+F36.1539816
+aF-95.99277500000001
+asS'PA Arnold'
+p287
+(lp288
+F40.5800669
+aF-79.7667151
+asS'PA Uniontown'
+p289
+(lp290
+F39.900076
+aF-79.71643259999999
+asS'RI Portsmouth'
+p291
+(lp292
+F41.60232449999999
+aF-71.25032569999999
+asS'OR Florence'
+p293
+(lp294
+sS'OK Norman'
+p295
+(lp296
+F35.2225668
+aF-97.4394777
+asS'TN Columbia'
+p297
+(lp298
+sS'NV Austin'
+p299
+(lp300
+F39.49257009999999
+aF-117.0672356
+asS'CA Fullerton'
+p301
+(lp302
+F33.8829226
+aF-117.8869261
+asS'WI Wausau'
+p303
+(lp304
+F44.9591352
+aF-89.6301221
+asS'CA Yosemite National Park'
+p305
+(lp306
+F37.8651011
+aF-119.5383294
+asS'NC North Topsail Beach'
+p307
+(lp308
+F34.4901665
+aF-77.43163
+asS'WI Superior'
+p309
+(lp310
+F46.7207737
+aF-92.10407959999999
+asS'IL Naperville'
+p311
+(lp312
+F41.7508391
+aF-88.1535352
+asS'NJ Smithville'
+p313
+(lp314
+F39.4939726
+aF-74.45768420000002
+asS'NC Garner'
+p315
+(lp316
+F35.7112642
+aF-78.61417089999999
+asS'MD Frederick'
+p317
+(lp318
+sS'AZ Apache Junction'
+p319
+(lp320
+F33.4150485
+aF-111.5495777
+asS'CA Long Beach'
+p321
+(lp322
+F33.7700504
+aF-118.1937395
+asS'NC Wilmington'
+p323
+(lp324
+F34.22494
+aF-77.87012659999999
+asS'GA Athens'
+p325
+(lp326
+F33.9519347
+aF-83.357567
+asS'CA Ventura'
+p327
+(lp328
+F34.274646
+aF-119.2290316
+asS'PA Lower Burrell'
+p329
+(lp330
+F40.5849232
+aF-79.7209802
+asS'CA La Quinta, Indian Wells, Palm Desert'
+p331
+(lp332
+sS'NJ Bridgewater'
+p333
+(lp334
+F40.5939636
+aF-74.6049061
+asS'NV Yerington'
+p335
+(lp336
+F38.98575080000001
+aF-119.1629309
+asS'NY New York City (Manhattan)'
+p337
+(lp338
+F40.7830603
+aF-73.9712488
+asS'MA Tewksbury'
+p339
+(lp340
+F42.6106478
+aF-71.23422479999999
+asS'SK Regina (Canada)'
+p341
+(lp342
+F50.4452112
+aF-104.6188944
+asS'MA Tyngsboro'
+p343
+(lp344
+sS'CA Ojai'
+p345
+(lp346
+F34.4480495
+aF-119.242889
+asS'VA Tazewell'
+p347
+(lp348
+F37.11483740000001
+aF-81.5195548
+asS'PA West Chester'
+p349
+(lp350
+F39.9606643
+aF-75.6054882
+asS'NC Hendersonville'
+p351
+(lp352
+F35.3187279
+aF-82.4609528
+asS'NC Ash'
+p353
+(lp354
+sS'MT Montana City'
+p355
+(lp356
+sS'OR Gold Hill'
+p357
+(lp358
+sS'CA Frazier Park'
+p359
+(lp360
+sS'IL Braidwood'
+p361
+(lp362
+sS'CA Carlsbad'
+p363
+(lp364
+F33.1580933
+aF-117.3505939
+asS'MI Chesterfield'
+p365
+(lp366
+F42.6960659
+aF-82.79941939999999
+asS'NM Mountainair'
+p367
+(lp368
+F34.5203411
+aF-106.241127
+asS'CA Corte Madera'
+p369
+(lp370
+F37.9254806
+aF-122.5274755
+asS'SC Seabrook'
+p371
+(lp372
+F32.5771277
+aF-80.17065199999999
+asS'AZ Camp Verde'
+p373
+(lp374
+sS'MD Bowie'
+p375
+(lp376
+sS'FL Santa Rosa Beach'
+p377
+(lp378
+F30.3960324
+aF-86.2288322
+asS'PA McConnellsburg'
+p379
+(lp380
+F39.932589
+aF-77.9988906
+asS'NM Rio Rancho'
+p381
+(lp382
+F35.2327544
+aF-106.6630437
+asS'NJ Surf City'
+p383
+(lp384
+F39.6620638
+aF-74.16513770000002
+asS'IL Glendale Heights'
+p385
+(lp386
+F41.91030680000001
+aF-88.0717353
+asS'LA Opelousas'
+p387
+(lp388
+F30.5335302
+aF-92.081509
+asS'WY Riverton (outside of)'
+p389
+(lp390
+F43.03119179999999
+aF-108.4243744
+asS'WA Spokane Valley'
+p391
+(lp392
+F47.6732281
+aF-117.2393748
+asS'CA Joshua Tree'
+p393
+(lp394
+sS'NY Lido Beach'
+p395
+(lp396
+F40.5889926
+aF-73.6254072
+asS'CA Willits'
+p397
+(lp398
+sS'CA Porterville'
+p399
+(lp400
+F36.06523
+aF-119.0167679
+asS'IL Bourbonnais'
+p401
+(lp402
+F41.1760108
+aF-87.87952299999999
+asS'KS Hays (5 miles east of; on I-70)'
+p403
+(lp404
+F38.898004
+aF-99.314754
+asS'TX Jamaica Beach'
+p405
+(lp406
+F29.189684
+aF-94.9796456
+asS'UT South Jordan'
+p407
+(lp408
+sS'TX Rowlett'
+p409
+(lp410
+sS'OH Stone Creek'
+p411
+(lp412
+F40.3972892
+aF-81.5620643
+asS'IL Shorewood'
+p413
+(lp414
+sS'GA Dawsonville'
+p415
+(lp416
+F34.4212052
+aF-84.1190804
+asS'HI Pearl City'
+p417
+(lp418
+sS'TX Kingsville'
+p419
+(lp420
+sS'CO Westminster'
+p421
+(lp422
+F39.8366528
+aF-105.0372046
+asS'NY Alden'
+p423
+(lp424
+sS'OR Fall Creek'
+p425
+(lp426
+F43.9595707
+aF-122.8203521
+asS'KS Derby'
+p427
+(lp428
+F37.5455735
+aF-97.2689331
+asS'IN Mishawaka'
+p429
+(lp430
+sS'MD Cumberland'
+p431
+(lp432
+F39.6528654
+aF-78.7625185
+asS'IA Waterloo'
+p433
+(lp434
+sS'FL Pbg'
+p435
+(lp436
+F26.8233946
+aF-80.13865469999999
+asS'AR Paragould'
+p437
+(lp438
+F36.0584021
+aF-90.4973286
+asS'FL Indialantic'
+p439
+(lp440
+F28.0894599
+aF-80.5656079
+asS'HI Mokuliea'
+p441
+(lp442
+F21.5766372
+aF-158.2065004
+asS'FL Saint Augustine'
+p443
+(lp444
+F29.9012437
+aF-81.31243409999999
+asS'OH Mt. Orab'
+p445
+(lp446
+F39.0275659
+aF-83.91965200000001
+asS'TN Smyrna'
+p447
+(lp448
+sS'FL Casselberry'
+p449
+(lp450
+F28.677775
+aF-81.3278455
+asS'NJ Jersey City'
+p451
+(lp452
+F40.72815749999999
+aF-74.0776417
+asS'MA Hingham'
+p453
+(lp454
+F42.2418172
+aF-70.889759
+asS'OR Salem'
+p455
+(lp456
+F44.9428975
+aF-123.0350963
+asS'MO Troy (NW of)'
+p457
+(lp458
+sS'MT Corvallis'
+p459
+(lp460
+sS'VA Roanoke'
+p461
+(lp462
+F37.2709704
+aF-79.9414266
+asS'IL Peoria'
+p463
+(lp464
+F40.6936488
+aF-89.5889864
+asS'MA Belchertown'
+p465
+(lp466
+F42.2770346
+aF-72.4008884
+asS'TN Morristown'
+p467
+(lp468
+F36.2139814
+aF-83.29489219999999
+asS'CA San Leandro'
+p469
+(lp470
+F37.7249296
+aF-122.1560768
+asS'FL Ormond Beach'
+p471
+(lp472
+sS'MI Assumption'
+p473
+(lp474
+F42.4517258
+aF-82.8906631
+asS'NH Franklin'
+p475
+(lp476
+F43.4442432
+aF-71.6472988
+asS'OH Mount Vernon'
+p477
+(lp478
+sS'DE Elsmere'
+p479
+(lp480
+sS'CA Hemet'
+p481
+(lp482
+F33.7475203
+aF-116.9719684
+asS'WI Burlington'
+p483
+(lp484
+F42.6780726
+aF-88.27620259999999
+asS'TX Dallas'
+p485
+(lp486
+F32.7766642
+aF-96.79698789999999
+asS'GA LaGrange'
+p487
+(lp488
+sS'MD Bethesda'
+p489
+(lp490
+F38.984652
+aF-77.0947092
+asS'NH Freedom'
+p491
+(lp492
+sS'MO Ste. Genevieve'
+p493
+(lp494
+F37.9786618
+aF-90.0475582
+asS'TN Hermitage'
+p495
+(lp496
+F36.1988486
+aF-86.6197777
+asS'PA Meadville'
+p497
+(lp498
+F41.6414438
+aF-80.15144839999999
+asS'WA Benton City'
+p499
+(lp500
+F46.2631897
+aF-119.487802
+asS'KS Logan'
+p501
+(lp502
+F39.6616746
+aF-99.57038539999999
+asS'CA Thousand Oaks'
+p503
+(lp504
+F34.1705609
+aF-118.8375937
+asS'CA Coachella Valley'
+p505
+(lp506
+F33.7666873
+aF-116.3591772
+asS'CA San Marcos'
+p507
+(lp508
+F33.1433723
+aF-117.1661449
+asS'FL Palm Bay'
+p509
+(lp510
+sS'CA Silverlake'
+p511
+(lp512
+F34.0869409
+aF-118.2702036
+asS'AK Soldotna'
+p513
+(lp514
+F60.4877778
+aF-151.0583332
+asS'IA Marshalltown'
+p515
+(lp516
+F42.0494674
+aF-92.90803749999999
+asS'KS Atchison'
+p517
+(lp518
+F39.5630521
+aF-95.12163559999999
+asS'WI Sheboygan'
+p519
+(lp520
+sS'ME Waterville'
+p521
+(lp522
+F44.5520105
+aF-69.6317121
+asS'CO Lascar (I-25; MM 62)'
+p523
+(lp524
+sS'MA Cambridge'
+p525
+(lp526
+sS'OH Geneva'
+p527
+(lp528
+sS'WA Davenport'
+p529
+(lp530
+F47.6540456
+aF-118.149973
+asS'AK Fairbanks'
+p531
+(lp532
+F64.8377778
+aF-147.7163889
+asS'MN Shoreview'
+p533
+(lp534
+F45.0791325
+aF-93.14716670000001
+asS'GA Roswell'
+p535
+(lp536
+F34.0232431
+aF-84.3615555
+asS'MS Brandon'
+p537
+(lp538
+F32.2732024
+aF-89.9859158
+asS'PA Bridgewater'
+p539
+(lp540
+sS'NY Commack'
+p541
+(lp542
+sS'NY Central Square'
+p543
+(lp544
+F43.2867356
+aF-76.1460357
+asS'NH Merrimack'
+p545
+(lp546
+F42.8678693
+aF-71.49483219999999
+asS'NY Bergen'
+p547
+(lp548
+F43.0853387
+aF-77.9422336
+asS'CT Old Lyme'
+p549
+(lp550
+F41.3159315
+aF-72.3289715
+asS'NJ West Orange'
+p551
+(lp552
+F40.7985699
+aF-74.23908279999999
+asS'FL Sebring'
+p553
+(lp554
+sS'WA Puyallup'
+p555
+(lp556
+sS'PA Reynoldsville'
+p557
+(lp558
+sS'NY Holbrook'
+p559
+(lp560
+F40.81232050000001
+aF-73.0784429
+asS'MO High Ridge'
+p561
+(lp562
+F38.4589432
+aF-90.5365126
+asS'TN Franklin'
+p563
+(lp564
+F35.9250637
+aF-86.8688899
+asS'WA Sedro Woolley'
+p565
+(lp566
+F48.50389
+aF-122.23611
+asS'CO Henderson'
+p567
+(lp568
+sS'OH Cuyahoga Falls'
+p569
+(lp570
+F41.1339449
+aF-81.48455849999999
+asS'TN Lancing'
+p571
+(lp572
+F36.1206306
+aF-84.65383080000001
+asS'TN Pigeon Forge'
+p573
+(lp574
+sS'TX Pearland'
+p575
+(lp576
+F29.5635666
+aF-95.2860474
+asS'ME Guilford'
+p577
+(lp578
+sS'NM San Rafael'
+p579
+(lp580
+F35.1125344
+aF-107.8826751
+asS'FL Holly Hill'
+p581
+(lp582
+F29.2435916
+aF-81.0375555
+asS'PA Slatington'
+p583
+(lp584
+F40.7526123
+aF-75.6062105
+asS'NC Lewisville'
+p585
+(lp586
+F36.0970819
+aF-80.4192216
+asS'PA Marianna'
+p587
+(lp588
+F40.0247953
+aF-80.1000562
+asS'OH Dayton/Fairborn'
+p589
+(lp590
+sS'LA Lake Charles'
+p591
+(lp592
+F30.2265949
+aF-93.2173758
+asS'AK Anchor Point'
+p593
+(lp594
+F59.77666670000001
+aF-151.8313889
+asS'MA Raynham'
+p595
+(lp596
+sS'WY Buffalo'
+p597
+(lp598
+F44.3483072
+aF-106.6989375
+asS'CA Avalon'
+p599
+(lp600
+F33.3428193
+aF-118.3282279
+asS'CO Loveland'
+p601
+(lp602
+F40.3977612
+aF-105.0749801
+asS'FL Panama City'
+p603
+(lp604
+F30.1588129
+aF-85.6602058
+asS'IN Selma'
+p605
+(lp606
+F40.1917102
+aF-85.2688579
+asS'SD Aberdeen'
+p607
+(lp608
+F45.4646985
+aF-98.4864829
+asS'AR Mena'
+p609
+(lp610
+F34.5862171
+aF-94.23965539999999
+asS'LA Anacoco'
+p611
+(lp612
+F31.2521279
+aF-93.3412795
+asS'LA Patterson'
+p613
+(lp614
+F29.6932641
+aF-91.3020502
+asS'NC Troy'
+p615
+(lp616
+F35.3584743
+aF-79.8944901
+asS'CO Crested Butte'
+p617
+(lp618
+sS'IA Dyersville'
+p619
+(lp620
+sS'PA Philadelphia'
+p621
+(lp622
+F39.9525839
+aF-75.1652215
+asS'CT Thomaston'
+p623
+(lp624
+sS'MS Biloxi'
+p625
+(lp626
+sS'NC Shallotte'
+p627
+(lp628
+F33.9732275
+aF-78.3858371
+asS'UT Tooele'
+p629
+(lp630
+sS'VA Springfield'
+p631
+(lp632
+F38.7892801
+aF-77.18720359999999
+asS'GA Thomson'
+p633
+(lp634
+F33.4706927
+aF-82.50457329999999
+asS'VA Spotsylvania'
+p635
+(lp636
+F38.204165
+aF-77.6077865
+asS'GA Warner Robins'
+p637
+(lp638
+F32.6130007
+aF-83.624201
+asS'NJ Redbank'
+p639
+(lp640
+F40.3470543
+aF-74.0643065
+asS'IL Downers Grove'
+p641
+(lp642
+sS'OH Cadiz'
+p643
+(lp644
+F40.2728452
+aF-80.9967628
+asS'NY Waterloo'
+p645
+(lp646
+F42.9047884
+aF-76.8627367
+asS'NY Fishkill'
+p647
+(lp648
+F41.53564919999999
+aF-73.89902520000001
+asS'FL Mount Dora'
+p649
+(lp650
+sS'IN South Bend'
+p651
+(lp652
+sS'LA Gulf of Mexico SMI 69 B'
+p653
+(lp654
+sS'NV Fernley'
+p655
+(lp656
+F39.6079683
+aF-119.2518349
+asS'LA Amite'
+p657
+(lp658
+F30.7265747
+aF-90.50898149999999
+asS'OR Carlton'
+p659
+(lp660
+F45.2942822
+aF-123.1764949
+asS'ME Ellsworth'
+p661
+(lp662
+F44.5434095
+aF-68.4194641
+asS'WA Belfair'
+p663
+(lp664
+F47.4514588
+aF-122.826946
+asS'OH Riverside'
+p665
+(lp666
+F39.779781
+aF-84.12410469999999
+asS'MI Commerce Township'
+p667
+(lp668
+sS'CA Vacaville'
+p669
+(lp670
+F38.3565773
+aF-121.9877444
+asS'TN Gatlinburg'
+p671
+(lp672
+F35.714259
+aF-83.5101638
+asS'WA Battle Ground'
+p673
+(lp674
+F45.7809491
+aF-122.5334307
+asS'NC Bogie Sound (Emerald Isle Bridge)'
+p675
+(lp676
+sS'MA Springfield'
+p677
+(lp678
+F42.1014831
+aF-72.589811
+asS'NC Graham'
+p679
+(lp680
+F36.0690258
+aF-79.4005756
+asS'AR Harrison'
+p681
+(lp682
+F36.2297936
+aF-93.1076765
+asS'ME winter harbor'
+p683
+(lp684
+F44.3947873
+aF-68.0830278
+asS'NC Elizabeth City'
+p685
+(lp686
+F36.2946008
+aF-76.2510461
+asS'AL Boaz'
+p687
+(lp688
+F34.2031662
+aF-86.15209689999999
+asS'OH Pickerington'
+p689
+(lp690
+F39.8842304
+aF-82.7535049
+asS'AB Calgary (Canada)'
+p691
+(lp692
+sS'CO Grand Junction'
+p693
+(lp694
+F39.0638705
+aF-108.5506486
+asS'MD Forrestville'
+p695
+(lp696
+F38.8451131
+aF-76.8749722
+asS'IL Kirkland'
+p697
+(lp698
+F42.0925258
+aF-88.8512063
+asS'GA Thomasville'
+p699
+(lp700
+F30.8365815
+aF-83.9787808
+asS'WI Village of Caledonia'
+p701
+(lp702
+F42.8077958
+aF-87.92424799999999
+asS'CA Valley Village'
+p703
+(lp704
+sS'MD Montgomery village'
+p705
+(lp706
+sS'UT Cedar Valley'
+p707
+(lp708
+sS'ME Sidney'
+p709
+(lp710
+F44.4530868
+aF-69.72262479999999
+asS'KS Winchester'
+p711
+(lp712
+F39.3222209
+aF-95.2669155
+asS'PA Pittsburgh'
+p713
+(lp714
+F40.44062479999999
+aF-79.9958864
+asS'TX Texas City'
+p715
+(lp716
+sS'OK Balko'
+p717
+(lp718
+F36.6300272
+aF-100.6848736
+asS'WV Huntingtion'
+p719
+(lp720
+sS'TN Lebanon'
+p721
+(lp722
+sS'IN Shelbyville'
+p723
+(lp724
+sS'ID Priest River'
+p725
+(lp726
+sS'VA Bealeton'
+p727
+(lp728
+F38.5830443
+aF-77.76777299999999
+asS'MA Gardner'
+p729
+(lp730
+F42.5750883
+aF-71.998133
+asS'VA Fredricksburg'
+p731
+(lp732
+sS'SD Chester'
+p733
+(lp734
+F43.8949129
+aF-96.92656050000001
+asS'MD Ocean City'
+p735
+(lp736
+F38.3365032
+aF-75.0849058
+asS'CA Corona/Lake Mathews'
+p737
+(lp738
+sS'CA Grass Valley'
+p739
+(lp740
+F39.2190608
+aF-121.0610606
+asS'MI Charlevoix'
+p741
+(lp742
+F45.3180632
+aF-85.2584004
+asS'CA Costa Mesa'
+p743
+(lp744
+F33.6411316
+aF-117.9186689
+asS'TX Spring'
+p745
+(lp746
+F30.0799405
+aF-95.41716009999999
+asS'NY New Paltz'
+p747
+(lp748
+F41.7385417
+aF-74.085245
+asS'VA False Cape State Park'
+p749
+(lp750
+F36.629898
+aF-75.900099
+asS'SC North Myrtle Beach'
+p751
+(lp752
+F33.8160058
+aF-78.680016
+asS'ID Middleton'
+p753
+(lp754
+F43.7068281
+aF-116.6201357
+asS'OR Summer Lake'
+p755
+(lp756
+sS'ON Owen Sound (Canada)'
+p757
+(lp758
+sS'AR Gosnell'
+p759
+(lp760
+F35.9597942
+aF-89.9720327
+asS'TN Gallatin'
+p761
+(lp762
+sS'IN Albion'
+p763
+(lp764
+F41.3956043
+aF-85.4244241
+asS'CO Gunnison'
+p765
+(lp766
+sS'OR Astoria'
+p767
+(lp768
+F46.1878841
+aF-123.8312534
+asS'ID Meridian'
+p769
+(lp770
+F43.6121087
+aF-116.3915131
+asS'CT Bristol'
+p771
+(lp772
+F41.67176480000001
+aF-72.9492703
+asS'MA Shrewsbury'
+p773
+(lp774
+F42.2959267
+aF-71.71284709999999
+asS'LA Lafayette'
+p775
+(lp776
+sS'WI Alma Center'
+p777
+(lp778
+sS'BC Milner (Canada)'
+p779
+(lp780
+sS'NY Staten Island'
+p781
+(lp782
+F40.5795317
+aF-74.1502007
+asS'ME South Berwick'
+p783
+(lp784
+F43.2345292
+aF-70.80950179999999
+asS'NJ Mount Holly'
+p785
+(lp786
+sS'OK Coweta'
+p787
+(lp788
+F35.9517674
+aF-95.65081400000001
+asS'MA Rutland'
+p789
+(lp790
+F42.3695086
+aF-71.9481211
+asS'UT Lindon'
+p791
+(lp792
+sS'AZ Sweetwater'
+p793
+(lp794
+F33.1319975
+aF-111.8406922
+asS'FL Zephyrhills'
+p795
+(lp796
+F28.2336196
+aF-82.18119469999999
+asS'FL Flagler Beach'
+p797
+(lp798
+F29.4749754
+aF-81.1270035
+asS'NY Hartsdale'
+p799
+(lp800
+F41.0189863
+aF-73.7981884
+asS'WI Brookfield'
+p801
+(lp802
+F43.0605671
+aF-88.1064787
+asS'VA Hampton'
+p803
+(lp804
+F37.0298687
+aF-76.34522179999999
+asS'FL Daytona Beach'
+p805
+(lp806
+F29.2108147
+aF-81.0228331
+asS'NV Las Vegas'
+p807
+(lp808
+F36.1699412
+aF-115.1398296
+asS'KY Owensboro'
+p809
+(lp810
+sS'MO Mount Vernon'
+p811
+(lp812
+sS'OR Milwaukie'
+p813
+(lp814
+F45.4462305
+aF-122.6392606
+asS'CA Roseville'
+p815
+(lp816
+F38.7521235
+aF-121.2880059
+asS'NV Crescent Valley'
+p817
+(lp818
+F40.41602779999999
+aF-116.5764745
+asS'FL Miramar'
+p819
+(lp820
+F25.9860762
+aF-80.30356019999999
+asS'UT Hyrum'
+p821
+(lp822
+F41.6340996
+aF-111.8521653
+asS'MO Morse Mill'
+p823
+(lp824
+sS'MD Brunswick'
+p825
+(lp826
+F39.3142682
+aF-77.6277679
+asS'GA Donaldsonville'
+p827
+(lp828
+F31.0404625
+aF-84.87909110000001
+asS'TX Cypress'
+p829
+(lp830
+sS'NC Sanford'
+p831
+(lp832
+F35.4798757
+aF-79.1802994
+asS'NM Roswell'
+p833
+(lp834
+F33.3942655
+aF-104.5230242
+asS'FL Winter Park'
+p835
+(lp836
+sS'WI Black River Falls'
+p837
+(lp838
+sS'FL Ponce Inlet'
+p839
+(lp840
+F29.0963729
+aF-80.9369983
+asS'TN Jonesborough'
+p841
+(lp842
+F36.2942722
+aF-82.4734787
+asS'IA Iowa City'
+p843
+(lp844
+F41.6611277
+aF-91.5301683
+asS'KS Ellsworth'
+p845
+(lp846
+sS'KY Alvaton'
+p847
+(lp848
+F36.8737874
+aF-86.3530456
+asS'CA Hollywood'
+p849
+(lp850
+F34.0928092
+aF-118.3286614
+asS'NH Londonderry/Hudson'
+p851
+(lp852
+F42.7647763
+aF-71.43980739999999
+asS'KS Highland'
+p853
+(lp854
+F39.8597208
+aF-95.26969849999999
+asS'NJ Lakehurst'
+p855
+(lp856
+sS'GA Marietta'
+p857
+(lp858
+F33.95260200000001
+aF-84.5499327
+asS'NY Obernburg'
+p859
+(lp860
+F41.8449909
+aF-75.00739949999999
+asS'ME Freeport'
+p861
+(lp862
+F43.8570065
+aF-70.1031201
+asS'IN Danville'
+p863
+(lp864
+F39.7606013
+aF-86.5263879
+asS'MN Deer River'
+p865
+(lp866
+F47.3328773
+aF-93.793048
+asS'VA Stafford'
+p867
+(lp868
+F38.4334566
+aF-77.4242972
+asS'AB Strathmore (Canada)'
+p869
+(lp870
+F51.0378523
+aF-113.4002873
+asS'WA Arlington'
+p871
+(lp872
+F48.1987118
+aF-122.1251418
+asS'CA Victorville'
+p873
+(lp874
+sS'AR Bentonville'
+p875
+(lp876
+sS'NC Wilson'
+p877
+(lp878
+F35.7212689
+aF-77.9155395
+asS'MD Baltimore'
+p879
+(lp880
+F39.2903848
+aF-76.6121893
+asS'MS Mize'
+p881
+(lp882
+sS'IN Fort Wayne'
+p883
+(lp884
+F41.079273
+aF-85.1393513
+asS'FL Tampa'
+p885
+(lp886
+F27.950575
+aF-82.4571776
+asS'MD Mt. Airy'
+p887
+(lp888
+F39.3762145
+aF-77.154704
+asS'MI Fenton'
+p889
+(lp890
+F42.7978061
+aF-83.7049498
+asS'CT Colchester'
+p891
+(lp892
+sS'PA West Bangor'
+p893
+(lp894
+sS'VA Manassas'
+p895
+(lp896
+F38.7509488
+aF-77.47526669999999
+asS'NY Mexico'
+p897
+(lp898
+sS'MN Alexandria'
+p899
+(lp900
+F45.8848164
+aF-95.3776663
+asS'NH Exeter'
+p901
+(lp902
+F42.9814292
+aF-70.9477546
+asS'PA Mountain Top'
+p903
+(lp904
+F41.16952690000001
+aF-75.87741900000002
+asS'TX Horizon City'
+p905
+(lp906
+sS'ND Sentinel Butte'
+p907
+(lp908
+sS'HI Kihei'
+p909
+(lp910
+sS'CA Agoura Hills'
+p911
+(lp912
+sS'FL Apollo Beach'
+p913
+(lp914
+F27.7730836
+aF-82.40759349999999
+asS'WI Kaukauna'
+p915
+(lp916
+F44.2780432
+aF-88.27205029999999
+asS'TX Millsap'
+p917
+(lp918
+F32.74818640000001
+aF-98.0092093
+asS'AL Auburn'
+p919
+(lp920
+F32.6098566
+aF-85.48078249999999
+asS'WI Greenville'
+p921
+(lp922
+sS'GA Atlanta'
+p923
+(lp924
+F33.7489954
+aF-84.3879824
+asS'CO Arvada'
+p925
+(lp926
+F39.8027644
+aF-105.0874842
+asS'OK Oklahoma City'
+p927
+(lp928
+F35.4675602
+aF-97.5164276
+asS'NJ Atlantic City'
+p929
+(lp930
+F39.3642834
+aF-74.4229266
+asS'NM Tijeras'
+p931
+(lp932
+F35.0795244
+aF-106.3878905
+asS'WI Palmyra'
+p933
+(lp934
+F42.8777882
+aF-88.58621219999999
+asS'NC Monroe'
+p935
+(lp936
+F34.9854275
+aF-80.5495112
+asS'NV Reno'
+p937
+(lp938
+F39.5296329
+aF-119.8138027
+asS'NY Yonkers'
+p939
+(lp940
+sS'WA Grand Coulee'
+p941
+(lp942
+sS'NC Siler City'
+p943
+(lp944
+F35.7234734
+aF-79.4622431
+asS'ID Post Falls'
+p945
+(lp946
+sS'NC Wallace'
+p947
+(lp948
+F34.735724
+aF-77.99526279999999
+asS'MD Brandywine'
+p949
+(lp950
+F38.6967833
+aF-76.8477485
+asS'CT New Milford'
+p951
+(lp952
+sS"MO O'Fallon"
+p953
+(lp954
+F38.8106075
+aF-90.69984769999999
+asS'ME Kittery area'
+p955
+(lp956
+F43.101715
+aF-70.7422155
+asS'GA Winder'
+p957
+(lp958
+F33.9926097
+aF-83.7201709
+asS'NJ Brick'
+p959
+(lp960
+F40.0578384
+aF-74.1371832
+asS'MI Milan'
+p961
+(lp962
+sS'CA Woodland Hills'
+p963
+(lp964
+sS'DE Bethany Beach'
+p965
+(lp966
+F38.5395564
+aF-75.0551806
+asS'WA Monroe'
+p967
+(lp968
+sS'OH Bethel'
+p969
+(lp970
+F38.96367710000001
+aF-84.0807664
+asS'FL Lithia'
+p971
+(lp972
+F27.8187623
+aF-82.1496049
+asS'VA Virginia Beach'
+p973
+(lp974
+F36.8529263
+aF-75.97798499999999
+asS'DE Bethany (Route 1)'
+p975
+(lp976
+sS'CO Montrose'
+p977
+(lp978
+F38.4783198
+aF-107.8761738
+asS'PA LaBelle'
+p979
+(lp980
+sS'CA Barstow'
+p981
+(lp982
+sS'WI Jackson'
+p983
+(lp984
+sS'FL Gainseville'
+p985
+(lp986
+F29.6516344
+aF-82.32482619999999
+asS'MI Detour Village'
+p987
+(lp988
+sS'CA Beaumont'
+p989
+(lp990
+sS'CO Boulder'
+p991
+(lp992
+F40.0149856
+aF-105.2705456
+asS'NY Malverne'
+p993
+(lp994
+F40.6789916
+aF-73.6740191
+asS'MD Curtis Bau'
+p995
+(lp996
+F39.2208578
+aF-76.5863882
+asS'OH Englewood'
+p997
+(lp998
+sS'PA Porter township'
+p999
+(lp1000
+F41.2410664
+aF-75.0844757
+asS'MO Branson'
+p1001
+(lp1002
+F36.6436731
+aF-93.21851439999999
+asS'FL Duck Key'
+p1003
+(lp1004
+sS'CA National City'
+p1005
+(lp1006
+F32.6781085
+aF-117.0991967
+asS'FL Bradenton'
+p1007
+(lp1008
+F27.4989278
+aF-82.5748194
+asS'CA Norwalk'
+p1009
+(lp1010
+sS'TX Austin'
+p1011
+(lp1012
+F30.267153
+aF-97.7430608
+asS'GA Crandall'
+p1013
+(lp1014
+F41.587273
+aF-87.78577500000002
+asS'FL Sunrise'
+p1015
+(lp1016
+F26.1669711
+aF-80.25659499999999
+asS'HI Kailua'
+p1017
+(lp1018
+F21.4022222
+aF-157.7394444
+asS'MO Waynesville'
+p1019
+(lp1020
+F37.8286516
+aF-92.2007227
+asS'IA Bettendorf'
+p1021
+(lp1022
+F41.56084999999999
+aF-90.48344
+asS'OH Blanchester'
+p1023
+(lp1024
+F39.2931174
+aF-83.9888205
+asS'NV Stateline'
+p1025
+(lp1026
+sS'ME Old Orchard Beach'
+p1027
+(lp1028
+sS'CT Wethersfield'
+p1029
+(lp1030
+sS'DC Washington, D.C.'
+p1031
+(lp1032
+F38.9071923
+aF-77.0368707
+asS'FL Orange Park'
+p1033
+(lp1034
+F30.1660736
+aF-81.706484
+asS'WI Elkhorn'
+p1035
+(lp1036
+F42.6727927
+aF-88.5445447
+asS'ON Carrying Place (Canada)'
+p1037
+(lp1038
+F44.047932
+aF-77.5795739
+asS'ID Weiser'
+p1039
+(lp1040
+F44.2509976
+aF-116.9693327
+asS'TX Richardson'
+p1041
+(lp1042
+F32.9483335
+aF-96.7298519
+asS'CA Fair Oaks'
+p1043
+(lp1044
+sS'GA Gainesville'
+p1045
+(lp1046
+F34.2978794
+aF-83.8240663
+asS'VA Hiltons'
+p1047
+(lp1048
+sS'WI Fitchburg'
+p1049
+(lp1050
+sS'MB Anola (Canada)'
+p1051
+(lp1052
+F49.8811655
+aF-96.6233317
+asS'ON Williamsford (Canada)'
+p1053
+(lp1054
+sS'HI Kaunakakai'
+p1055
+(lp1056
+F21.0933333
+aF-157.0238889
+asS'OH New Holland'
+p1057
+(lp1058
+F39.5539511
+aF-83.2568582
+asS'AZ Green Valley'
+p1059
+(lp1060
+sS'OH Liberty Township'
+p1061
+(lp1062
+sS'ON Blackstock (Canada)'
+p1063
+(lp1064
+sS'HI Kapaa'
+p1065
+(lp1066
+F22.0881391
+aF-159.3379818
+asS'PA Whitehall'
+p1067
+(lp1068
+F40.6572331
+aF-75.4985521
+asS'MI Ann Arbor'
+p1069
+(lp1070
+F42.2808256
+aF-83.7430378
+asS'ON Toronto (Canada)'
+p1071
+(lp1072
+F43.653226
+aF-79.3831843
+asS'IL Rantoul'
+p1073
+(lp1074
+F40.3083672
+aF-88.1558785
+asS'AZ Benson'
+p1075
+(lp1076
+F31.9678611
+aF-110.2945174
+asS'NF Conception Bay South (Canada)'
+p1077
+(lp1078
+F47.5083178
+aF-52.9940605
+asS'NJ South Amboy'
+p1079
+(lp1080
+F40.4778838
+aF-74.290702
+asS'CA Rocklin'
+p1081
+(lp1082
+F38.7907339
+aF-121.2357828
+asS'PA Honey Brook'
+p1083
+(lp1084
+sS'CT Ansonia'
+p1085
+(lp1086
+sS'FL Fort Lauderdale Beach'
+p1087
+(lp1088
+sS'IN Hobart'
+p1089
+(lp1090
+sS'AB Edmonton'
+p1091
+(lp1092
+sS'CO Pueblo'
+p1093
+(lp1094
+sS'WA Chelan'
+p1095
+(lp1096
+F47.8408323
+aF-120.0168079
+asS'GA Dallas'
+p1097
+(lp1098
+F33.9244531
+aF-84.8413056
+asS'NJ National Park'
+p1099
+(lp1100
+F39.8659466
+aF-75.1787901
+asS'TX Navasota'
+p1101
+(lp1102
+sS'FL Melbourne'
+p1103
+(lp1104
+F28.0836269
+aF-80.60810889999999
+asS'IA Ames'
+p1105
+(lp1106
+F42.0307812
+aF-93.63191309999999
+asS'ME Brooks'
+p1107
+(lp1108
+F44.5503501
+aF-69.120873
+asS'BC Burnaby (Canada)'
+p1109
+(lp1110
+F49.2488091
+aF-122.9805104
+asS'AL Montgomery'
+p1111
+(lp1112
+F32.3668052
+aF-86.2999689
+asS'NY Binghamton'
+p1113
+(lp1114
+F42.09868669999999
+aF-75.91797380000001
+asS'CA Lamont'
+p1115
+(lp1116
+F35.2596833
+aF-118.9142666
+asS'RI Bristol'
+p1117
+(lp1118
+sS'WA Buckley'
+p1119
+(lp1120
+sS'HI Lahaina'
+p1121
+(lp1122
+F20.8783333
+aF-156.6825
+asS'IL Marion'
+p1123
+(lp1124
+sS'NJ Lebanon'
+p1125
+(lp1126
+F40.6417683
+aF-74.83599869999999
+asS'IL Hometown'
+p1127
+(lp1128
+sS'IL Plainfield'
+p1129
+(lp1130
+F41.632223
+aF-88.2120315
+asS'AB Lloydminster (Canada)'
+p1131
+(lp1132
+F53.2779625
+aF-110.0061451
+asS'QC Marieville (Canada)'
+p1133
+(lp1134
+sS'UT Centerville'
+p1135
+(lp1136
+F40.9180005
+aF-111.8721601
+asS'NH New Ipswich'
+p1137
+(lp1138
+F42.7362307
+aF-71.8808499
+asS'OK Sand Springs'
+p1139
+(lp1140
+F36.1398102
+aF-96.108891
+asS'ME Corinna'
+p1141
+(lp1142
+F44.921174
+aF-69.2617131
+asS'CO Brighton'
+p1143
+(lp1144
+sS'NY Tappan'
+p1145
+(lp1146
+sS'MA Osterville'
+p1147
+(lp1148
+F41.6285902
+aF-70.3870055
+asS'NY Stony Point'
+p1149
+(lp1150
+sS'MD Elkton'
+p1151
+(lp1152
+F39.60677889999999
+aF-75.83327179999999
+asS'NJ Vineland'
+p1153
+(lp1154
+F39.4863773
+aF-75.02596369999999
+asS'MA Seekonk'
+p1155
+(lp1156
+F41.808434
+aF-71.3369972
+asS'CO La Veta'
+p1157
+(lp1158
+F37.5050118
+aF-105.0077747
+asS'FL Palm Beach Garden (near)'
+p1159
+(lp1160
+F26.8233946
+aF-80.13865469999999
+asS'GA Kingsland'
+p1161
+(lp1162
+F30.7999563
+aF-81.68982609999999
+asS'AZ Tucson'
+p1163
+(lp1164
+F32.2217429
+aF-110.926479
+asS'CA Chico'
+p1165
+(lp1166
+sS'UT Salt Lake City'
+p1167
+(lp1168
+F40.7607793
+aF-111.8910474
+asS'CA Pomona'
+p1169
+(lp1170
+F34.055103
+aF-117.7499909
+asS'NY New York City (over the Hudson)'
+p1171
+(lp1172
+sS'NY Niagara Falls'
+p1173
+(lp1174
+F43.0962143
+aF-79.0377388
+asS'NJ Mount Laurel'
+p1175
+(lp1176
+sS'NJ Bloomfield'
+p1177
+(lp1178
+sS'AB Grande Prairie (Cutbank Bridge Campground)(Canada)'
+p1179
+(lp1180
+sS'IL Illiopolis'
+p1181
+(lp1182
+F39.8536535
+aF-89.2420291
+asS'NY New York City (Brooklyn)'
+p1183
+(lp1184
+F40.6781784
+aF-73.9441579
+asS'NM Cibola County (SR 117, MM32)'
+p1185
+(lp1186
+sS'UT Heber City Canyon'
+p1187
+(lp1188
+sS'OR Forest Grove'
+p1189
+(lp1190
+F45.5198364
+aF-123.1106631
+asS'MA Somerville'
+p1191
+(lp1192
+F42.3875968
+aF-71.0994968
+asS'CA Encinitas'
+p1193
+(lp1194
+F33.0369867
+aF-117.2919818
+asS'QC Qu\xc3\xa9bec City (Canada)'
+p1195
+(lp1196
+F46.8138783
+aF-71.2079809
+asS'MA Pittsfielsd'
+p1197
+(lp1198
+F42.4500845
+aF-73.2453824
+asS'AZ Sedona'
+p1199
+(lp1200
+F34.8697395
+aF-111.7609896
+asS'NC Walkertown'
+p1201
+(lp1202
+F36.1754148
+aF-80.1531009
+asS'IL Rock Falls'
+p1203
+(lp1204
+sS'GA Newnan'
+p1205
+(lp1206
+F33.3806716
+aF-84.79965729999999
+asS'PA Warren'
+p1207
+(lp1208
+F41.8439486
+aF-79.1450445
+asS'AL Birmingham'
+p1209
+(lp1210
+F33.5206608
+aF-86.80248999999999
+asS'MT Absarokee'
+p1211
+(lp1212
+F45.5204982
+aF-109.4429444
+asS'MS Madison'
+p1213
+(lp1214
+F32.4618086
+aF-90.1153638
+asS'TN Bybee'
+p1215
+(lp1216
+F36.0481521
+aF-83.1793268
+asS'NY Cicero'
+p1217
+(lp1218
+F43.1763158
+aF-76.1141646
+asS'CA Mission Viejo'
+p1219
+(lp1220
+F33.6000232
+aF-117.6719953
+asS'AZ Oro Valley'
+p1221
+(lp1222
+sS'BC Surrey/Burnaby (Canada)'
+p1223
+(lp1224
+sS'CA Pittsburg/Antioch'
+p1225
+(lp1226
+F38.0157385
+aF-121.8618381
+asS'MN Pine island'
+p1227
+(lp1228
+F44.2013537
+aF-92.6462999
+asS'KS Wellington'
+p1229
+(lp1230
+F37.26530040000001
+aF-97.3717118
+asS'FL Plantation'
+p1231
+(lp1232
+F26.1275862
+aF-80.23310359999999
+asS'MN Randall'
+p1233
+(lp1234
+F46.0910771
+aF-94.50361989999999
+asS'WA Cowiche'
+p1235
+(lp1236
+F46.6710606
+aF-120.7139833
+asS'OR Eugene'
+p1237
+(lp1238
+F44.0520691
+aF-123.0867536
+asS'CA Sacramento'
+p1239
+(lp1240
+F38.5815719
+aF-121.4943996
+asS'IL Lake Villa'
+p1241
+(lp1242
+sS'NJ Washington'
+p1243
+(lp1244
+sS'WI Richfield'
+p1245
+(lp1246
+sS'ON Oakville (Canada)'
+p1247
+(lp1248
+F43.467517
+aF-79.6876659
+asS'AZ Gold Canyon'
+p1249
+(lp1250
+sS'PA Harrisburg'
+p1251
+(lp1252
+F40.2731911
+aF-76.8867008
+asS'CO Milliken'
+p1253
+(lp1254
+sS'NJ Camden'
+p1255
+(lp1256
+F39.9259463
+aF-75.1196199
+asS'NJ Asbury Park'
+p1257
+(lp1258
+F40.2203907
+aF-74.0120817
+asS'MO Cape Girardeau'
+p1259
+(lp1260
+F37.3058839
+aF-89.51814759999999
+asS'BC Fort Fraiser/Vanderhoof'
+p1261
+(lp1262
+F54.01397979999999
+aF-124.0129801
+asS'MS Oxford'
+p1263
+(lp1264
+F34.3664951
+aF-89.5192484
+asS'GA Grovetown'
+p1265
+(lp1266
+F33.4504157
+aF-82.1981764
+asS'TX Atascosa'
+p1267
+(lp1268
+F29.26483409999999
+aF-98.7348026
+asS'SD Brookings'
+p1269
+(lp1270
+sS'AB Banff (Canada)'
+p1271
+(lp1272
+F51.1783629
+aF-115.5707694
+asS'GA Byron'
+p1273
+(lp1274
+sS'ON Sagamok First Nation (Canada)'
+p1275
+(lp1276
+sS'NH Warner'
+p1277
+(lp1278
+F43.2556568
+aF-71.8334145
+asS'TX Alvord'
+p1279
+(lp1280
+F33.3584454
+aF-97.69475369999999
+asS'NY Kingston'
+p1281
+(lp1282
+F41.9270367
+aF-73.9973608
+asS'AZ Tempe'
+p1283
+(lp1284
+F33.4255104
+aF-111.9400054
+asS'TX Carrollton'
+p1285
+(lp1286
+F32.9756415
+aF-96.8899636
+asS'NJ Ventnor'
+p1287
+(lp1288
+F39.3403942
+aF-74.4773735
+asS'ON Mississauga (Canada)'
+p1289
+(lp1290
+F43.5890452
+aF-79.6441198
+asS'MS Moss Point'
+p1291
+(lp1292
+F30.4115881
+aF-88.53446009999999
+asS'TN Clinton'
+p1293
+(lp1294
+F36.1034126
+aF-84.1318632
+asS'MO Dixon'
+p1295
+(lp1296
+F37.9917061
+aF-92.0937783
+asS'NY Baldwinsville'
+p1297
+(lp1298
+F43.15867859999999
+aF-76.33270949999999
+asS'CT Putnam'
+p1299
+(lp1300
+sS'IL Lake Zurich'
+p1301
+(lp1302
+sS'NY Spencerport'
+p1303
+(lp1304
+F43.18645009999999
+aF-77.8038972
+asS'FL Englewood'
+p1305
+(lp1306
+sS'PA Collegeville'
+p1307
+(lp1308
+sS'PA Morgantown'
+p1309
+(lp1310
+sS'CA Santa Fe Springs'
+p1311
+(lp1312
+sS'KY Louisville'
+p1313
+(lp1314
+F38.2526647
+aF-85.7584557
+asS'IN Westport'
+p1315
+(lp1316
+F39.1758853
+aF-85.57302729999999
+asS'CA Walnut Creek'
+p1317
+(lp1318
+F37.9100783
+aF-122.0651819
+asS'WA Ritzville'
+p1319
+(lp1320
+sS'CA Redding'
+p1321
+(lp1322
+F40.5865396
+aF-122.3916754
+asS'IN Greensburg'
+p1323
+(lp1324
+F39.3372722
+aF-85.483581
+asS'WA Issaquah'
+p1325
+(lp1326
+F47.5301011
+aF-122.0326191
+asS'NE Omaha'
+p1327
+(lp1328
+F41.2523634
+aF-95.99798829999999
+asS'FL Sarasota'
+p1329
+(lp1330
+F27.3364347
+aF-82.53065269999999
+asS'VA Hurt'
+p1331
+(lp1332
+sS'TX Hutto'
+p1333
+(lp1334
+F30.54269949999999
+aF-97.5466702
+asS'NJ Fort Lee'
+p1335
+(lp1336
+sS'CA Pasadena'
+p1337
+(lp1338
+F34.1477849
+aF-118.1445155
+asS'NY Beacon'
+p1339
+(lp1340
+F41.5048158
+aF-73.9695832
+asS'IN Parker City'
+p1341
+(lp1342
+sS'TX Katy'
+p1343
+(lp1344
+F29.7857853
+aF-95.8243956
+asS'OR Keizer'
+p1345
+(lp1346
+F44.9901194
+aF-123.0262077
+asS'PA Gouldsboro'
+p1347
+(lp1348
+F41.2445293
+aF-75.4560183
+asS'WI Port Washington'
+p1349
+(lp1350
+sS'ME Fairfield'
+p1351
+(lp1352
+sS'AZ Nelson'
+p1353
+(lp1354
+sS'FL Davenport'
+p1355
+(lp1356
+F28.1614046
+aF-81.60174169999999
+asS'NJ South Orange'
+p1357
+(lp1358
+F40.7489277
+aF-74.2609903
+asS'VA Alexandria'
+p1359
+(lp1360
+F38.8048355
+aF-77.0469214
+asS'WI Pell Lake'
+p1361
+(lp1362
+sS'SC Summerville'
+p1363
+(lp1364
+F33.0185039
+aF-80.17564809999999
+asS'OR Oregon City'
+p1365
+(lp1366
+F45.3573429
+aF-122.6067583
+asS'OR La Pine'
+p1367
+(lp1368
+F43.67039949999999
+aF-121.503636
+asS'MA North Dartmouth'
+p1369
+(lp1370
+F41.640396
+aF-70.9694555
+asS'AZ Yuma'
+p1371
+(lp1372
+F32.6926512
+aF-114.6276916
+asS'WA Malo'
+p1373
+(lp1374
+F48.8017547
+aF-118.6080172
+asS'NV Pahrump'
+p1375
+(lp1376
+sS'NY New York City (Queens)'
+p1377
+(lp1378
+F40.7282239
+aF-73.7948516
+asS'AZ Mesa'
+p1379
+(lp1380
+F33.4151843
+aF-111.8314724
+asS'NJ Hamilton'
+p1381
+(lp1382
+F40.2115109
+aF-74.6796651
+asS'NC Oak Island'
+p1383
+(lp1384
+sS'NC Candor'
+p1385
+(lp1386
+F35.2951421
+aF-79.7453163
+asS'BC Langley (Canada)'
+p1387
+(lp1388
+F49.1041779
+aF-122.6603519
+asS'SC Simpsonville'
+p1389
+(lp1390
+F34.7370639
+aF-82.25428339999999
+asS'NE Elkhorn'
+p1391
+(lp1392
+F41.2831958
+aF-96.2368465
+asS'UT St. George (40 miles outside of)'
+p1393
+(lp1394
+sS'NJ Cranford'
+p1395
+(lp1396
+F40.6584212
+aF-74.2995928
+asS'IA Bagley'
+p1397
+(lp1398
+F41.8460964
+aF-94.42996939999999
+asS'NM Alto'
+p1399
+(lp1400
+sS'FL Miami'
+p1401
+(lp1402
+F25.7616798
+aF-80.1917902
+asS'UT Moab'
+p1403
+(lp1404
+sS'IA Muscatine'
+p1405
+(lp1406
+sS'CT Columbia'
+p1407
+(lp1408
+F41.7020432
+aF-72.30119169999999
+asS'WA Shoreline'
+p1409
+(lp1410
+sS'CT Manchester'
+p1411
+(lp1412
+F41.7759301
+aF-72.52150089999999
+asS'PA Millvale'
+p1413
+(lp1414
+F40.480069
+aF-79.9783862
+asS'WI Caledonia'
+p1415
+(lp1416
+F42.8077958
+aF-87.92424799999999
+asS'VA Norton'
+p1417
+(lp1418
+F36.933433
+aF-82.6290459
+asS'NM Rodeo'
+p1419
+(lp1420
+sS'CO Longmont'
+p1421
+(lp1422
+F40.1672068
+aF-105.1019275
+asS'ON Sharron (Canada)'
+p1423
+(lp1424
+sS'NJ Bay Head'
+p1425
+(lp1426
+sS'FL Palm Harbor'
+p1427
+(lp1428
+F28.0780718
+aF-82.7637127
+asS'IA Cedar Falls'
+p1429
+(lp1430
+sS'MN Hibbing'
+p1431
+(lp1432
+F47.42715459999999
+aF-92.9376887
+asS'OK Shawnee'
+p1433
+(lp1434
+F35.3272928
+aF-96.9253004
+asS'CA Mount Laguna'
+p1435
+(lp1436
+sS'WI Edgerton'
+p1437
+(lp1438
+sS'NH Brookline'
+p1439
+(lp1440
+F42.73481020000001
+aF-71.6581267
+asS'MI Southfield'
+p1441
+(lp1442
+F42.4733688
+aF-83.2218731
+asS'SD Tea'
+p1443
+(lp1444
+F43.44636680000001
+aF-96.83588470000001
+asS'PA Bethlehem'
+p1445
+(lp1446
+F40.6259316
+aF-75.37045789999999
+asS'NY Whitehall'
+p1447
+(lp1448
+F43.5556231
+aF-73.40372339999999
+asS'OH Medina'
+p1449
+(lp1450
+F41.143245
+aF-81.8552196
+asS'NY Schaghticoke'
+p1451
+(lp1452
+F42.9000773
+aF-73.5853939
+asS'CA Topanga'
+p1453
+(lp1454
+F34.0919452
+aF-118.6021321
+asS'KS Turner'
+p1455
+(lp1456
+F39.0650304
+aF-94.70188999999999
+asS'CA Los Banos'
+p1457
+(lp1458
+sS'TN Eads'
+p1459
+(lp1460
+sS'MA South Hadley'
+p1461
+(lp1462
+F42.2591729
+aF-72.57479339999999
+asS'GA Reynolds'
+p1463
+(lp1464
+F32.5598685
+aF-84.09630039999999
+asS'NC Edneyville'
+p1465
+(lp1466
+F35.4311421
+aF-82.32348429999999
+asS'MD New Market'
+p1467
+(lp1468
+F39.3826031
+aF-77.26942780000002
+asS'MD Laurel'
+p1469
+(lp1470
+F39.0992752
+aF-76.8483061
+asS'PA Pittsburgh (near)'
+p1471
+(lp1472
+sS'OH Boardman'
+p1473
+(lp1474
+sS'OR Seaside'
+p1475
+(lp1476
+sS'ID Rexburg'
+p1477
+(lp1478
+F43.8231096
+aF-111.7924237
+asS'NV Henderson'
+p1479
+(lp1480
+sS'OH Pataskala'
+p1481
+(lp1482
+sS'LA Franklinton'
+p1483
+(lp1484
+F30.8471283
+aF-90.15314099999999
+asS'NC Tryon Equestrian Center'
+p1485
+(lp1486
+sS'SC Millwood Community to the outskirts of Andrews'
+p1487
+(lp1488
+sS'CA San Ramon'
+p1489
+(lp1490
+sS'ME Palermo'
+p1491
+(lp1492
+sS'MA Longmeadow'
+p1493
+(lp1494
+sS'WA Lake Umatilla; John Day Dam (~30 mi. E of;  approximate)'
+p1495
+(lp1496
+sS'KS Lawrence'
+p1497
+(lp1498
+F38.9716689
+aF-95.2352501
+asS'NC Fayetteville'
+p1499
+(lp1500
+F35.0526641
+aF-78.87835849999999
+asS'CT Jewett City'
+p1501
+(lp1502
+F41.606765
+aF-71.980908
+asS'AZ Benson (north of)'
+p1503
+(lp1504
+F31.9678611
+aF-110.2945174
+asS'WA Longview'
+p1505
+(lp1506
+sS'WA Port Angeles'
+p1507
+(lp1508
+F48.118146
+aF-123.4307413
+asS'PA Biglerville'
+p1509
+(lp1510
+F39.9303715
+aF-77.2480391
+asS'TX Harper'
+p1511
+(lp1512
+F30.2999195
+aF-99.2442144
+asS'OR McMinnville'
+p1513
+(lp1514
+F45.21011619999999
+aF-123.1987163
+asS'OR Colton'
+p1515
+(lp1516
+F45.1721192
+aF-122.4374803
+asS'TN Hendersonville'
+p1517
+(lp1518
+sS'WI West bend'
+p1519
+(lp1520
+F43.4252776
+aF-88.1834277
+asS'NC Hertford'
+p1521
+(lp1522
+sS'AB Edmonton (Canada)'
+p1523
+(lp1524
+F53.544389
+aF-113.4909267
+asS'NM Jal (15 miles E of)'
+p1525
+(lp1526
+sS'WA Hoquiam'
+p1527
+(lp1528
+F46.9809247
+aF-123.8893348
+asS'SC Beaufort'
+p1529
+(lp1530
+F32.4364815
+aF-80.66914799999999
+asS'TN Fayetteville'
+p1531
+(lp1532
+F35.1520266
+aF-86.57055079999999
+asS'MN Eden Prarie'
+p1533
+(lp1534
+F44.8546856
+aF-93.47078599999999
+asS'GA Austell'
+p1535
+(lp1536
+F33.8126059
+aF-84.6343783
+asS'CA Orange'
+p1537
+(lp1538
+sS'FL Brandon'
+p1539
+(lp1540
+F27.937801
+aF-82.2859247
+asS'DE Frederica'
+p1541
+(lp1542
+F39.0090017
+aF-75.46575419999999
+asS'MO Springfield'
+p1543
+(lp1544
+F37.2089572
+aF-93.29229889999999
+asS'CA San Dimas'
+p1545
+(lp1546
+F34.1066756
+aF-117.8067257
+asS'NY Sylvan Beach'
+p1547
+(lp1548
+sS'PA Charleroi'
+p1549
+(lp1550
+F40.1378499
+aF-79.89810349999999
+asS'WY Recluse'
+p1551
+(lp1552
+F44.7409267
+aF-105.7080682
+asS'CA Downy'
+p1553
+(lp1554
+F51.532684
+aF-105.0162486
+asS'CA San Jose'
+p1555
+(lp1556
+F37.3382082
+aF-121.8863286
+asS'RI Seekonk (general area)'
+p1557
+(lp1558
+F41.8043492
+aF-71.33828129999999
+asS'IN Newburgh'
+p1559
+(lp1560
+sS'NY Clarence Center'
+p1561
+(lp1562
+F43.0106139
+aF-78.6375283
+asS'OR Happy Valley'
+p1563
+(lp1564
+F45.446787
+aF-122.5303688
+asS'MA Wakefield'
+p1565
+(lp1566
+sS'CT Harwinton'
+p1567
+(lp1568
+F41.7712762
+aF-73.0598438
+asS'OR Brightwood'
+p1569
+(lp1570
+sS'MI Holland'
+p1571
+(lp1572
+F42.7875235
+aF-86.1089301
+asS'FL Hollywood'
+p1573
+(lp1574
+F26.0112014
+aF-80.1494901
+asS'TX Liberty Hill'
+p1575
+(lp1576
+F30.6649119
+aF-97.9225161
+asS'LA Walker'
+p1577
+(lp1578
+F30.4879678
+aF-90.86148779999999
+asS'GA Savannah'
+p1579
+(lp1580
+F32.0835407
+aF-81.09983419999999
+asS"FL Land O'Lakes"
+p1581
+(lp1582
+F28.2188992
+aF-82.45759380000001
+asS'WA Walla Walla'
+p1583
+(lp1584
+F46.0645809
+aF-118.3430209
+asS'IA Newton'
+p1585
+(lp1586
+F41.7033177
+aF-93.05735330000002
+asS'ID Atlanta'
+p1587
+(lp1588
+sS'NV Carson City'
+p1589
+(lp1590
+F39.1637984
+aF-119.7674034
+asS'WA Everett'
+p1591
+(lp1592
+F47.9789848
+aF-122.2020794
+asS'NY Hicksville'
+p1593
+(lp1594
+sS'NY Amherst'
+p1595
+(lp1596
+F42.97900670000001
+aF-78.792272
+asS'ND Sarles'
+p1597
+(lp1598
+F48.9458399
+aF-98.995961
+asS'ME Westbrook'
+p1599
+(lp1600
+sS'MT Stevensville'
+p1601
+(lp1602
+F46.50992249999999
+aF-114.0931588
+asS'NY Centereach'
+p1603
+(lp1604
+sS'MS Philadelphia'
+p1605
+(lp1606
+sS'AZ Glendale'
+p1607
+(lp1608
+F33.5386523
+aF-112.1859866
+asS'NY Herkimer'
+p1609
+(lp1610
+sS'WA Parkland'
+p1611
+(lp1612
+F47.1553769
+aF-122.4340113
+asS'OR Tigard'
+p1613
+(lp1614
+F45.4312294
+aF-122.7714861
+asS'WA Snoqualmie'
+p1615
+(lp1616
+F47.5287132
+aF-121.8253906
+asS'CA Campbell'
+p1617
+(lp1618
+F37.2871651
+aF-121.9499568
+asS'MS Lucedale'
+p1619
+(lp1620
+sS'FL St. Petersburg'
+p1621
+(lp1622
+F27.7518284
+aF-82.6267345
+asS'GA Douglasville'
+p1623
+(lp1624
+F33.7514966
+aF-84.7477136
+asS'OR Beaverton'
+p1625
+(lp1626
+F45.48706199999999
+aF-122.8037102
+asS'FL Miami (South Dade)'
+p1627
+(lp1628
+sS'OK Midwest City'
+p1629
+(lp1630
+sS'AR Fountain Hill'
+p1631
+(lp1632
+F33.3578937
+aF-91.85040839999999
+asS'VA Virginia Beach (City of)'
+p1633
+(lp1634
+F36.8529263
+aF-75.97798499999999
+asS'OR Portland'
+p1635
+(lp1636
+F45.5230622
+aF-122.6764816
+asS'GA Macon'
+p1637
+(lp1638
+F32.8406946
+aF-83.6324022
+asS'CA soledad'
+p1639
+(lp1640
+sS'FL Port Charlotte'
+p1641
+(lp1642
+sS'FL Seagrove'
+p1643
+(lp1644
+F30.3170641
+aF-86.1294365
+asS'MI Paw Paw'
+p1645
+(lp1646
+F42.2178171
+aF-85.89112460000001
+asS'SC Ladson'
+p1647
+(lp1648
+F32.9857275
+aF-80.1098123
+asS'WI Baraboo'
+p1649
+(lp1650
+F43.4710944
+aF-89.74429060000001
+asS'MB Winnipeg (Canada)'
+p1651
+(lp1652
+F49.895136
+aF-97.13837439999999
+asS'MT Florence'
+p1653
+(lp1654
+sS'OH Toledo'
+p1655
+(lp1656
+F41.6639383
+aF-83.55521200000001
+asS'AR Van Buren'
+p1657
+(lp1658
+F35.436756
+aF-94.34826799999999
+asS'MO Columbia'
+p1659
+(lp1660
+F38.9517053
+aF-92.3340724
+asS'ON Arnprior (Canada)'
+p1661
+(lp1662
+sS'CO Louisville'
+p1663
+(lp1664
+sS'IN McCordsville'
+p1665
+(lp1666
+F39.8942911
+aF-85.91978379999999
+asS'CA San Diego'
+p1667
+(lp1668
+F32.715738
+aF-117.1610838
+asS'TN Trezevant'
+p1669
+(lp1670
+sS'MI Commerce'
+p1671
+(lp1672
+sS'NM Las Cruces'
+p1673
+(lp1674
+F32.3199396
+aF-106.7636538
+asS'PA State College'
+p1675
+(lp1676
+sS'MA South Gardner'
+p1677
+(lp1678
+F42.5750883
+aF-71.998133
+asS'ID Emmett'
+p1679
+(lp1680
+F43.8734978
+aF-116.4993012
+asS'TN Memphis'
+p1681
+(lp1682
+F35.1495343
+aF-90.0489801
+asS'MD Boonsboro'
+p1683
+(lp1684
+F39.5062108
+aF-77.6524907
+asS'AB Jasper (Canada)'
+p1685
+(lp1686
+F52.8736786
+aF-118.0813581
+asS'ME Lisbon'
+p1687
+(lp1688
+F44.0316013
+aF-70.1043704
+asS'NE Galloway'
+p1689
+(lp1690
+sS'WI Madison'
+p1691
+(lp1692
+F43.076592
+aF-89.4124875
+asS'FL Holiday'
+p1693
+(lp1694
+F28.18779
+aF-82.73954540000001
+asS'OH Jeromesville'
+p1695
+(lp1696
+F40.8042238
+aF-82.195712
+asS'VA Fairfax'
+p1697
+(lp1698
+F38.84622359999999
+aF-77.30637329999999
+asS'MD College Park'
+p1699
+(lp1700
+sS'IL Round Lake'
+p1701
+(lp1702
+sS'RI South Kingstown'
+p1703
+(lp1704
+F41.4475686
+aF-71.524667
+asS'VA Richmond'
+p1705
+(lp1706
+sS'AZ Kingman'
+p1707
+(lp1708
+F35.189443
+aF-114.0530065
+asS'OR Aumsville'
+p1709
+(lp1710
+F44.8409548
+aF-122.8709243
+asS'PA Riegelsville'
+p1711
+(lp1712
+F40.5942673
+aF-75.195453
+asS'NV las vegas'
+p1713
+(lp1714
+F36.1699412
+aF-115.1398296
+asS'NV Mesquite'
+p1715
+(lp1716
+sS'KS Wichita'
+p1717
+(lp1718
+F37.68717609999999
+aF-97.33005299999999
+asS'FL Valrico'
+p1719
+(lp1720
+F27.9462615
+aF-82.2420317
+asS'OH Navarre'
+p1721
+(lp1722
+F40.7245032
+aF-81.5220653
+asS'FL Holmes Beach'
+p1723
+(lp1724
+F27.4953156
+aF-82.7109329
+asS'IA Robins'
+p1725
+(lp1726
+sS'NE Ashland'
+p1727
+(lp1728
+F41.0393413
+aF-96.3683157
+asS'UT Midvale'
+p1729
+(lp1730
+F40.6110589
+aF-111.8999353
+asS'WA Edmonds'
+p1731
+(lp1732
+F47.8106521
+aF-122.3773552
+asS'AZ Gilbert'
+p1733
+(lp1734
+F33.3528264
+aF-111.789027
+asS'VT Windsor'
+p1735
+(lp1736
+F43.4799996
+aF-72.3865679
+asS'PA Freeland'
+p1737
+(lp1738
+F41.0167507
+aF-75.897143
+asS'AB Lethbridge (Canada)'
+p1739
+(lp1740
+sS'MI Traverse City'
+p1741
+(lp1742
+sS'MA West Newbury'
+p1743
+(lp1744
+F42.8014795
+aF-70.989778
+asS'NH Farmington'
+p1745
+(lp1746
+F43.3897609
+aF-71.065062
+asS'AZ Queen Creek'
+p1747
+(lp1748
+F33.2486638
+aF-111.6342993
+asS'WI River Falls'
+p1749
+(lp1750
+F44.8526697
+aF-92.6206021
+asS'IN Gary'
+p1751
+(lp1752
+F41.5933696
+aF-87.3464271
+asS'TX Burnet'
+p1753
+(lp1754
+F30.75823759999999
+aF-98.2283585
+asS'NC Corolla'
+p1755
+(lp1756
+F36.3802879
+aF-75.8307777
+asS'NC Richlands'
+p1757
+(lp1758
+F34.8993297
+aF-77.5466342
+asS'CA Valencia'
+p1759
+(lp1760
+F34.456151
+aF-118.5713823
+asS'CO Grant'
+p1761
+(lp1762
+sS'CO Castle Rock'
+p1763
+(lp1764
+F39.3722121
+aF-104.8560902
+asS'WI Waupun'
+p1765
+(lp1766
+sS'UT Virgin'
+p1767
+(lp1768
+F37.208316
+aF-113.1882792
+asS'CA Valle Vista'
+p1769
+(lp1770
+F33.7477981
+aF-116.8933555
+asS'TN Bellevue'
+p1771
+(lp1772
+sS'KY Frankfort'
+p1773
+(lp1774
+sS'MD Fort Meade'
+p1775
+(lp1776
+F39.1137602
+aF-76.7267773
+asS'MD Jarrettsville'
+p1777
+(lp1778
+F39.60455
+aF-76.4777422
+asS'CA Santa Ana'
+p1779
+(lp1780
+F33.7455731
+aF-117.8678338
+asS'IL Champaign'
+p1781
+(lp1782
+F40.1164204
+aF-88.2433829
+asS'WA Tacoma'
+p1783
+(lp1784
+F47.2528768
+aF-122.4442906
+asS'MO Lees Summit'
+p1785
+(lp1786
+sS'FL Deltona'
+p1787
+(lp1788
+F28.9005446
+aF-81.26367379999999
+asS'OH Kettering'
+p1789
+(lp1790
+F39.68950359999999
+aF-84.1688274
+asS'CA Lakeside'
+p1791
+(lp1792
+sS'IL Green Garden Township'
+p1793
+(lp1794
+F41.44097379999999
+aF-87.8353278
+asS'TN Hixson'
+p1795
+(lp1796
+F35.137265
+aF-85.2368219
+asS'MI Detroit'
+p1797
+(lp1798
+F42.331427
+aF-83.0457538
+asS'MT Missoula'
+p1799
+(lp1800
+F46.87871759999999
+aF-113.996586
+asS'PA Bushkill Township'
+p1801
+(lp1802
+F40.7893796
+aF-75.329557
+asS'NC Wilkesboro'
+p1803
+(lp1804
+F36.1459649
+aF-81.1606401
+asS'MD Halethorpe'
+p1805
+(lp1806
+F39.2401735
+aF-76.6806441
+asS'WA Harrington'
+p1807
+(lp1808
+F47.4809872
+aF-118.2544187
+asS'NJ Howell'
+p1809
+(lp1810
+F40.1645785
+aF-74.2082671
+asS'UT Clive'
+p1811
+(lp1812
+sS'MI Rose City'
+p1813
+(lp1814
+F44.4214062
+aF-84.1166674
+asS'GA Waleska'
+p1815
+(lp1816
+sS'CA Palm Desert/La Quinta'
+p1817
+(lp1818
+sS'WA Cliffdell'
+p1819
+(lp1820
+sS'NY Amherst/Tonawanda'
+p1821
+(lp1822
+F42.9855662
+aF-78.8232092
+asS'PA Moon'
+p1823
+(lp1824
+F40.51697670000001
+aF-80.22134770000001
+asS'GA Rome'
+p1825
+(lp1826
+F34.257038
+aF-85.1646726
+asS'ME E. Parsonsfield'
+p1827
+(lp1828
+sS'MN Norwood Young America'
+p1829
+(lp1830
+sS'OK Skiatook'
+p1831
+(lp1832
+F36.3684245
+aF-96.0013847
+asS'MI Lansing'
+p1833
+(lp1834
+F42.732535
+aF-84.5555347
+asS'AZ Surprise'
+p1835
+(lp1836
+sS'AZ Florence'
+p1837
+(lp1838
+F33.0314508
+aF-111.3873431
+asS'CT Niantic'
+p1839
+(lp1840
+F41.3253756
+aF-72.1931338
+asS'NY Bloomingburg'
+p1841
+(lp1842
+F41.5542603
+aF-74.4396014
+asS'TX Copperas Cove'
+p1843
+(lp1844
+F31.124062
+aF-97.90307849999999
+asS'UT Winnemucca'
+p1845
+(lp1846
+F39.0130145
+aF-114.1251992
+asS'NS Yarmouth (Nova Scotia)(Canada)'
+p1847
+(lp1848
+F43.8374576
+aF-66.11738199999999
+asS'FL Crystal River'
+p1849
+(lp1850
+F28.902479
+aF-82.59260119999999
+asS'MI Gladwin'
+p1851
+(lp1852
+F43.9808549
+aF-84.48640069999999
+asS'AB Grande Prairie (Canada)'
+p1853
+(lp1854
+F55.1699396
+aF-118.7986152
+asS'MI Lincoln Park'
+p1855
+(lp1856
+sS'NY Watervliet'
+p1857
+(lp1858
+F42.7300783
+aF-73.7012299
+asS'NC Goldsboro'
+p1859
+(lp1860
+F35.3848841
+aF-77.9927651
+asS'WY Sheridan'
+p1861
+(lp1862
+sS'ME Bowdoinham'
+p1863
+(lp1864
+F44.0091821
+aF-69.8968927
+asS'PA Mc Murray'
+p1865
+(lp1866
+F40.2778478
+aF-80.0839431
+asS'NY Rosendale'
+p1867
+(lp1868
+F41.8443125
+aF-74.0810669
+asS'NS Glace Bay (Canada)'
+p1869
+(lp1870
+F46.1969191
+aF-59.9570044
+asS'KY Danville'
+p1871
+(lp1872
+F37.6456329
+aF-84.77217019999999
+asS'WA Mukilteo'
+p1873
+(lp1874
+sS'AL Vestavia'
+p1875
+(lp1876
+F33.4487183
+aF-86.7877668
+asS'IA Marion'
+p1877
+(lp1878
+F42.033279
+aF-91.5968958
+asS'MO Steelville'
+p1879
+(lp1880
+F37.9680999
+aF-91.35486800000001
+asS'OK Edmond'
+p1881
+(lp1882
+F35.6528323
+aF-97.47809540000002
+asS'KS Olathe'
+p1883
+(lp1884
+F38.8813958
+aF-94.81912849999999
+asS'OK Yukon'
+p1885
+(lp1886
+F35.5067215
+aF-97.76254410000001
+asS'CA El Cajon'
+p1887
+(lp1888
+F32.7947731
+aF-116.9625269
+asS'HI Kahana'
+p1889
+(lp1890
+F20.9765868
+aF-156.6773734
+asS'NC Como'
+p1891
+(lp1892
+sS'BC Prince Rupert (Canada)'
+p1893
+(lp1894
+F54.3150367
+aF-130.3208187
+asS'CA San Anselmo'
+p1895
+(lp1896
+F37.9746458
+aF-122.5616448
+asS'FL Miami Beach'
+p1897
+(lp1898
+F25.790654
+aF-80.1300455
+asS'NC Myrtle Beach'
+p1899
+(lp1900
+sS'MT Helena'
+p1901
+(lp1902
+F46.5883707
+aF-112.0245054
+asS'VA Newport News'
+p1903
+(lp1904
+F37.0870821
+aF-76.4730122
+asS'CO Hasty'
+p1905
+(lp1906
+sS'OH Huber Heights'
+p1907
+(lp1908
+F39.843947
+aF-84.12466080000002
+asS'LA Slidell'
+p1909
+(lp1910
+F30.2751945
+aF-89.78117449999999
+asS'FL Waverly'
+p1911
+(lp1912
+sS'WV Point Pleasant'
+p1913
+(lp1914
+F38.8445251
+aF-82.1370889
+asS'NC Hamlet'
+p1915
+(lp1916
+F34.8848775
+aF-79.6942222
+asS'VA Chesapeake'
+p1917
+(lp1918
+sS'CA Oxnard'
+p1919
+(lp1920
+F34.1975048
+aF-119.1770516
+asS'NH Nashua'
+p1921
+(lp1922
+F42.7653662
+aF-71.46756599999999
+asS'WI Beaver Dam'
+p1923
+(lp1924
+F43.4577692
+aF-88.837329
+asS'ID Twin Falls'
+p1925
+(lp1926
+F42.5629668
+aF-114.4608711
+asS'WA Duvall'
+p1927
+(lp1928
+sS'RI Warwick'
+p1929
+(lp1930
+sS'WA Lacey'
+p1931
+(lp1932
+F47.03426289999999
+aF-122.8231915
+asS'PA Monroeville'
+p1933
+(lp1934
+F40.4211798
+aF-79.7881024
+asS'MA Wilmington'
+p1935
+(lp1936
+F42.5481714
+aF-71.1724467
+asS'WI Lake Mills'
+p1937
+(lp1938
+sS'CA Culver City'
+p1939
+(lp1940
+sS'MA Nantucket'
+p1941
+(lp1942
+F41.2834704
+aF-70.099451
+asS'IL Cairo'
+p1943
+(lp1944
+sS'AK Anchorage'
+p1945
+(lp1946
+F61.2180556
+aF-149.9002778
+asS'VT South Burlington'
+p1947
+(lp1948
+F44.4669941
+aF-73.1709604
+asS'WA Shelton'
+p1949
+(lp1950
+F47.2150945
+aF-123.1007066
+asS'SC Hilton Head Island'
+p1951
+(lp1952
+F32.216316
+aF-80.752608
+asS'IA Eldora'
+p1953
+(lp1954
+F42.3680382
+aF-93.10575759999999
+asS'ME Carrabassett Valley'
+p1955
+(lp1956
+sS'ME West Gardiner'
+p1957
+(lp1958
+sS'IN Kokomo'
+p1959
+(lp1960
+F40.486427
+aF-86.13360329999999
+asS'OH Galion'
+p1961
+(lp1962
+sS'KY McQuady'
+p1963
+(lp1964
+sS'MN Taylors Falls'
+p1965
+(lp1966
+sS'NY White Plains'
+p1967
+(lp1968
+F41.03398620000001
+aF-73.7629097
+asS'MT Whitefish'
+p1969
+(lp1970
+F48.4106373
+aF-114.3352652
+asS'GA Cataula'
+p1971
+(lp1972
+sS'NJ Hamburg'
+p1973
+(lp1974
+F41.1534294
+aF-74.5762713
+asS'KY Richmond'
+p1975
+(lp1976
+sS'SC Myrtle Beach'
+p1977
+(lp1978
+F33.6890603
+aF-78.8866943
+asS'OH Newton Falls'
+p1979
+(lp1980
+sS'FL Jacksonville'
+p1981
+(lp1982
+F30.3321838
+aF-81.65565099999999
+asS'MN Fredenberg Township'
+p1983
+(lp1984
+sS'MI Hart'
+p1985
+(lp1986
+sS'CA Aliso Viejo'
+p1987
+(lp1988
+F33.5676842
+aF-117.7256083
+asS'AL Tuscaloosa'
+p1989
+(lp1990
+F33.2098407
+aF-87.56917349999999
+asS'GA Duluth'
+p1991
+(lp1992
+F34.0028786
+aF-84.1446376
+asS'DE Bear'
+p1993
+(lp1994
+F35.268949
+aF-95.4888653
+asS'UT Heber'
+p1995
+(lp1996
+sS'CA Tarzana'
+p1997
+(lp1998
+sS'MA Dedham'
+p1999
+(lp2000
+F42.2436085
+aF-71.1676536
+asS'PA Holland'
+p2001
+(lp2002
+F40.2010288
+aF-74.9722322
+asS'TX Seguin'
+p2003
+(lp2004
+F29.5688411
+aF-97.9647269
+asS'VA Gloucester'
+p2005
+(lp2006
+F37.4098631
+aF-76.52661739999999
+asS'TX Friendswood'
+p2007
+(lp2008
+sS'OH Sylvania'
+p2009
+(lp2010
+F41.7189392
+aF-83.7129935
+asS'IA Creston'
+p2011
+(lp2012
+F41.0586002
+aF-94.3613474
+asS'MI Manistique'
+p2013
+(lp2014
+F45.9577506
+aF-86.2462523
+asS'NY Flanders'
+p2015
+(lp2016
+sS'CO Greeley'
+p2017
+(lp2018
+F40.4233142
+aF-104.7091322
+asS'AR Corning'
+p2019
+(lp2020
+sS'GA Ball Ground'
+p2021
+(lp2022
+F34.3372664
+aF-84.3779515
+asS'MA Leicester'
+p2023
+(lp2024
+sS'CA Turlock'
+p2025
+(lp2026
+F37.4946568
+aF-120.8465941
+asS'YT Mayo (Canada)'
+p2027
+(lp2028
+sS'KY Wickliffe'
+p2029
+(lp2030
+sS'MI Plainwell'
+p2031
+(lp2032
+sS'MN Hutchinson'
+p2033
+(lp2034
+F44.89254830000001
+aF-94.3692926
+asS'CA Anaheim'
+p2035
+(lp2036
+sS'TX San Angelo'
+p2037
+(lp2038
+F31.4637723
+aF-100.4370375
+asS'FL Weston'
+p2039
+(lp2040
+F26.1003654
+aF-80.3997748
+asS'MA Abington'
+p2041
+(lp2042
+F42.1048228
+aF-70.9453218
+asS'GA Varnell'
+p2043
+(lp2044
+F34.9011886
+aF-84.9738349
+asS'WA Amboy'
+p2045
+(lp2046
+sS'PA Allentown'
+p2047
+(lp2048
+F40.6084305
+aF-75.4901833
+asS'NC Erwin'
+p2049
+(lp2050
+F35.3268292
+aF-78.676128
+asS'IL LaFayette'
+p2051
+(lp2052
+F39.4948223
+aF-88.3044908
+asS'GA Glennville'
+p2053
+(lp2054
+sS'NC Raleigh'
+p2055
+(lp2056
+F35.7795897
+aF-78.6381787
+asS'NC Fletcher'
+p2057
+(lp2058
+F35.4306712
+aF-82.5012316
+asS'GA Jasper'
+p2059
+(lp2060
+sS'AK Delta Junction'
+p2061
+(lp2062
+F64.0377778
+aF-145.7322222
+asS'MD Dickerson'
+p2063
+(lp2064
+F39.2202562
+aF-77.42428389999999
+asS'FL Deland'
+p2065
+(lp2066
+F29.028318
+aF-81.3031179
+asS'MA North Brookfield'
+p2067
+(lp2068
+F42.2685574
+aF-72.08503999999999
+asS'WA SeaTac Airport'
+p2069
+(lp2070
+F47.4502499
+aF-122.3088165
+asS'OR Sandy'
+p2071
+(lp2072
+F45.3973427
+aF-122.2614761
+asS'FL Vero Beach'
+p2073
+(lp2074
+F27.6386434
+aF-80.39727359999999
+asS'CA Lafayette'
+p2075
+(lp2076
+sS'CA El Monte'
+p2077
+(lp2078
+F34.0686206
+aF-118.0275667
+asS'MD Brinklow'
+p2079
+(lp2080
+F39.1659403
+aF-77.01553299999999
+asS'FL Winter Haven'
+p2081
+(lp2082
+F28.0222435
+aF-81.7328567
+asS'FL Palm Beach Gardens'
+p2083
+(lp2084
+F26.8233946
+aF-80.13865469999999
+asS'UT Green River'
+p2085
+(lp2086
+sS'SC Hilton Head'
+p2087
+(lp2088
+F32.216316
+aF-80.752608
+asS'NY Farmingdale'
+p2089
+(lp2090
+sS'MD Chesapeake Bay (above; south of Annapolis)'
+p2091
+(lp2092
+F38.9894865
+aF-76.36632019999999
+asS'MT Gallatin Gateway'
+p2093
+(lp2094
+F45.5915958
+aF-111.1977304
+asS'ON London (Canada)'
+p2095
+(lp2096
+F42.9849233
+aF-81.2452768
+asS'SD Spearfish'
+p2097
+(lp2098
+F44.4908172
+aF-103.8593698
+asS'MO Fort Leonard Wood'
+p2099
+(lp2100
+F37.7944939
+aF-92.13484129999999
+asS'OR Gold Beach'
+p2101
+(lp2102
+sS'CA San Pedro'
+p2103
+(lp2104
+F33.7360619
+aF-118.2922461
+asS'ME Belfast'
+p2105
+(lp2106
+F44.4259092
+aF-69.0064234
+asS'MS McComb'
+p2107
+(lp2108
+sS'NJ Warren'
+p2109
+(lp2110
+sS'WI Mellen'
+p2111
+(lp2112
+F46.325506
+aF-90.6610165
+asS'CA Pittsburg'
+p2113
+(lp2114
+F38.0279762
+aF-121.8846806
+asS'LA Kenner'
+p2115
+(lp2116
+F29.9940924
+aF-90.2417434
+asS'NV Incline Village'
+p2117
+(lp2118
+sS'SD Sioux Falls'
+p2119
+(lp2120
+F43.5445959
+aF-96.73110340000001
+asS'WA SeaTac'
+p2121
+(lp2122
+F47.4435903
+aF-122.2960726
+asS'CO Deer Trailer'
+p2123
+(lp2124
+sS'MI Grand Rapids'
+p2125
+(lp2126
+F42.9633599
+aF-85.6680863
+asS'OH Carrollton'
+p2127
+(lp2128
+F40.5728403
+aF-81.0856532
+asS'CA Rancho Cordova'
+p2129
+(lp2130
+F38.5890723
+aF-121.302728
+asS'NJ Piscataway'
+p2131
+(lp2132
+F40.554887
+aF-74.4642861
+asS'SC Spartanburg'
+p2133
+(lp2134
+sS'MD Hampstead'
+p2135
+(lp2136
+F39.6048253
+aF-76.8499774
+asS'SK Prince Albert (Canada)'
+p2137
+(lp2138
+F53.2033494
+aF-105.7530705
+asS'NY Ithaca'
+p2139
+(lp2140
+F42.4439614
+aF-76.5018807
+asS'MI Vicksburg'
+p2141
+(lp2142
+F42.1200456
+aF-85.532775
+asS'PA Chadds Ford'
+p2143
+(lp2144
+sS'IN Liberty'
+p2145
+(lp2146
+F30.1633593
+aF-94.81059549999999
+asS'NY Middletown'
+p2147
+(lp2148
+F41.4459271
+aF-74.42293409999999
+asS'OR Hillsboro'
+p2149
+(lp2150
+F45.5228939
+aF-122.989827
+asS'NH Dorchester'
+p2151
+(lp2152
+sS'MS Bay Saint Louis'
+p2153
+(lp2154
+F30.3088076
+aF-89.33004609999999
+asS'AL Huntsville'
+p2155
+(lp2156
+F34.7303688
+aF-86.5861037
+asS'ND Lidgerwood'
+p2157
+(lp2158
+F46.0755158
+aF-97.1517554
+asS'FL Grover'
+p2159
+(lp2160
+F28.2296219
+aF-80.6996989
+asS'MN Wyoming'
+p2161
+(lp2162
+sS'TX Dayton'
+p2163
+(lp2164
+F30.0466051
+aF-94.8852026
+asS'DE Newcastle'
+p2165
+(lp2166
+F39.6620397
+aF-75.5668166
+asS'NJ North Bergen'
+p2167
+(lp2168
+sS'FL Panama city beach,east'
+p2169
+(lp2170
+F30.1795257
+aF-85.81240179999999
+asS'AL Athens'
+p2171
+(lp2172
+F34.8028661
+aF-86.9716741
+asS'NM Taos'
+p2173
+(lp2174
+F36.4072485
+aF-105.5730665
+asS'CA Gilroy'
+p2175
+(lp2176
+F37.0057816
+aF-121.5682751
+asS'MT Jordan'
+p2177
+(lp2178
+F40.5818338
+aF-111.8827526
+asS'MI De Tour Village'
+p2179
+(lp2180
+sS'CA Wilmington'
+p2181
+(lp2182
+F33.7857948
+aF-118.2643567
+asS'CA Hollister'
+p2183
+(lp2184
+F36.8524545
+aF-121.4016021
+asS'WI Green Bay'
+p2185
+(lp2186
+F44.51915899999999
+aF-88.019826
+asS'NC Henderson'
+p2187
+(lp2188
+sS'MI Gaylord'
+p2189
+(lp2190
+F45.0275126
+aF-84.6747523
+asS'IN Earl Park'
+p2191
+(lp2192
+sS'NC Columbus'
+p2193
+(lp2194
+sS'CA Delano'
+p2195
+(lp2196
+F35.7688425
+aF-119.2470536
+asS'MI Lake Orion'
+p2197
+(lp2198
+F42.7844752
+aF-83.2396612
+asS'MA Stoneham'
+p2199
+(lp2200
+sS'NJ Union'
+p2201
+(lp2202
+F40.6975898
+aF-74.26316349999999
+asS'CO Wheat Ridge'
+p2203
+(lp2204
+F39.766098
+aF-105.0772063
+asS'CA Palm Springs'
+p2205
+(lp2206
+sS'WV Charleston'
+p2207
+(lp2208
+sS'NC Winston-Salem'
+p2209
+(lp2210
+F36.09985959999999
+aF-80.244216
+asS'OH Circleville'
+p2211
+(lp2212
+F39.600618
+aF-82.9460133
+asS'OH Hilliard'
+p2213
+(lp2214
+F40.0333961
+aF-83.1582451
+asS'NY Hilton'
+p2215
+(lp2216
+F40.7623557
+aF-73.9796262
+asS'NC Hurdle Mills'
+p2217
+(lp2218
+F36.2731957
+aF-79.0475115
+asS'AK Big Lake'
+p2219
+(lp2220
+sS'MS Sumner'
+p2221
+(lp2222
+F33.9709464
+aF-90.3687028
+asS'CA Desert Hot Springs'
+p2223
+(lp2224
+F33.961124
+aF-116.5016784
+asS'FL Placida'
+p2225
+(lp2226
+F26.8339094
+aF-82.2624037
+asS'CA Playa Del Rey (Dockweller Beach)'
+p2227
+(lp2228
+F33.9308398
+aF-118.4350615
+asS'OH Spencerville'
+p2229
+(lp2230
+sS'PA Elizabethtown (near)'
+p2231
+(lp2232
+F40.1528719
+aF-76.6027455
+asS'WY Rawlins'
+p2233
+(lp2234
+F41.7910697
+aF-107.2386627
+asS'VA Vinton'
+p2235
+(lp2236
+sS'NJ Linden'
+p2237
+(lp2238
+sS'VA Occoquan'
+p2239
+(lp2240
+sS'AL Ashville'
+p2241
+(lp2242
+sS'KS Pretty Prairie'
+p2243
+(lp2244
+sS'ON Hamilton (Canada)'
+p2245
+(lp2246
+F43.2557206
+aF-79.8711024
+asS'CA Templeton'
+p2247
+(lp2248
+F35.5496939
+aF-120.7060049
+asS'OH Reading'
+p2249
+(lp2250
+sS'ID Lava Hot Springs'
+p2251
+(lp2252
+F42.6193625
+aF-112.0110712
+asS'NH Derry'
+p2253
+(lp2254
+F42.8806437
+aF-71.3273346
+asS'TX Amarillo'
+p2255
+(lp2256
+F35.2219971
+aF-101.8312969
+asS'AZ Kayenta'
+p2257
+(lp2258
+F36.72777689999999
+aF-110.2545767
+asS'PA Honeybrook'
+p2259
+(lp2260
+F40.0942664
+aF-75.9113306
+asS'TN Clarksville'
+p2261
+(lp2262
+F36.5297706
+aF-87.3594528
+asS'CA Riverside'
+p2263
+(lp2264
+sS'CA Perris'
+p2265
+(lp2266
+F33.7825194
+aF-117.2286478
+asS'FL Largo'
+p2267
+(lp2268
+F27.9094665
+aF-82.7873244
+asS"VA Comer's Rock (near)"
+p2269
+(lp2270
+F36.7442875
+aF-81.236209
+asS'IL Maryville'
+p2271
+(lp2272
+sS'KY McKee'
+p2273
+(lp2274
+sS'MA Westfield'
+p2275
+(lp2276
+sS'NY Syracuse to Phoenix'
+p2277
+(lp2278
+sS'IL Matteson'
+p2279
+(lp2280
+sS'NJ Wall'
+p2281
+(lp2282
+F40.1606666
+aF-74.0679753
+asS'FL Hernando'
+p2283
+(lp2284
+F28.8999815
+aF-82.37454009999999
+asS'PA Elizabethtown'
+p2285
+(lp2286
+F40.1528719
+aF-76.6027455
+asS'CA Pacifica'
+p2287
+(lp2288
+sS'WA Redmond'
+p2289
+(lp2290
+F47.6739881
+aF-122.121512
+asS'MI Westland'
+p2291
+(lp2292
+sS'PA Lancaster'
+p2293
+(lp2294
+F40.0378755
+aF-76.3055144
+asS'MN Elko New Market'
+p2295
+(lp2296
+F44.5647222
+aF-93.3269444
+asS'AR Fayetteville'
+p2297
+(lp2298
+F36.0625795
+aF-94.1574263
+asS'IN Evansville'
+p2299
+(lp2300
+F37.9715592
+aF-87.5710898
+asS'WY Gillette'
+p2301
+(lp2302
+F44.2910915
+aF-105.5022205
+asS'ME Casco'
+p2303
+(lp2304
+F43.969246
+aF-70.5211945
+asS'WA Auburn'
+p2305
+(lp2306
+F47.30732279999999
+aF-122.2284532
+asS'MN Cohasset'
+p2307
+(lp2308
+F47.2640071
+aF-93.6221657
+asS'MT Butte'
+p2309
+(lp2310
+F46.0038232
+aF-112.5347776
+asS'TX Houston'
+p2311
+(lp2312
+F29.7604267
+aF-95.3698028
+asS'NM Albuquerque'
+p2313
+(lp2314
+F35.0853336
+aF-106.6055534
+asS'IL Skokie'
+p2315
+(lp2316
+F42.0324025
+aF-87.7416246
+asS'VT Wells'
+p2317
+(lp2318
+F43.41729369999999
+aF-73.2042744
+asS'MS Gulfport'
+p2319
+(lp2320
+F30.3674198
+aF-89.0928155
+asS'OK Moore'
+p2321
+(lp2322
+sS'MI Macomb'
+p2323
+(lp2324
+F42.6651965
+aF-82.92864279999999
+asS'FL Panama City Beach,  gulf'
+p2325
+(lp2326
+F30.2111627
+aF-85.8671863
+asS'MB Lorette (Canada)'
+p2327
+(lp2328
+sS'IN Chesterton'
+p2329
+(lp2330
+sS'FL Ponte Vedra Beach'
+p2331
+(lp2332
+sS'CA Pacific Palisades'
+p2333
+(lp2334
+F34.03563310000001
+aF-118.5155901
+asS'MO Camdenton'
+p2335
+(lp2336
+F38.0080902
+aF-92.7446289
+asS'RI Rumford'
+p2337
+(lp2338
+F41.8462161
+aF-71.3557165
+asS'NY New York City (Middle Village)'
+p2339
+(lp2340
+F40.717372
+aF-73.87425
+asS'ID Caldwell'
+p2341
+(lp2342
+F43.66293839999999
+aF-116.6873596
+asS'MI Ortonville'
+p2343
+(lp2344
+F42.8522506
+aF-83.4430002
+asS'CA Azusa'
+p2345
+(lp2346
+F34.1336186
+aF-117.9075627
+asS'FL Tallahassee'
+p2347
+(lp2348
+F30.4382559
+aF-84.28073289999999
+asS'AZ Maricopa'
+p2349
+(lp2350
+F33.2917968
+aF-112.4291464
+asS'SC Cherry Grove'
+p2351
+(lp2352
+sS'NY New York City (Yonkers)'
+p2353
+(lp2354
+sS'CT Naugatuck'
+p2355
+(lp2356
+F41.485921
+aF-73.0506972
+asS'QC Montreal (Canada)'
+p2357
+(lp2358
+sS'MN New York Mills'
+p2359
+(lp2360
+sS'MS Hamilton'
+p2361
+(lp2362
+F33.740225
+aF-88.41168809999999
+asS'FL Clermont'
+p2363
+(lp2364
+sS'PA Cambridge Springs'
+p2365
+(lp2366
+sS'OR Shady Cove'
+p2367
+(lp2368
+F42.61503889999999
+aF-122.8118529
+asS'KY Bowling Green'
+p2369
+(lp2370
+F36.9685219
+aF-86.4808043
+asS'ME Gorham'
+p2371
+(lp2372
+F43.67953139999999
+aF-70.44422519999999
+asS'CA Compton'
+p2373
+(lp2374
+F33.8958492
+aF-118.2200712
+asS'WY Lovell'
+p2375
+(lp2376
+F44.8374532
+aF-108.3895614
+asS'WA Bainbridge Island'
+p2377
+(lp2378
+F47.62487910000001
+aF-122.5210008
+asS'WA Reardan'
+p2379
+(lp2380
+sS'IL Frankfort'
+p2381
+(lp2382
+F41.4958665
+aF-87.84866129999999
+asS'NC Norwood'
+p2383
+(lp2384
+sS'AL Phil Campbell'
+p2385
+(lp2386
+F34.3509298
+aF-87.706418
+asS'WI St. Germain'
+p2387
+(lp2388
+sS'MI Dearborn'
+p2389
+(lp2390
+sS'MD Severn'
+p2391
+(lp2392
+F39.1370528
+aF-76.6983022
+asS'NC Delco'
+p2393
+(lp2394
+F34.3157241
+aF-78.2247211
+asS'FL Key Colony Beach'
+p2395
+(lp2396
+F24.7209744
+aF-81.0186827
+asS'CA Watsonville'
+p2397
+(lp2398
+F36.910231
+aF-121.7568946
+asS'NY Potsdam'
+p2399
+(lp2400
+sS'NC Candler'
+p2401
+(lp2402
+sS'WA Aberdeen Gardens'
+p2403
+(lp2404
+F47.0724999
+aF-123.7709861
+asS'IL Wonder Lake'
+p2405
+(lp2406
+sS'NH Concord - Penecook'
+p2407
+(lp2408
+F43.280373
+aF-71.6002039
+asS'NY Freeport'
+p2409
+(lp2410
+F40.6576022
+aF-73.58318349999999
+asS'WA Pe Ell'
+p2411
+(lp2412
+sS'MI Ypsilanti'
+p2413
+(lp2414
+F42.2411499
+aF-83.61299389999999
+asS'CA Los Angeles (Del Mar Beach)'
+p2415
+(lp2416
+sS'MD Dundalk'
+p2417
+(lp2418
+F39.2506633
+aF-76.5205184
+asS'MO Kansas City'
+p2419
+(lp2420
+F39.0997265
+aF-94.5785667
+asS'NJ Tuckerton'
+p2421
+(lp2422
+F39.603174
+aF-74.34014499999999
+asS'KS Kansas City'
+p2423
+(lp2424
+sS'NY Walden'
+p2425
+(lp2426
+F41.5612048
+aF-74.18848059999999
+asS'OR Lincoln City'
+p2427
+(lp2428
+F44.95816440000001
+aF-124.0178914
+asS'OK Stillwater'
+p2429
+(lp2430
+F36.1156071
+aF-97.0583681
+asS'MN Cloquet'
+p2431
+(lp2432
+F46.7217735
+aF-92.46118249999999
+asS'IL Carol Stream'
+p2433
+(lp2434
+sS'MT Kalispell'
+p2435
+(lp2436
+F48.1919889
+aF-114.3168131
+asS'MN Watkins'
+p2437
+(lp2438
+sS'MN Hastings/Revanna Townships'
+p2439
+(lp2440
+sS'VA Lynchburg'
+p2441
+(lp2442
+F37.4137536
+aF-79.14224639999999
+asS'CA Lincoln'
+p2443
+(lp2444
+sS'WA Grayland'
+p2445
+(lp2446
+sS'CA Galt'
+p2447
+(lp2448
+F38.2546373
+aF-121.2999485
+asS'CA Maywood'
+p2449
+(lp2450
+sS'DE Newark'
+p2451
+(lp2452
+F39.6837226
+aF-75.74965720000002
+asS'VA Gainesville'
+p2453
+(lp2454
+F38.7956706
+aF-77.6138802
+asS'WI Butler'
+p2455
+(lp2456
+sS'CA Walnut Creek (area off I-680)'
+p2457
+(lp2458
+F34.06884160000001
+aF-117.9263232
+asS'IL Shelbyville'
+p2459
+(lp2460
+sS'NM Abiquiu'
+p2461
+(lp2462
+sS'MD Preston'
+p2463
+(lp2464
+F38.7126151
+aF-75.9099361
+asS'NC Apex'
+p2465
+(lp2466
+sS'WY Cheyenne'
+p2467
+(lp2468
+F41.1399814
+aF-104.8202462
+asS'LA Krotz Springs'
+p2469
+(lp2470
+sS'FL Fleming Island'
+p2471
+(lp2472
+sS'FL Jacksonville Beach'
+p2473
+(lp2474
+sS'CA Bakersfield'
+p2475
+(lp2476
+sS'CT Clinton'
+p2477
+(lp2478
+F41.2882208
+aF-72.5288034
+asS'MA Boston'
+p2479
+(lp2480
+F42.3600825
+aF-71.0588801
+asS'OH Nashport'
+p2481
+(lp2482
+F40.0706231
+aF-82.17569859999999
+asS'NY Holland'
+p2483
+(lp2484
+F42.6411723
+aF-78.5416891
+asS'ME Farmington'
+p2485
+(lp2486
+F44.67049979999999
+aF-70.1512169
+asS'LA Shreveport'
+p2487
+(lp2488
+sS'TN Gordonsville'
+p2489
+(lp2490
+F36.1725568
+aF-85.92970919999999
+asS'ME South Portland'
+p2491
+(lp2492
+sS'CT Ellington'
+p2493
+(lp2494
+F41.91728260000001
+aF-72.458236
+asS'ID Star'
+p2495
+(lp2496
+sS'NC Carrboro'
+p2497
+(lp2498
+F35.9101438
+aF-79.0752895
+asS'OH Xenia'
+p2499
+(lp2500
+sS'PA Harrisburg (near; on I-83)'
+p2501
+(lp2502
+F40.2520984
+aF-76.8707416
+asS'UT Layton'
+p2503
+(lp2504
+F41.0602216
+aF-111.9710529
+asS'IL South Barrington'
+p2505
+(lp2506
+sS'TX Alvin'
+p2507
+(lp2508
+F29.4238472
+aF-95.24410089999999
+asS'CA Laguna Beach'
+p2509
+(lp2510
+F33.5422475
+aF-117.7831104
+asS'MO St. Louis'
+p2511
+(lp2512
+F38.6270025
+aF-90.19940419999999
+asS'IL Morton'
+p2513
+(lp2514
+F40.6128161
+aF-89.45926089999999
+asS'NH Somersworth'
+p2515
+(lp2516
+F43.2617503
+aF-70.8653372
+asS'IN Whiting'
+p2517
+(lp2518
+F41.6797578
+aF-87.4944873
+asS'AB Strathmore area'
+p2519
+(lp2520
+F51.0327014
+aF-113.3880344
+asS'NJ East Brunswick'
+p2521
+(lp2522
+F40.4316955
+aF-74.4049778
+asS'UT West Jordan'
+p2523
+(lp2524
+F40.6096698
+aF-111.9391031
+asS'MN Lake Elmo-Oakdale'
+p2525
+(lp2526
+F44.955479
+aF-92.93511699999999
+asS'IN Osceola'
+p2527
+(lp2528
+F41.6650487
+aF-86.075836
+asS'IL Blue Island'
+p2529
+(lp2530
+sS'IL Oswego'
+p2531
+(lp2532
+F41.6828074
+aF-88.35145960000001
+asS'FL Deerfield Beach'
+p2533
+(lp2534
+F26.3184123
+aF-80.09976569999999
+asS'OR Albany'
+p2535
+(lp2536
+F44.6365107
+aF-123.1059282
+asS'NV Beowawe'
+p2537
+(lp2538
+sS'GA Blackshear'
+p2539
+(lp2540
+F31.3060513
+aF-82.2420661
+asS'BC Squamish (Canada)'
+p2541
+(lp2542
+sS'KY Elizabeth'
+p2543
+(lp2544
+F37.7030646
+aF-85.8649408
+asS'SC Travelers Rest'
+p2545
+(lp2546
+F34.9676167
+aF-82.4434548
+asS'IL Beecher'
+p2547
+(lp2548
+F41.34059
+aF-87.6214286
+asS'CO Fort Collins'
+p2549
+(lp2550
+F40.5852602
+aF-105.084423
+asS'NC Mt. Pleasant'
+p2551
+(lp2552
+F35.399308
+aF-80.4358963
+asS'WI Franklin'
+p2553
+(lp2554
+F42.888627
+aF-88.03841949999999
+asS'NY Canton'
+p2555
+(lp2556
+sS'CO Englewood'
+p2557
+(lp2558
+F39.6477653
+aF-104.9877597
+asS'SC Woodruff'
+p2559
+(lp2560
+F34.7395701
+aF-82.0370466
+asS'IA Batavia'
+p2561
+(lp2562
+sS'KY Pellville'
+p2563
+(lp2564
+F37.7522749
+aF-86.81360049999999
+asS'NC King'
+p2565
+(lp2566
+F36.2806939
+aF-80.3592197
+asS'NJ Skillman'
+p2567
+(lp2568
+F40.4201165
+aF-74.7146817
+asS'SD Rapid City'
+p2569
+(lp2570
+sS'FL Middleburg'
+p2571
+(lp2572
+F30.0688512
+aF-81.8603778
+asS'MN Blaine'
+p2573
+(lp2574
+F45.1607987
+aF-93.23494889999999
+asS'MS Clarkdale community (Meridian)'
+p2575
+(lp2576
+F32.22565640000001
+aF-88.7002601
+asS'MS Flowood'
+p2577
+(lp2578
+sS'ID Sandpoint'
+p2579
+(lp2580
+sS'GA Hawkinsville'
+p2581
+(lp2582
+F32.2837731
+aF-83.4721177
+asS'KS Andover'
+p2583
+(lp2584
+sS'CT Plainville'
+p2585
+(lp2586
+F41.6757457
+aF-72.86336349999999
+asS'MA New Bedford'
+p2587
+(lp2588
+sS'KS Columbus'
+p2589
+(lp2590
+F37.1692278
+aF-94.8441239
+asS'MA Ludlow'
+p2591
+(lp2592
+F42.1600936
+aF-72.47591899999999
+asS'BC Vancouver (Canada)'
+p2593
+(lp2594
+sS'PA Jacobus'
+p2595
+(lp2596
+sS'ME Brunswick'
+p2597
+(lp2598
+sS'FL Palmetto'
+p2599
+(lp2600
+F27.5214269
+aF-82.57231929999999
+asS'ON Orono (Canada)'
+p2601
+(lp2602
+sS'PA Donora'
+p2603
+(lp2604
+F40.1734049
+aF-79.8575467
+asS'CA Morongo valley'
+p2605
+(lp2606
+F34.0469549
+aF-116.5808472
+asS'GA Tyrone'
+p2607
+(lp2608
+F33.4712253
+aF-84.5971524
+asS'NC Ayden'
+p2609
+(lp2610
+F35.4726626
+aF-77.4155203
+asS'OK Poteau'
+p2611
+(lp2612
+F35.0537094
+aF-94.6235579
+asS'FL Boca Raton'
+p2613
+(lp2614
+F26.3683064
+aF-80.1289321
+asS'NH Gilford'
+p2615
+(lp2616
+F43.5475771
+aF-71.4067385
+asS'CA Bucks Lake'
+p2617
+(lp2618
+F39.8677476
+aF-121.173749
+asS'IL Ottawa'
+p2619
+(lp2620
+F41.3455892
+aF-88.8425769
+asS'AL Mobile'
+p2621
+(lp2622
+F30.6953657
+aF-88.0398912
+asS'NJ Haskell'
+p2623
+(lp2624
+F41.0302008
+aF-74.29625519999999
+asS'CO Berthoud'
+p2625
+(lp2626
+F40.3083174
+aF-105.0810924
+asS'MA Framingham'
+p2627
+(lp2628
+F42.279286
+aF-71.4161565
+asS'CO Almont'
+p2629
+(lp2630
+F38.6647149
+aF-106.8461506
+asS'IL Madison'
+p2631
+(lp2632
+F38.6825502
+aF-90.1570536
+asS'NC Carolina Beach'
+p2633
+(lp2634
+F34.0351726
+aF-77.8935966
+asS'HI Honolulu'
+p2635
+(lp2636
+F21.276613
+aF-157.8243963
+asS'CA Marina Del Rey'
+p2637
+(lp2638
+F33.9802893
+aF-118.4517449
+asS'CA Burbank'
+p2639
+(lp2640
+F34.1808392
+aF-118.3089661
+asS'TX Cleburne'
+p2641
+(lp2642
+F32.3476438
+aF-97.38668369999999
+asS'ME Cumberland Center'
+p2643
+(lp2644
+F43.7964679
+aF-70.2589388
+asS'MS Louisville'
+p2645
+(lp2646
+F33.1237377
+aF-89.0550624
+asS'MN Minneapolis/Bryn Mawr/ Theodore Wirth Golf Course area'
+p2647
+(lp2648
+F44.9865209
+aF-93.3239976
+asS'TN Maryville'
+p2649
+(lp2650
+F35.7564719
+aF-83.9704593
+asS'MI Shepherd'
+p2651
+(lp2652
+F43.5244747
+aF-84.6947325
+asS'SC Lancaster'
+p2653
+(lp2654
+sS'NJ Deptford'
+p2655
+(lp2656
+F39.8227054
+aF-75.11951069999999
+asS'CA Camarillo'
+p2657
+(lp2658
+F34.2163937
+aF-119.0376023
+asS'CA Antelope'
+p2659
+(lp2660
+sS'OH Northfield'
+p2661
+(lp2662
+sS'OK Tahlequah'
+p2663
+(lp2664
+F35.91537
+aF-94.969956
+asS'VT Ferrisburgh'
+p2665
+(lp2666
+F44.2056098
+aF-73.2462341
+asS'SK La Ronge (Canada)'
+p2667
+(lp2668
+F55.10823
+aF-105.285989
+asS'IL Hazel Crest'
+p2669
+(lp2670
+F41.571701
+aF-87.6944915
+asS'NY Farmington'
+p2671
+(lp2672
+F42.9877521
+aF-77.3094674
+asS'ON Brockville (Canada)'
+p2673
+(lp2674
+sS'CA Coronado'
+p2675
+(lp2676
+F32.6858853
+aF-117.1830891
+asS'MA Barre'
+p2677
+(lp2678
+sS'NY Endicott'
+p2679
+(lp2680
+sS'TX Irving'
+p2681
+(lp2682
+F32.8140177
+aF-96.9488945
+asS'WI Monroe County (Road "V")'
+p2683
+(lp2684
+sS'TX Pflugerville'
+p2685
+(lp2686
+F30.4393696
+aF-97.62000429999999
+asS'AL Summerdale'
+p2687
+(lp2688
+F30.4876954
+aF-87.69970939999999
+asS'NH Westmoreland'
+p2689
+(lp2690
+F42.9620253
+aF-72.4423102
+asS'NJ Woodbridge'
+p2691
+(lp2692
+F40.5575986
+aF-74.2846022
+asS'UT Hurricane'
+p2693
+(lp2694
+F37.1752607
+aF-113.2899484
+asS'NM Navajo'
+p2695
+(lp2696
+F35.9000121
+aF-109.0339832
+asS'MA Holden'
+p2697
+(lp2698
+F42.3517585
+aF-71.8634062
+asS'IN Bedford'
+p2699
+(lp2700
+F38.8611619
+aF-86.4872149
+asS'WA Des Moines'
+p2701
+(lp2702
+F47.4017661
+aF-122.3242902
+asS'IL Brookfield'
+p2703
+(lp2704
+F41.8239203
+aF-87.8517253
+asS'NC Franklin'
+p2705
+(lp2706
+F35.1823171
+aF-83.3815429
+asS'PA Bradford'
+p2707
+(lp2708
+sS'OR Oklahoma City'
+p2709
+(lp2710
+F35.4690112
+aF-97.51555959999999
+asS'IA West Des Moines'
+p2711
+(lp2712
+F41.5772115
+aF-93.711332
+asS'CA Los Angeles'
+p2713
+(lp2714
+F34.0522342
+aF-118.2436849
+asS'TX Mauriceville/Buna'
+p2715
+(lp2716
+F30.172663
+aF-93.87708549999999
+asS'TN Algood'
+p2717
+(lp2718
+F36.1958946
+aF-85.44858490000001
+asS'NY Harrison'
+p2719
+(lp2720
+F40.9700171
+aF-73.7176337
+asS'NS New Waterford (Canada)'
+p2721
+(lp2722
+F46.2530549
+aF-60.0918022
+asS'MA Leominster'
+p2723
+(lp2724
+F42.5250906
+aF-71.759794
+asS'IL Ashton'
+p2725
+(lp2726
+sS'IL Elgin'
+p2727
+(lp2728
+sS'KY Ludlow'
+p2729
+(lp2730
+F39.0925597
+aF-84.5474435
+asS'MS Miss Point'
+p2731
+(lp2732
+F30.4115881
+aF-88.53446009999999
+asS'CA Castro Valley'
+p2733
+(lp2734
+sS'MO Chesterfield'
+p2735
+(lp2736
+sS'WV Bridgeport'
+p2737
+(lp2738
+F39.2864787
+aF-80.25619809999999
+asS'NH Milan'
+p2739
+(lp2740
+sS'WV Hurricane'
+p2741
+(lp2742
+F38.4325896
+aF-82.0201368
+asS'MO Warsaw'
+p2743
+(lp2744
+sS'MO Smithville'
+p2745
+(lp2746
+F39.38694419999999
+aF-94.5810659
+asS'TX Mansfield'
+p2747
+(lp2748
+F32.5631924
+aF-97.1416768
+asS'TN Mt. Juliet'
+p2749
+(lp2750
+sS'OH Holland'
+p2751
+(lp2752
+F41.621718
+aF-83.711604
+asS'SC Lexington'
+p2753
+(lp2754
+F33.9815369
+aF-81.2362107
+asS'MI Royal Oak'
+p2755
+(lp2756
+F42.4894801
+aF-83.1446485
+asS'FL Port Richey'
+p2757
+(lp2758
+F28.2716755
+aF-82.71954509999999
+asS'SC Greenville'
+p2759
+(lp2760
+sS'CA Rohnert Park'
+p2761
+(lp2762
+sS'CO Avon'
+p2763
+(lp2764
+F39.6330673
+aF-106.5222196
+asS'WA Edgewood'
+p2765
+(lp2766
+sS'SD Hot Springs'
+p2767
+(lp2768
+F43.431646
+aF-103.4743625
+asS'OH Old Washington'
+p2769
+(lp2770
+F40.0386821
+aF-81.44456210000001
+asS'BC Bowen Island (Canada)'
+p2771
+(lp2772
+F49.3767653
+aF-123.3701541
+asS'CA Fountain Valley'
+p2773
+(lp2774
+F33.7091847
+aF-117.9536697
+asS'NY Saugerties'
+p2775
+(lp2776
+sS'CA Lincoln and Roseville'
+p2777
+(lp2778
+sS'MI Romulus'
+p2779
+(lp2780
+F42.2222614
+aF-83.39659940000001
+asS'AZ Interstate 8'
+p2781
+(lp2782
+F32.6699496
+aF-114.5508018
+asS'KY Radcliff'
+p2783
+(lp2784
+F37.8403456
+aF-85.9491298
+asS'VA Pearisburg'
+p2785
+(lp2786
+F37.3265112
+aF-80.7350711
+asS'SC Folly Beach'
+p2787
+(lp2788
+sS'GA Johns Creek'
+p2789
+(lp2790
+F34.0289259
+aF-84.198579
+asS'IL Schaumburg'
+p2791
+(lp2792
+F42.0333607
+aF-88.0834059
+asS'MN Park Rapids'
+p2793
+(lp2794
+sS'WI Waukesha'
+p2795
+(lp2796
+F43.0116784
+aF-88.2314813
+asS'PA Reinholds'
+p2797
+(lp2798
+F40.2670462
+aF-76.1154669
+asS'OH Waverly'
+p2799
+(lp2800
+F39.1267349
+aF-82.9854553
+asS'ME Scarborough'
+p2801
+(lp2802
+F43.5901974
+aF-70.33449209999999
+asS'CA Ontario'
+p2803
+(lp2804
+F51.253775
+aF-85.3232139
+asS'OK Centerview'
+p2805
+(lp2806
+F35.4336825
+aF-96.66529469999999
+asS'DE Milford'
+p2807
+(lp2808
+F38.9126129
+aF-75.4279748
+asS'NC Wendell'
+p2809
+(lp2810
+F35.780987
+aF-78.3697213
+asS'NC Charlotte'
+p2811
+(lp2812
+F35.2270869
+aF-80.8431267
+asS'WI Spearhead Point Campground'
+p2813
+(lp2814
+F45.3269572
+aF-90.443573
+asS'NC Concord'
+p2815
+(lp2816
+F35.4087517
+aF-80.579511
+asS'WA Liberty Lake'
+p2817
+(lp2818
+F47.6743428
+aF-117.1124241
+asS'TN Elizabethton'
+p2819
+(lp2820
+F36.3487196
+aF-82.21068760000001
+asS'CA Tracy'
+p2821
+(lp2822
+sS'NY Kerhonkson'
+p2823
+(lp2824
+sS'OR Sutherlin'
+p2825
+(lp2826
+F43.3901177
+aF-123.3125763
+asS'MA Westwood'
+p2827
+(lp2828
+F42.21398730000001
+aF-71.2244987
+asS'AR Lexa'
+p2829
+(lp2830
+sS'CA Colfax'
+p2831
+(lp2832
+sS'ON Port Colbourne (Ontario)(Canada)'
+p2833
+(lp2834
+sS'OR Canby'
+p2835
+(lp2836
+F45.2622655
+aF-122.6921006
+asS'QC Sherbrooke (Canada)'
+p2837
+(lp2838
+F45.4009928
+aF-71.8824288
+asS'UT Riverton'
+p2839
+(lp2840
+F40.521893
+aF-111.9391023
+asS'GA Social Circle'
+p2841
+(lp2842
+F33.656228
+aF-83.718231
+asS'FL Palm Beach Lakes'
+p2843
+(lp2844
+sS'MN Oakdale'
+p2845
+(lp2846
+sS'OH East Liverpool'
+p2847
+(lp2848
+sS'TX Plano'
+p2849
+(lp2850
+F33.0198431
+aF-96.6988856
+asS'PA York'
+p2851
+(lp2852
+F39.9625984
+aF-76.727745
+asS'VA Pamplin'
+p2853
+(lp2854
+F37.2637421
+aF-78.6810015
+asS'MA Millbury'
+p2855
+(lp2856
+sS'ON Bowmanville (Canada)'
+p2857
+(lp2858
+F43.9126042
+aF-78.688019
+asS'MI Coloma'
+p2859
+(lp2860
+sS'CA Waterford'
+p2861
+(lp2862
+sS'IN Aurora'
+p2863
+(lp2864
+F39.7294319
+aF-104.8319195
+asS'IL Murphysboro'
+p2865
+(lp2866
+sS'OH Ashland'
+p2867
+(lp2868
+sS'CA Irvine'
+p2869
+(lp2870
+F33.6839473
+aF-117.7946942
+asS'TX Jarrell'
+p2871
+(lp2872
+sS'WY Elk Mountain'
+p2873
+(lp2874
+F41.6893961
+aF-106.4140868
+asS'AZ Sun City West'
+p2875
+(lp2876
+F33.6619819
+aF-112.3412726
+asS'SC Goosecreek'
+p2877
+(lp2878
+sS'NC Winston-Salem/Lexington'
+p2879
+(lp2880
+sS'AZ Globe'
+p2881
+(lp2882
+F33.3942223
+aF-110.7864984
+asS'OR Clackamas'
+p2883
+(lp2884
+F45.4076205
+aF-122.5703692
+asS'KY Lawrenceburg'
+p2885
+(lp2886
+F38.0372967
+aF-84.8966171
+asS'TN Knoxville'
+p2887
+(lp2888
+F35.9606384
+aF-83.9207392
+asS'GA Arcade'
+p2889
+(lp2890
+F34.0778881
+aF-83.5615536
+asS'WA Elma'
+p2891
+(lp2892
+F47.0034291
+aF-123.4087692
+asS'NJ Jackson'
+p2893
+(lp2894
+sS'NM Los Lunas'
+p2895
+(lp2896
+F34.806166
+aF-106.7333599
+asS'FL Frostproof'
+p2897
+(lp2898
+F27.7458626
+aF-81.5306313
+asS'FL Dade City'
+p2899
+(lp2900
+F28.3647248
+aF-82.1959178
+asS'SC Charleston'
+p2901
+(lp2902
+sS'FL Apopka'
+p2903
+(lp2904
+F28.6934076
+aF-81.5322149
+asS'AL Lisman'
+p2905
+(lp2906
+sS'NM Gila'
+p2907
+(lp2908
+F32.9646574
+aF-108.5775687
+asS'CO Manitou Springs'
+p2909
+(lp2910
+F38.8597127
+aF-104.9171989
+asS'MA Hyannis'
+p2911
+(lp2912
+F41.6524911
+aF-70.2881124
+asS'NJ Mantua'
+p2913
+(lp2914
+F39.7818322
+aF-75.1821597
+asS'VA Ashburn'
+p2915
+(lp2916
+F39.0437567
+aF-77.4874416
+asS'FL Spring hill'
+p2917
+(lp2918
+F28.4831682
+aF-82.5369872
+asS'CA Santa Cruz'
+p2919
+(lp2920
+F36.9741171
+aF-122.0307963
+asS'WV Mason'
+p2921
+(lp2922
+F38.7553693
+aF-81.9971108
+asS'CA Hawthorne'
+p2923
+(lp2924
+sS'CA San Diego (North County)'
+p2925
+(lp2926
+F32.7157305
+aF-117.1610966
+asS'IL Danforth'
+p2927
+(lp2928
+F40.82031200000001
+aF-87.977818
+asS'WI Sun Prarie'
+p2929
+(lp2930
+sS'WA Oak Harbor'
+p2931
+(lp2932
+F48.2931559
+aF-122.6432245
+asS'AZ Gila Bend (west of; on I-8)'
+p2933
+(lp2934
+F32.936737
+aF-112.7212341
+asS'GA Luella'
+p2935
+(lp2936
+sS'UT Santa Clara'
+p2937
+(lp2938
+F37.1330355
+aF-113.6541266
+asS'FL Davie (heading to Hollywood/Ft. Lauderdale)'
+p2939
+(lp2940
+F26.0727445
+aF-80.3356858
+asS'MA Norwood'
+p2941
+(lp2942
+F42.19439089999999
+aF-71.19896949999999
+asS'SC Donalds'
+p2943
+(lp2944
+sS'TN Powell'
+p2945
+(lp2946
+F36.0318578
+aF-84.027655
+asS'UT Apple Valley'
+p2947
+(lp2948
+F37.10441550000001
+aF-113.1251775
+asS'FL Cape coral'
+p2949
+(lp2950
+F26.5628537
+aF-81.9495331
+asS'MI Sterling Heights'
+p2951
+(lp2952
+F42.5803122
+aF-83.0302033
+asS'IL Stonefort'
+p2953
+(lp2954
+F37.6142165
+aF-88.7081132
+asS'AL Atmore'
+p2955
+(lp2956
+sS'UT Washington'
+p2957
+(lp2958
+sS'CA California City'
+p2959
+(lp2960
+sS'PA Gilbertsville'
+p2961
+(lp2962
+F40.3200972
+aF-75.6101844
+asS'FL Bonita Springs'
+p2963
+(lp2964
+sS'TX Granbury'
+p2965
+(lp2966
+F32.4420826
+aF-97.7941967
+asS'WI Mineral Point'
+p2967
+(lp2968
+sS'PA Bath'
+p2969
+(lp2970
+sS'FL Ocala'
+p2971
+(lp2972
+sS'SC Columbia'
+p2973
+(lp2974
+F34.0007104
+aF-81.0348144
+asS'TX San Marcos'
+p2975
+(lp2976
+F29.8832749
+aF-97.9413941
+asS'WA Lake Roesiger'
+p2977
+(lp2978
+F47.9834331
+aF-121.9292931
+asS'MI Inkster'
+p2979
+(lp2980
+F42.2942045
+aF-83.30993029999999
+asS'AZ Surprise/Glendale'
+p2981
+(lp2982
+sS'MT Creston'
+p2983
+(lp2984
+F48.1894036
+aF-114.1373429
+asS'PA Millmont'
+p2985
+(lp2986
+F40.8845903
+aF-77.1411474
+asS'CO Falcon'
+p2987
+(lp2988
+F38.9383017
+aF-104.6009415
+asS'NJ Franklinville'
+p2989
+(lp2990
+sS'CA Palm Desert'
+p2991
+(lp2992
+sS'WA Lakewood'
+p2993
+(lp2994
+F47.1717649
+aF-122.518458
+asS'VA Buckingham'
+p2995
+(lp2996
+sS'WV Summersville'
+p2997
+(lp2998
+sS'WA Bellevue'
+p2999
+(lp3000
+F47.6101497
+aF-122.2015159
+asS'AL New Brockton'
+p3001
+(lp3002
+F31.3857239
+aF-85.9293861
+asS'NM Lemitar'
+p3003
+(lp3004
+F34.1596096
+aF-106.9100192
+asS'ON Delaware (Canada)'
+p3005
+(lp3006
+F42.9092335
+aF-81.42009039999999
+asS'CA Glendale'
+p3007
+(lp3008
+sS'IL Taylorville'
+p3009
+(lp3010
+F39.548935
+aF-89.294533
+asS'NC Thomasville'
+p3011
+(lp3012
+sS'CA Santa Rosa'
+p3013
+(lp3014
+F38.440429
+aF-122.7140548
+asS'MI Zeeland'
+p3015
+(lp3016
+F42.8125246
+aF-86.01865099999999
+asS'ME Stonington'
+p3017
+(lp3018
+F44.156192
+aF-68.66669259999999
+asS'MO Kansas City/Columbia (between)'
+p3019
+(lp3020
+F39.0442267
+aF-94.4392323
+asS'NY West Babylon'
+p3021
+(lp3022
+sS'NJ Livingston'
+p3023
+(lp3024
+F40.7862871
+aF-74.3300842
+asS'VT Sharon'
+p3025
+(lp3026
+F43.7852344
+aF-72.4541709
+asS'TX Denton'
+p3027
+(lp3028
+sS'GA Oak Park'
+p3029
+(lp3030
+F32.3582334
+aF-82.3145693
+asS'GA Hinesville'
+p3031
+(lp3032
+F31.846877
+aF-81.5959453
+asS'NM Bloomfield'
+p3033
+(lp3034
+sS'CT Waterbury'
+p3035
+(lp3036
+F41.5581525
+aF-73.0514965
+asS'ID Boise'
+p3037
+(lp3038
+F43.6187102
+aF-116.2146068
+asS'OR Yachats'
+p3039
+(lp3040
+F44.31123119999999
+aF-124.1048418
+asS'MT Bigfork'
+p3041
+(lp3042
+F48.0632864
+aF-114.0726134
+asS'CA Palm Spring'
+p3043
+(lp3044
+F33.8302961
+aF-116.5452921
+asS'MI Clinton Township'
+p3045
+(lp3046
+sS'OR Wood Village'
+p3047
+(lp3048
+F45.5342861
+aF-122.4187024
+asS'MI Sawyer'
+p3049
+(lp3050
+F41.88550310000001
+aF-86.5898397
+asS'NY Granville'
+p3051
+(lp3052
+F43.4078495
+aF-73.259553
+asS'NY Willard'
+p3053
+(lp3054
+sS'IL Highland Park'
+p3055
+(lp3056
+F42.1816918
+aF-87.8003437
+asS'OR Springfield'
+p3057
+(lp3058
+sS'ME Swanville'
+p3059
+(lp3060
+F44.5211855
+aF-68.9978129
+asS'SC Hemingway'
+p3061
+(lp3062
+F33.7537774
+aF-79.4475566
+asS'FL Cape Canaveral'
+p3063
+(lp3064
+F28.3922182
+aF-80.60771319999999
+asS'CO Denver'
+p3065
+(lp3066
+F39.7392358
+aF-104.990251
+asS'OH Chillicothe'
+p3067
+(lp3068
+F39.3331197
+aF-82.9824019
+asS'IL Villa Park'
+p3069
+(lp3070
+F41.8897519
+aF-87.98895429999999
+asS'GA St. Marys'
+p3071
+(lp3072
+F30.7478954
+aF-81.57061089999999
+asS'OR The Dalles'
+p3073
+(lp3074
+sS'NJ Mays Landing'
+p3075
+(lp3076
+F39.4523385
+aF-74.7276626
+asS'CA Capitola'
+p3077
+(lp3078
+F36.9752283
+aF-121.953293
+asS'NC Grifton'
+p3079
+(lp3080
+F35.3726629
+aF-77.4374641
+asS'PA Greenfield Twp'
+p3081
+(lp3082
+F41.61009689999999
+aF-75.58588859999999
+asS'MI Roseville'
+p3083
+(lp3084
+F42.4972583
+aF-82.9371409
+asS'CA Grass Valley/Auburn (between)'
+p3085
+(lp3086
+F38.9347295
+aF-121.0919055
+asS'PA Tarentum'
+p3087
+(lp3088
+F40.6014555
+aF-79.75977089999999
+asS'NJ New Egypt'
+p3089
+(lp3090
+sS'WA Ilwaco'
+p3091
+(lp3092
+F46.3089891
+aF-124.0432099
+asS'NH Rochester'
+p3093
+(lp3094
+F43.304526
+aF-70.97561859999999
+asS'CA La Habra'
+p3095
+(lp3096
+F33.9319578
+aF-117.9461734
+asS'TX Atascocta'
+p3097
+(lp3098
+F29.99883059999999
+aF-95.1765978
+asS'NC Kannapolis/Mooresville'
+p3099
+(lp3100
+F35.485252
+aF-80.6990019
+asS'WI Muskego'
+p3101
+(lp3102
+F42.905848
+aF-88.13897790000001
+asS'FL Poinciana'
+p3103
+(lp3104
+sS'TX San Antonio'
+p3105
+(lp3106
+F29.4241219
+aF-98.49362819999999
+asS'MA Hopedale'
+p3107
+(lp3108
+F42.1306357
+aF-71.5412077
+asS'AZ Casa Grande'
+p3109
+(lp3110
+F32.8795022
+aF-111.7573521
+asS'FL Lutz'
+p3111
+(lp3112
+F28.1511243
+aF-82.4614831
+asS'NH Londonderry'
+p3113
+(lp3114
+F42.86512980000001
+aF-71.3739272
+asS'CA Redondo Beach'
+p3115
+(lp3116
+sS'CO Alma'
+p3117
+(lp3118
+F39.2838783
+aF-106.0627967
+asS'VT Bennington'
+p3119
+(lp3120
+F42.8781345
+aF-73.1967741
+asS'KS Gardner'
+p3121
+(lp3122
+F38.8108408
+aF-94.9271868
+asS'RI Lincoln'
+p3123
+(lp3124
+F41.9110123
+aF-71.4418101
+asS'PA West pittston'
+p3125
+(lp3126
+F41.3305113
+aF-75.7981902
+asS'CA Garden Grove'
+p3127
+(lp3128
+sS'SC Chesnee'
+p3129
+(lp3130
+F35.1484549
+aF-81.8609371
+asS'ME Pittsfield'
+p3131
+(lp3132
+F44.7825145
+aF-69.3833847
+asS'TX Bryan'
+p3133
+(lp3134
+F30.6743643
+aF-96.3699632
+asS'MO St. Clair'
+p3135
+(lp3136
+F38.3475584
+aF-90.9834027
+asS'CA San Mateo'
+p3137
+(lp3138
+sS'NC Emerald isl'
+p3139
+(lp3140
+F34.6779399
+aF-76.95077619999999
+asS'MN Owatonna'
+p3141
+(lp3142
+F44.0855572
+aF-93.2259349
+asS'NC Greenville'
+p3143
+(lp3144
+F35.612661
+aF-77.3663538
+asS'AZ Parker'
+p3145
+(lp3146
+F34.1500162
+aF-114.2891177
+asS'FL Clearwater'
+p3147
+(lp3148
+F27.9658533
+aF-82.8001026
+asS'IA Ossian'
+p3149
+(lp3150
+sS'NV Tonopah'
+p3151
+(lp3152
+sS'CA Rosamond'
+p3153
+(lp3154
+F34.8641446
+aF-118.1634075
+asS'OH West Portsmouth'
+p3155
+(lp3156
+F38.7584091
+aF-83.0290644
+asS'NJ Fremont'
+p3157
+(lp3158
+F39.9432836
+aF-75.0794753
+asS'AZ Wittmann'
+p3159
+(lp3160
+sS'MO Dederick'
+p3161
+(lp3162
+sS'CA Mojave'
+p3163
+(lp3164
+sS'IL Middletown'
+p3165
+(lp3166
+sS'MA Burlington'
+p3167
+(lp3168
+sS'MN Marshall'
+p3169
+(lp3170
+F44.448423
+aF-95.79119159999999
+asS'OR Oakridge'
+p3171
+(lp3172
+sS'KY Hopkinsville'
+p3173
+(lp3174
+sS'CA Salinas'
+p3175
+(lp3176
+F36.6777372
+aF-121.6555013
+asS'WI Berlin'
+p3177
+(lp3178
+F43.9680364
+aF-88.9434476
+asS'AZ Peoria'
+p3179
+(lp3180
+F33.5805955
+aF-112.2373779
+asS'IA West Union'
+p3181
+(lp3182
+F42.9627564
+aF-91.8082167
+asS'IL Mount Carmel'
+p3183
+(lp3184
+sS'CA Magalia'
+p3185
+(lp3186
+F39.8121058
+aF-121.5783059
+asS'NE Gretna'
+p3187
+(lp3188
+F41.14045489999999
+aF-96.24368419999999
+asS'CA Santa Barbara'
+p3189
+(lp3190
+sS'GA Johns Creek/Atlanta'
+p3191
+(lp3192
+sS'AL Phenix City'
+p3193
+(lp3194
+F32.4709761
+aF-85.0007653
+asS'NY Albany'
+p3195
+(lp3196
+F42.6525793
+aF-73.7562317
+asS'PA Monaca'
+p3197
+(lp3198
+sS'MN Bemidji'
+p3199
+(lp3200
+F47.4875361
+aF-94.8858492
+asS'CA Marysville'
+p3201
+(lp3202
+sS'GA Buford'
+p3203
+(lp3204
+F34.1206564
+aF-84.0043513
+asS'NV Nevada (eastern)'
+p3205
+(lp3206
+F36.00826139999999
+aF-115.1162371
+asS'CA Clovis'
+p3207
+(lp3208
+sS'PA Elliottsburg'
+p3209
+(lp3210
+sS'MA Taunton'
+p3211
+(lp3212
+sS'CO Centennial'
+p3213
+(lp3214
+F39.5807452
+aF-104.8771726
+asS'CA East Oroville'
+p3215
+(lp3216
+sS'TX Euless'
+p3217
+(lp3218
+F32.8370727
+aF-97.08195409999999
+asS'IL Rochelle'
+p3219
+(lp3220
+F41.9239178
+aF-89.0687073
+asS'CA Vallejo'
+p3221
+(lp3222
+F38.1040864
+aF-122.2566367
+asS'MA Bourne'
+p3223
+(lp3224
+sS'MI Mayville'
+p3225
+(lp3226
+sS'SC Gray Court'
+p3227
+(lp3228
+F34.6081774
+aF-82.113438
+asS'FL Port Saint Lucie'
+p3229
+(lp3230
+F27.2730492
+aF-80.3582261
+asS'NH Salem'
+p3231
+(lp3232
+sS'NY Colton'
+p3233
+(lp3234
+F44.5530213
+aF-74.9395061
+asS'KY Morehead'
+p3235
+(lp3236
+sS'MA Quincy'
+p3237
+(lp3238
+F42.2528772
+aF-71.0022705
+asS'MI Decatur'
+p3239
+(lp3240
+F42.1080979
+aF-85.97445689999999
+asS'AZ Laveen'
+p3241
+(lp3242
+sS'NY North Syracuse'
+p3243
+(lp3244
+sS'CA French Camp'
+p3245
+(lp3246
+sS'WA Pt. Townsend'
+p3247
+(lp3248
+sS'MN Shakopee'
+p3249
+(lp3250
+sS'MI Madison Heights'
+p3251
+(lp3252
+F42.4858692
+aF-83.1052028
+asS'MD Salisbury'
+p3253
+(lp3254
+F38.3606736
+aF-75.5993692
+asS'NY Pomona'
+p3255
+(lp3256
+F41.1912507
+aF-74.05644989999999
+asS'CA Reseda'
+p3257
+(lp3258
+F34.2011141
+aF-118.5360517
+asS'IL Algonquin'
+p3259
+(lp3260
+sS'MS Pontotoc'
+p3261
+(lp3262
+F34.2478831
+aF-88.998673
+asS'CT East Windsor'
+p3263
+(lp3264
+sS'KS Newton'
+p3265
+(lp3266
+F38.0466779
+aF-97.34503649999999
+asS'MI Belmont'
+p3267
+(lp3268
+F43.0747937
+aF-85.6123238
+asS'KS Topeka'
+p3269
+(lp3270
+F39.0558235
+aF-95.68901849999999
+asS'RI North Providence'
+p3271
+(lp3272
+F41.8535518
+aF-71.46766389999999
+asS'CT Cromwell'
+p3273
+(lp3274
+F41.5950989
+aF-72.6453705
+asS'VA Salem'
+p3275
+(lp3276
+sS'SC Pawleys Island'
+p3277
+(lp3278
+sS'MO Mountain View'
+p3279
+(lp3280
+F36.9953322
+aF-91.70375500000002
+asS'PA Pequea'
+p3281
+(lp3282
+sS'MN Lamberton'
+p3283
+(lp3284
+sS'MT Victor'
+p3285
+(lp3286
+F36.9786395
+aF-86.3958663
+asS'CA South Lake Tahoe'
+p3287
+(lp3288
+F38.939926
+aF-119.9771868
+asS'GA Lawrenceville'
+p3289
+(lp3290
+F33.9562149
+aF-83.9879625
+asS'VA Williamsburg'
+p3291
+(lp3292
+F37.2707022
+aF-76.7074571
+asS'AZ Payson'
+p3293
+(lp3294
+F34.2308684
+aF-111.3251355
+asS'VA North Chesterfield'
+p3295
+(lp3296
+F37.458993
+aF-77.468513
+asS'IL Macomb'
+p3297
+(lp3298
+F40.4592076
+aF-90.67179709999999
+asS'OH Findlay'
+p3299
+(lp3300
+F41.04422
+aF-83.6499321
+asS'VA Leesburg'
+p3301
+(lp3302
+F39.1156615
+aF-77.56360149999999
+asS'CA Monterey'
+p3303
+(lp3304
+F36.6002378
+aF-121.8946761
+asS'NJ Mount royal'
+p3305
+(lp3306
+F39.8099873
+aF-75.2117904
+asS'ON Vaughn (Canada)'
+p3307
+(lp3308
+sS'MB Selkirk (north of)(Canada)'
+p3309
+(lp3310
+F50.1435276
+aF-96.8754295
+asS'DE Harrington'
+p3311
+(lp3312
+sS'MO Windsor'
+p3313
+(lp3314
+F38.5322401
+aF-93.5221545
+asS'OH Columbus'
+p3315
+(lp3316
+F39.9611755
+aF-82.99879419999999
+asS'ON Midland (Canada)'
+p3317
+(lp3318
+F44.74951600000001
+aF-79.89219229999999
+asS'TN Bristol'
+p3319
+(lp3320
+F36.5951059
+aF-82.18874439999999
+asS'MI Farmington Hills'
+p3321
+(lp3322
+sS'CA Pleasanton'
+p3323
+(lp3324
+sS'TX Lake Kiowa'
+p3325
+(lp3326
+sS'ND Cary'
+p3327
+(lp3328
+F35.7403713
+aF-78.7851891
+asS'AB Spring Lake (Canada)'
+p3329
+(lp3330
+F53.5183838
+aF-114.140764
+asS'CA Laguna Niguel'
+p3331
+(lp3332
+sS'HI Waipio'
+p3333
+(lp3334
+F21.414311
+aF-157.9955852
+asS'CT Stratford'
+p3335
+(lp3336
+F41.18454149999999
+aF-73.1331651
+asS'CO Florence'
+p3337
+(lp3338
+sS'NH Atkinson/Kingston'
+p3339
+(lp3340
+F42.8660113
+aF-71.0901679
+asS'FL Lauderhill'
+p3341
+(lp3342
+sS'OR Northwest Medford'
+p3343
+(lp3344
+sS'RI Providence'
+p3345
+(lp3346
+F41.8239891
+aF-71.4128343
+asS'TX Cedar Park'
+p3347
+(lp3348
+F30.505198
+aF-97.8202888
+asS'FL Panama City Beach'
+p3349
+(lp3350
+F30.1765914
+aF-85.8054879
+asS'RI Charlestown'
+p3351
+(lp3352
+F41.3832162
+aF-71.64187439999999
+asS'MO St. Charles'
+p3353
+(lp3354
+F38.7881062
+aF-90.4974359
+asS'RI Cranston'
+p3355
+(lp3356
+sS'IA Jasper County'
+p3357
+(lp3358
+F41.6414924
+aF-93.0175712
+asS'ID Elmore County (House Mountain Road)'
+p3359
+(lp3360
+F43.4812131
+aF-115.4872351
+asS'WA Oysterville'
+p3361
+(lp3362
+F46.5489871
+aF-124.0282197
+asS'IL Union'
+p3363
+(lp3364
+F42.2330782
+aF-88.5423132
+asS'NV Gardnerville'
+p3365
+(lp3366
+sS'LA Nairn'
+p3367
+(lp3368
+F29.4279955
+aF-89.6108947
+asS'CO Golden'
+p3369
+(lp3370
+F39.755543
+aF-105.2210997
+asS'CA Newport Beach'
+p3371
+(lp3372
+F33.6189101
+aF-117.9289469
+asS'MI Bloomfield Hills'
+p3373
+(lp3374
+F42.583645
+aF-83.24548829999999
+asS'CA Napa'
+p3375
+(lp3376
+sS'NY Auburn'
+p3377
+(lp3378
+F42.9317335
+aF-76.5660529
+asS'GA Hoschton'
+p3379
+(lp3380
+F34.096496
+aF-83.7612839
+asS'ND Ruso'
+p3381
+(lp3382
+F47.83833689999999
+aF-100.9334809
+asS'PA Cecil'
+p3383
+(lp3384
+F40.3099159
+aF-80.1986649
+asS'AZ San Tan Valley'
+p3385
+(lp3386
+F33.177294
+aF-111.5468301
+asS'CO Canon City'
+p3387
+(lp3388
+sS'TX Haltom City'
+p3389
+(lp3390
+sS'NJ Ocean City'
+p3391
+(lp3392
+F39.2776156
+aF-74.5746001
+asS'CO Lakewood'
+p3393
+(lp3394
+F39.7047095
+aF-105.0813734
+asS'AZ Lakeside'
+p3395
+(lp3396
+sS'MI Sterling'
+p3397
+(lp3398
+sS'YT Watson Lake (Canada)'
+p3399
+(lp3400
+F60.06280599999999
+aF-128.710913
+asS'MD Wheaton'
+p3401
+(lp3402
+F39.0398314
+aF-77.05525550000002
+asS'MT Billings'
+p3403
+(lp3404
+F45.7832856
+aF-108.5006904
+asS'AZ Mohave Valley'
+p3405
+(lp3406
+sS'MA Medford'
+p3407
+(lp3408
+F42.4184296
+aF-71.1061639
+asS'NY East Northport'
+p3409
+(lp3410
+sS'UT Hildale'
+p3411
+(lp3412
+sS'KS Oak Hill'
+p3413
+(lp3414
+sS'FL Lakeland'
+p3415
+(lp3416
+F28.0394654
+aF-81.9498042
+asS'NM Rivera Maya'
+p3417
+(lp3418
+F20.506925
+aF-87.21539
+asS'MN Scanlon'
+p3419
+(lp3420
+sS'CA Escondido'
+p3421
+(lp3422
+F33.1192068
+aF-117.086421
+asS'WI Arlington'
+p3423
+(lp3424
+F43.3380439
+aF-89.3803956
+asS'CO Durango'
+p3425
+(lp3426
+sS'NJ Medford'
+p3427
+(lp3428
+sS'GA Evans'
+p3429
+(lp3430
+sS'OH Warren'
+p3431
+(lp3432
+sS'WA Camano Island'
+p3433
+(lp3434
+sS'CA Rancho Palos Verdes'
+p3435
+(lp3436
+F33.7444613
+aF-118.3870173
+asS'WI Auburn'
+p3437
+(lp3438
+F43.5851177
+aF-88.2071598
+asS'WI Mosinee'
+p3439
+(lp3440
+F44.7930232
+aF-89.70317840000001
+asS'IL St. Charles'
+p3441
+(lp3442
+F41.9141945
+aF-88.3086867
+asS'TX Dallas (Lakewood area)'
+p3443
+(lp3444
+F32.83455
+aF-96.74280519999999
+asS'NH Manchester'
+p3445
+(lp3446
+F42.9956397
+aF-71.4547891
+asS'NM Santa Fe'
+p3447
+(lp3448
+F35.6869752
+aF-105.937799
+asS'FL Pompano Beach'
+p3449
+(lp3450
+sS'AZ Wickieup'
+p3451
+(lp3452
+sS'WA Spokane'
+p3453
+(lp3454
+F47.6587802
+aF-117.4260466
+asS'GA Woodstock'
+p3455
+(lp3456
+F34.1014873
+aF-84.5193754
+asS'MA Dudley'
+p3457
+(lp3458
+sS'MA Sheffield'
+p3459
+(lp3460
+F42.1099885
+aF-73.35514359999999
+asS'NC Red Cross'
+p3461
+(lp3462
+sS'CA South Gate'
+p3463
+(lp3464
+F33.954737
+aF-118.2120161
+asS'NC Calabash'
+p3465
+(lp3466
+sS'FL Live Oak'
+p3467
+(lp3468
+sS'CA Cayucos'
+p3469
+(lp3470
+F35.4427511
+aF-120.8921254
+asS'IL West Chicago'
+p3471
+(lp3472
+F41.8847507
+aF-88.2039607
+asS'MA Dartmouth'
+p3473
+(lp3474
+sS'ME Kittery'
+p3475
+(lp3476
+sS'NC Surf City'
+p3477
+(lp3478
+F34.4271121
+aF-77.5460805
+asS'TX Ingram'
+p3479
+(lp3480
+F30.0774307
+aF-99.24032129999999
+asS'SD North Sioux City'
+p3481
+(lp3482
+F42.5272168
+aF-96.48308639999999
+asS'NJ West New York'
+p3483
+(lp3484
+F40.7878788
+aF-74.0143064
+asS'NJ Brigantine'
+p3485
+(lp3486
+sS'WI Greenfield'
+p3487
+(lp3488
+F42.9614039
+aF-88.0125865
+asS'NJ West Collingswood'
+p3489
+(lp3490
+F39.9062557
+aF-75.094695
+asS'LA Independence'
+p3491
+(lp3492
+F30.635466
+aF-90.5009245
+asS'CA Granada Hills'
+p3493
+(lp3494
+sS'OH Ravenna'
+p3495
+(lp3496
+F41.1575566
+aF-81.2420473
+asS'OH Lima'
+p3497
+(lp3498
+F40.742551
+aF-84.1052256
+asS'CT Middlefield'
+p3499
+(lp3500
+F41.5173203
+aF-72.71204019999999
+asS'WA Burlington'
+p3501
+(lp3502
+sS'CA Fresno'
+p3503
+(lp3504
+F36.7468422
+aF-119.7725868
+asS'AZ Gila Bend'
+p3505
+(lp3506
+F32.9478236
+aF-112.7168305
+asS'WI Oshkosh'
+p3507
+(lp3508
+F44.0247062
+aF-88.5426136
+asS'TX Longview'
+p3509
+(lp3510
+F32.5007037
+aF-94.74048909999999
+asS'MI Michigan (Central Upper)'
+p3511
+(lp3512
+sS'NS Sydney (Australia)'
+p3513
+(lp3514
+F-33.864408
+aF151.2112459
+asS'NE Ogallala'
+p3515
+(lp3516
+F41.12821780000001
+aF-101.7203993
+asS'MD Pasadena'
+p3517
+(lp3518
+F39.1073317
+aF-76.57107529999999
+asS'CA Highland'
+p3519
+(lp3520
+F34.1283442
+aF-117.2086513
+asS'NJ Oakland'
+p3521
+(lp3522
+sS'PA Lewisburg'
+p3523
+(lp3524
+sS'OH North Canton'
+p3525
+(lp3526
+sS'WA Curlew'
+p3527
+(lp3528
+F48.88346809999999
+aF-118.5994651
+asS'MI Williamston'
+p3529
+(lp3530
+sS'CA Indio'
+p3531
+(lp3532
+F33.7205771
+aF-116.2155619
+asS'AR Springdale'
+p3533
+(lp3534
+sS'MO Sarcoxie'
+p3535
+(lp3536
+sS'NJ Long Branch'
+p3537
+(lp3538
+sS'NM White Sands'
+p3539
+(lp3540
+F32.7872403
+aF-106.3256816
+asS'MO Brookline Station'
+p3541
+(lp3542
+F37.1681133
+aF-93.3848972
+asS'MO Lathrop'
+p3543
+(lp3544
+F39.5483354
+aF-94.3299461
+asS'TN White House'
+p3545
+(lp3546
+F36.4703232
+aF-86.65138449999999
+asS'FL North Port'
+p3547
+(lp3548
+F27.044224
+aF-82.2359254
+asS'GA Columbus'
+p3549
+(lp3550
+F32.4609764
+aF-84.9877094
+asS'ID Mountain Home'
+p3551
+(lp3552
+F43.1329504
+aF-115.6911975
+asS'AR Jacksonville'
+p3553
+(lp3554
+F34.8662005
+aF-92.1101458
+asS'AR Corning/Pocahontas (between)'
+p3555
+(lp3556
+F36.2489622
+aF-90.96120739999999
+asS'NC Nags Head'
+p3557
+(lp3558
+sS'CA La Canada'
+p3559
+(lp3560
+F34.2068182
+aF-118.2000277
+asS'CA Pt. Sur (50 miles off)'
+p3561
+(lp3562
+F46.0736242
+aF-64.763922
+asS'PA Moon Township/clinton'
+p3563
+(lp3564
+F40.5070688
+aF-80.2720981
+asS'NV Denio (south of)'
+p3565
+(lp3566
+F41.9898955
+aF-118.6343404
+asS'SD Box Elder'
+p3567
+(lp3568
+sS'TN Lake Tanis'
+p3569
+(lp3570
+F35.8728456
+aF-85.0544017
+asS'TX Big Spring'
+p3571
+(lp3572
+sS'CA Kings Canyon National Parks'
+p3573
+(lp3574
+sS'SC Goose Creek'
+p3575
+(lp3576
+F32.9810059
+aF-80.03258670000001
+asS'GA Riverdale'
+p3577
+(lp3578
+F33.5726113
+aF-84.4132594
+asS'WI Appleton'
+p3579
+(lp3580
+F44.2619309
+aF-88.41538469999999
+asS'BC Port Clements (Canada)'
+p3581
+(lp3582
+F53.6887137
+aF-132.1847553
+asS'NE La Vista'
+p3583
+(lp3584
+F41.18388780000001
+aF-96.031127
+asS'AZ not sure'
+p3585
+(lp3586
+sS'SD Brandon'
+p3587
+(lp3588
+F43.5946963
+aF-96.5719896
+asS'MI Athens'
+p3589
+(lp3590
+F42.0886576
+aF-85.2347051
+asS'MI Muskegon'
+p3591
+(lp3592
+F43.2341813
+aF-86.24839209999999
+asS'IL Buffalo Grove'
+p3593
+(lp3594
+sS'TX Lake Conroe'
+p3595
+(lp3596
+F30.4368954
+aF-95.59849249999999
+asS'OH Marietta'
+p3597
+(lp3598
+F39.41535200000001
+aF-81.45484359999999
+asS'MI Livonia'
+p3599
+(lp3600
+sS'CA Grapevine'
+p3601
+(lp3602
+F34.9416383
+aF-118.9301004
+asS'FL Ft. Lauderdale'
+p3603
+(lp3604
+F26.1224386
+aF-80.13731740000001
+asS'WA Pasco'
+p3605
+(lp3606
+F46.2395793
+aF-119.1005657
+asS'OH Akron'
+p3607
+(lp3608
+F41.0814447
+aF-81.51900529999999
+asS'OK Okmulgee'
+p3609
+(lp3610
+sS'AR Mountain Home'
+p3611
+(lp3612
+F36.3353949
+aF-92.381346
+asS'MN Minneapolis'
+p3613
+(lp3614
+F44.977753
+aF-93.2650108
+asS'VA Charlottesville'
+p3615
+(lp3616
+F38.0293059
+aF-78.47667810000002
+asS'MN Stillwater'
+p3617
+(lp3618
+F45.056004
+aF-92.80884429999999
+asS'OH Centerburg'
+p3619
+(lp3620
+F40.3045067
+aF-82.69628290000001
+asS'OR Adrian'
+p3621
+(lp3622
+F43.7407155
+aF-117.0718261
+asS'AZ Scottsdale'
+p3623
+(lp3624
+F33.4941704
+aF-111.9260519
+asS'NY Buffalo'
+p3625
+(lp3626
+F42.88644679999999
+aF-78.8783689
+asS'WA Colfax'
+p3627
+(lp3628
+sS'FL Port St. Lucie'
+p3629
+(lp3630
+sS'VA Raphine'
+p3631
+(lp3632
+F37.9373548
+aF-79.2328102
+asS'CA Auburn'
+p3633
+(lp3634
+sS'CA Laguna Hills'
+p3635
+(lp3636
+sS'WI Cedarburg'
+p3637
+(lp3638
+sS'SD Crooks'
+p3639
+(lp3640
+sS'NY Bay Shore'
+p3641
+(lp3642
+F40.7250986
+aF-73.2453946
+asS'CO Rocky Ford'
+p3643
+(lp3644
+sS'NY New York City (Bronx)'
+p3645
+(lp3646
+F40.8447819
+aF-73.8648268
+asS'IN Boone Grove'
+p3647
+(lp3648
+F41.35502899999999
+aF-87.13284349999999
+asS'PA Macungie'
+p3649
+(lp3650
+F40.51593039999999
+aF-75.55518579999999
+asS'WA Bellingham'
+p3651
+(lp3652
+F48.7519112
+aF-122.4786854
+asS'FL Oviedo'
+p3653
+(lp3654
+sS'TN Charleston'
+p3655
+(lp3656
+F35.2872952
+aF-84.7582743
+asS'ON St. Catharines (Canada)'
+p3657
+(lp3658
+sS'CA Sun City'
+p3659
+(lp3660
+F33.7091878
+aF-117.1972566
+asS'KY Paris'
+p3661
+(lp3662
+F38.2097987
+aF-84.2529869
+asS'SC Andrews'
+p3663
+(lp3664
+F33.45127799999999
+aF-79.56089709999999
+asS'OH Brook Park'
+p3665
+(lp3666
+F41.3983838
+aF-81.8045788
+asS'OR Eagle Point'
+p3667
+(lp3668
+F42.4726258
+aF-122.8028177
+asS'FL Viera'
+p3669
+(lp3670
+sS'NC Emerald Isle'
+p3671
+(lp3672
+sS'NH Wakefield'
+p3673
+(lp3674
+F43.5536938
+aF-71.0288751
+asS'NJ Egg Harbor Township'
+p3675
+(lp3676
+F39.3822537
+aF-74.6166192
+asS'IN Anderson'
+p3677
+(lp3678
+sS'NC Black Mountain'
+p3679
+(lp3680
+F35.6178951
+aF-82.3212302
+asS'NC Mills River'
+p3681
+(lp3682
+sS'MN Maple Grove'
+p3683
+(lp3684
+F45.0724642
+aF-93.4557877
+asS'OH Canton'
+p3685
+(lp3686
+F40.79894729999999
+aF-81.378447
+asS'CA North Hollywood'
+p3687
+(lp3688
+sS'NC Mebane'
+p3689
+(lp3690
+F36.0959715
+aF-79.2669619
+asS'NY Belleville'
+p3691
+(lp3692
+sS'UT Delta'
+p3693
+(lp3694
+sS'GA Bethlehem'
+p3695
+(lp3696
+F33.9320556
+aF-83.7137827
+asS'CA El Segundo'
+p3697
+(lp3698
+sS'NJ Burlington'
+p3699
+(lp3700
+F40.071222
+aF-74.86488729999999
+asS'TN Loudon'
+p3701
+(lp3702
+F35.7328541
+aF-84.3338112
+asS'SC Florence'
+p3703
+(lp3704
+F34.1954331
+aF-79.7625625
+asS'VA Big Stone Gap'
+p3705
+(lp3706
+sS'VA Chincoteague'
+p3707
+(lp3708
+sS'NS Truro (Canada)'
+p3709
+(lp3710
+F45.3657733
+aF-63.28694069999999
+asS'NV Minden'
+p3711
+(lp3712
+sS'AZ Golden Valley'
+p3713
+(lp3714
+F35.2233311
+aF-114.2230108
+asS'CA Citrus Heights'
+p3715
+(lp3716
+F38.7071247
+aF-121.2810611
+asS'GA Adairsville'
+p3717
+(lp3718
+F34.3687021
+aF-84.9341093
+asS'NJ Cape May Court House'
+p3719
+(lp3720
+F39.0826135
+aF-74.82377860000001
+asS'ME Newport'
+p3721
+(lp3722
+F44.8557175
+aF-69.2444565
+asS'NY Geneva'
+p3723
+(lp3724
+F42.8679836
+aF-76.985557
+asS'OK Howe'
+p3725
+(lp3726
+F34.9512108
+aF-94.6371704
+asS'MN St. Paul'
+p3727
+(lp3728
+F44.9537029
+aF-93.0899578
+asS'GA Bremen'
+p3729
+(lp3730
+F33.7212179
+aF-85.1455036
+asS'FL Indian Rock Beach'
+p3731
+(lp3732
+sS'WA Mount Vernon'
+p3733
+(lp3734
+sS'IL Carlinville'
+p3735
+(lp3736
+F39.27976990000001
+aF-89.8817662
+asS'NC Kure Beach'
+p3737
+(lp3738
+sS'FL San Antonio'
+p3739
+(lp3740
+F28.3361142
+aF-82.2745307
+asS'OH Mayfield Heights'
+p3741
+(lp3742
+F41.5192189
+aF-81.45789599999999
+asS'CO Ridgway'
+p3743
+(lp3744
+F38.1525873
+aF-107.7556162
+asS'CA Corona'
+p3745
+(lp3746
+F33.8752935
+aF-117.5664384
+asS'AR Siloam Springs'
+p3747
+(lp3748
+sS'WA Lynden'
+p3749
+(lp3750
+sS'IL New Lenox'
+p3751
+(lp3752
+sS'MN Grand Marais'
+p3753
+(lp3754
+sS'CA Tustin'
+p3755
+(lp3756
+F33.7458511
+aF-117.826166
+asS'IL Sullivan'
+p3757
+(lp3758
+F39.599479
+aF-88.6078392
+asS'MB Gimli (Canada)'
+p3759
+(lp3760
+sS'MA Marlborough'
+p3761
+(lp3762
+F42.3459271
+aF-71.5522874
+asS'KY Somerset'
+p3763
+(lp3764
+sS'CO Eaton'
+p3765
+(lp3766
+F40.5194046
+aF-104.702515
+asS'MO Palmyra'
+p3767
+(lp3768
+F39.7942118
+aF-91.5232106
+asS'CA Santa Clarita'
+p3769
+(lp3770
+sS'FL Hudson'
+p3771
+(lp3772
+F28.3644485
+aF-82.69343429999999
+asS'ON Niagara Falls (Canada)'
+p3773
+(lp3774
+F43.0895577
+aF-79.0849436
+asS'MD Owings Mills'
+p3775
+(lp3776
+F39.4195499
+aF-76.7802528
+asS'IL Godfrey'
+p3777
+(lp3778
+sS'RI Woonsocket'
+p3779
+(lp3780
+F42.00287609999999
+aF-71.51478390000001
+asS'MN Wabasha'
+p3781
+(lp3782
+F44.3710051
+aF-92.0382346
+asS'TX Waco'
+p3783
+(lp3784
+F31.549333
+aF-97.1466695
+asS'PA Jefferson Hills'
+p3785
+(lp3786
+F40.2911809
+aF-79.93199419999999
+asS'FL Tarpon Springs'
+p3787
+(lp3788
+F28.1461248
+aF-82.7567679
+asS'AL Spanish Fort'
+p3789
+(lp3790
+sS'MA Exit 8 mass pike'
+p3791
+(lp3792
+sS'IL Stickney'
+p3793
+(lp3794
+F41.821421
+aF-87.7828339
+asS'MI Stering Heights'
+p3795
+(lp3796
+F42.5803122
+aF-83.0302033
+asS'ME Poland'
+p3797
+(lp3798
+F44.0606281
+aF-70.39366749999999
+asS'OH Chardon'
+p3799
+(lp3800
+F41.5786639
+aF-81.2133262
+asS'NY Amsterdam'
+p3801
+(lp3802
+sS'MA South Dennis'
+p3803
+(lp3804
+F41.7020781
+aF-70.1515342
+asS'MD Rockville'
+p3805
+(lp3806
+F39.0839973
+aF-77.1527578
+asS'TN Jackson'
+p3807
+(lp3808
+F35.6145169
+aF-88.81394689999999
+asS'MN Redwood Falls'
+p3809
+(lp3810
+F44.5394039
+aF-95.1169424
+asS'OH Wilmington'
+p3811
+(lp3812
+sS'FL Winter Springs'
+p3813
+(lp3814
+F28.6988853
+aF-81.30812259999999
+asS'WY Buford'
+p3815
+(lp3816
+F41.1236875
+aF-105.3022921
+asS'VA Waynesboro'
+p3817
+(lp3818
+F38.0684692
+aF-78.8894682
+asS'FL Flagler'
+p3819
+(lp3820
+F29.4086072
+aF-81.2518833
+asS'GA Canton'
+p3821
+(lp3822
+F34.2367621
+aF-84.4907621
+asS'NJ Lindenwold'
+p3823
+(lp3824
+F39.8201681
+aF-74.9851678
+asS'FL Brooksville'
+p3825
+(lp3826
+sS'CA Dublin'
+p3827
+(lp3828
+sS'WA Newcastle'
+p3829
+(lp3830
+F47.5389889
+aF-122.1556769
+asS'MI Wyoming'
+p3831
+(lp3832
+sS'PA Huntingdon'
+p3833
+(lp3834
+sS'CA Visalia'
+p3835
+(lp3836
+F36.3302284
+aF-119.2920585
+asS'MD Aberdeen'
+p3837
+(lp3838
+sS'NC Gates'
+p3839
+(lp3840
+F36.4202077
+aF-76.6874701
+asS'FL Venice'
+p3841
+(lp3842
+sS'OH Hamilton'
+p3843
+(lp3844
+F39.2355447
+aF-84.56414699999999
+asS'KY Clarkson'
+p3845
+(lp3846
+F37.4953332
+aF-86.22136139999999
+asS'OR Roseburg'
+p3847
+(lp3848
+sS'TN Andersonville'
+p3849
+(lp3850
+F36.1986395
+aF-84.0369153
+asS'CA Alpaugh'
+p3851
+(lp3852
+sS'LA New Orleans'
+p3853
+(lp3854
+sS'CA Gardena'
+p3855
+(lp3856
+F33.8883487
+aF-118.3089624
+asS'FL St. Augustine Beach'
+p3857
+(lp3858
+sS'MD Potomac'
+p3859
+(lp3860
+F39.0181651
+aF-77.2085914
+asS'WA Washougal'
+p3861
+(lp3862
+sS'MN Saginaw'
+p3863
+(lp3864
+F46.8591081
+aF-92.44435659999999
+asS'SC Conway'
+p3865
+(lp3866
+F33.8360034
+aF-79.0478143
+asS'NE Bellevue'
+p3867
+(lp3868
+F41.1543623
+aF-95.9145568
+asS'VT Rutland (near; Griffith Lake)'
+p3869
+(lp3870
+F43.3030023
+aF-72.95971300000001
+asS'NJ Mananlapan'
+p3871
+(lp3872
+F40.2859203
+aF-74.348582
+asS'CA Goleta'
+p3873
+(lp3874
+F34.4358294
+aF-119.8276389
+asS'CA La Jolla'
+p3875
+(lp3876
+F32.8328112
+aF-117.2712717
+asS'AK Anchorage/Eagle River (between)'
+p3877
+(lp3878
+sS'CA Dana Point'
+p3879
+(lp3880
+F33.4669721
+aF-117.6981075
+asS'CA Santa Monica'
+p3881
+(lp3882
+F34.0194543
+aF-118.4911912
+asS'CA Yucca Valley'
+p3883
+(lp3884
+F34.1141743
+aF-116.432235
+asS'MT Glendive'
+p3885
+(lp3886
+F47.106401
+aF-104.7107931
+asS'CO Lafayette'
+p3887
+(lp3888
+sS'MI Garden City'
+p3889
+(lp3890
+sS'NY Phoenix to Syracuse'
+p3891
+(lp3892
+sS'CT Stamford'
+p3893
+(lp3894
+F41.0534302
+aF-73.5387341
+asS'NJ Dover'
+p3895
+(lp3896
+F40.883988
+aF-74.5621025
+asS'IN Angola'
+p3897
+(lp3898
+sS'NJ Red Bank'
+p3899
+(lp3900
+F40.3470543
+aF-74.0643065
+asS'OH Waverly/Chillicothe'
+p3901
+(lp3902
+F39.33228039999999
+aF-82.9821185
+asS'GA Powder Springs'
+p3903
+(lp3904
+F33.8595491
+aF-84.683824
+asS'VA New Kent'
+p3905
+(lp3906
+F37.4653757
+aF-76.964306
+asS'NY New York'
+p3907
+(lp3908
+F40.7127837
+aF-74.0059413
+asS'NY Lancaster'
+p3909
+(lp3910
+sS'MA Hanson'
+p3911
+(lp3912
+sS'AZ Florence Jct./Reymart'
+p3913
+(lp3914
+sS'NM Socorro'
+p3915
+(lp3916
+F34.0583995
+aF-106.8914159
+asS'NJ Dorothy'
+p3917
+(lp3918
+sS'AZ Phoenix/Tempe'
+p3919
+(lp3920
+sS'MA Carver'
+p3921
+(lp3922
+F41.8834363
+aF-70.7625376
+asS'CT Wolcott'
+p3923
+(lp3924
+sS'CO Delta'
+p3925
+(lp3926
+F38.7422062
+aF-108.0689582
+asS'GA Boston'
+p3927
+(lp3928
+F42.3530393
+aF-71.0574419
+asS"MO Lee's Summit"
+p3929
+(lp3930
+sS'PA Zelienople'
+p3931
+(lp3932
+sS'CA East Los Angeles'
+p3933
+(lp3934
+F34.0224417
+aF-118.1669736
+asS'MI Canton'
+p3935
+(lp3936
+sS'PA Bernville'
+p3937
+(lp3938
+F40.433426
+aF-76.1121648
+asS'MT Hamilton'
+p3939
+(lp3940
+sS'GA Kennesaw'
+p3941
+(lp3942
+F34.0234337
+aF-84.6154897
+asS'AZ Buckeye/Litchfield Park'
+p3943
+(lp3944
+F33.4651503
+aF-112.3612522
+asS'NJ Rahway'
+p3945
+(lp3946
+sS'NJ Bayonne'
+p3947
+(lp3948
+F40.6687141
+aF-74.1143091
+asS'IN North Vernon'
+p3949
+(lp3950
+F39.006165
+aF-85.6235796
+asS'WI Waunakee'
+p3951
+(lp3952
+F43.1919373
+aF-89.45567489999999
+asS'MN Eagan'
+p3953
+(lp3954
+F44.8041322
+aF-93.1668858
+asS'CA Pollock Pines'
+p3955
+(lp3956
+F38.7612923
+aF-120.5865935
+asS'CA Redlands'
+p3957
+(lp3958
+F34.0555693
+aF-117.1825381
+asS'NC Hickory'
+p3959
+(lp3960
+F35.7344538
+aF-81.3444573
+asS'NY Wingdale'
+p3961
+(lp3962
+sS'WI Macfarland'
+p3963
+(lp3964
+F43.0124984
+aF-89.2898397
+asS'OK Mountain View'
+p3965
+(lp3966
+sS'NY Chester'
+p3967
+(lp3968
+F41.3625937
+aF-74.27126129999999
+asS'CO Morrison'
+p3969
+(lp3970
+F45.9846475
+aF-94.052545
+asS'MO Jefferson City'
+p3971
+(lp3972
+F38.57670170000001
+aF-92.1735164
+asS'GA Cornelia'
+p3973
+(lp3974
+sS'CT Torrington'
+p3975
+(lp3976
+F41.8003049
+aF-73.1211715
+asS'WV Foster'
+p3977
+(lp3978
+F38.097323
+aF-81.77984409999999
+asS'MN Lake Vermilion (near tower)'
+p3979
+(lp3980
+sS'SK Air Ronge (Canada)'
+p3981
+(lp3982
+sS'NM Clovis'
+p3983
+(lp3984
+sS'CA Ridgecrest'
+p3985
+(lp3986
+F35.6224561
+aF-117.6708966
+asS'PA Manheim'
+p3987
+(lp3988
+sS'CO Gilcrest'
+p3989
+(lp3990
+F40.2819266
+aF-104.7777471
+asS'MA Athol'
+p3991
+(lp3992
+sS'MI Fraser'
+p3993
+(lp3994
+sS'OH Lancaster'
+p3995
+(lp3996
+F39.7136754
+aF-82.5993294
+asS'BC Kamloops (Canada)'
+p3997
+(lp3998
+sS'CA San Francisco'
+p3999
+(lp4000
+sS'NC Vale'
+p4001
+(lp4002
+F35.5400511
+aF-81.39775589999999
+asS'MD Monrovia'
+p4003
+(lp4004
+F39.372243
+aF-77.27098649999999
+asS'CA Davenport'
+p4005
+(lp4006
+F37.01352079999999
+aF-122.1966597
+asS'CA Madera'
+p4007
+(lp4008
+F36.9613356
+aF-120.0607176
+asS'AL Ozark'
+p4009
+(lp4010
+F31.459017
+aF-85.640289
+asS'MD Rosedale'
+p4011
+(lp4012
+sS'PA Jamestown'
+p4013
+(lp4014
+F41.48477580000001
+aF-80.4375687
+asS'NJ Secaucus'
+p4015
+(lp4016
+F40.7895453
+aF-74.05652979999999
+asS'IL East Peoria'
+p4017
+(lp4018
+F40.666149
+aF-89.5800978
+asS'PA Bensalem'
+p4019
+(lp4020
+F40.09944249999999
+aF-74.9325683
+asS'NC Dobson'
+p4021
+(lp4022
+F36.3956891
+aF-80.722567
+asS'FL Amelia Island'
+p4023
+(lp4024
+F30.6265697
+aF-81.46085599999999
+asS'VA Bristol'
+p4025
+(lp4026
+F36.595141
+aF-82.1888089
+asS'CO Evergreen'
+p4027
+(lp4028
+sS'CA Shingle Springs'
+p4029
+(lp4030
+F38.6691362
+aF-120.9359987
+asS'NC Belmont'
+p4031
+(lp4032
+F35.2429175
+aF-81.037297
+asS'CA Whittier'
+p4033
+(lp4034
+F33.9791793
+aF-118.032844
+asS'AZ Sun City'
+p4035
+(lp4036
+sS'FL Lake Worth'
+p4037
+(lp4038
+F26.6167555
+aF-80.0684479
+asS'CA Phelan'
+p4039
+(lp4040
+sS'IL Jerseyville'
+p4041
+(lp4042
+F39.1200471
+aF-90.3284479
+asS'FL Oldsmar'
+p4043
+(lp4044
+F28.0341847
+aF-82.6650992
+asS'WI Sullivan'
+p4045
+(lp4046
+sS'IA Osceola'
+p4047
+(lp4048
+F41.0342618
+aF-93.766759
+asS'MO Troy'
+p4049
+(lp4050
+sS'GA Senoia'
+p4051
+(lp4052
+F33.3023411
+aF-84.5538165
+asS'ME North Berwick'
+p4053
+(lp4054
+sS'NC Zebulon'
+p4055
+(lp4056
+F35.8243208
+aF-78.3147199
+asS'WI Racine'
+p4057
+(lp4058
+F42.7261309
+aF-87.78285230000002
+asS'FL South Tampa'
+p4059
+(lp4060
+F27.8736334
+aF-82.50775929999999
+asS'UT Orem'
+p4061
+(lp4062
+F40.2968979
+aF-111.6946475
+asS'MD Annapolis'
+p4063
+(lp4064
+F38.9784453
+aF-76.4921829
+asS'MI Highland'
+p4065
+(lp4066
+F42.6380014
+aF-83.6175677
+asS'CA Anaheim (NE  of)'
+p4067
+(lp4068
+sS'SC South Myrtle Beach/ surfside beach'
+p4069
+(lp4070
+sS'MN Saint Paul'
+p4071
+(lp4072
+F44.9537029
+aF-93.0899578
+asS'IN Princeton'
+p4073
+(lp4074
+F38.3553236
+aF-87.5675222
+asS'NY Williamsville'
+p4075
+(lp4076
+F42.963947
+aF-78.73780909999999
+asS'OR Grants Pass'
+p4077
+(lp4078
+F42.4390069
+aF-123.3283925
+asS'NY Webster'
+p4079
+(lp4080
+F43.2122851
+aF-77.4299939
+asS'ON Ottawa (Canada)'
+p4081
+(lp4082
+F45.4215296
+aF-75.69719309999999
+asS'MN Chanhassen (east of)'
+p4083
+(lp4084
+F44.86196450000001
+aF-93.53231029999999
+asS'NC Gastonia'
+p4085
+(lp4086
+sS'KS Basehor'
+p4087
+(lp4088
+F39.1416692
+aF-94.9385762
+asS'CO Sterling'
+p4089
+(lp4090
+sS'FL Southport'
+p4091
+(lp4092
+F30.2903306
+aF-85.65247839999999
+asS'CA Chino'
+p4093
+(lp4094
+sS'MA Franklin'
+p4095
+(lp4096
+F42.0834313
+aF-71.396725
+asS'IN Indianapolis'
+p4097
+(lp4098
+F39.768403
+aF-86.158068
+asS'CO Telluride'
+p4099
+(lp4100
+sS'AR Light'
+p4101
+(lp4102
+sS'MA Concord'
+p4103
+(lp4104
+sS'NC Wake Forest'
+p4105
+(lp4106
+F35.9798734
+aF-78.50972279999999
+asS'YT Melbourne (Australia)'
+p4107
+(lp4108
+sS'OR Sherwood'
+p4109
+(lp4110
+F45.3565074
+aF-122.840098
+asS'FL Lake Wales'
+p4111
+(lp4112
+F27.9014133
+aF-81.58590989999999
+asS'KS Leawood'
+p4113
+(lp4114
+F38.966673
+aF-94.6169012
+asS'NY Rochester'
+p4115
+(lp4116
+F43.16103
+aF-77.6109219
+asS'OR Albany (near)'
+p4117
+(lp4118
+F44.6365107
+aF-123.1059282
+asS'NY Vestal'
+p4119
+(lp4120
+F42.0855898
+aF-76.053575
+asS'DE Wilmington'
+p4121
+(lp4122
+F39.7390721
+aF-75.5397878
+asS'WI Ellsworth'
+p4123
+(lp4124
+F44.7321897
+aF-92.4874124
+asS'CA Merced'
+p4125
+(lp4126
+F37.3021632
+aF-120.4829677
+asS'HI Napili'
+p4127
+(lp4128
+F20.963681
+aF-156.6808988
+asS'ID Buhl'
+p4129
+(lp4130
+sS'WA Kelso'
+p4131
+(lp4132
+F46.146779
+aF-122.9084445
+asS'NJ Newton'
+p4133
+(lp4134
+sS'NJ Bamber Lakes'
+p4135
+(lp4136
+F39.8906737
+aF-74.3120895
+asS'CA San Gabriel'
+p4137
+(lp4138
+sS'NH Northfield'
+p4139
+(lp4140
+F43.4352102
+aF-71.5900508
+asS'BC Parksville/Nanaimo (Canada)'
+p4141
+(lp4142
+F49.3193375
+aF-124.3136412
+asS'GA Cumming'
+p4143
+(lp4144
+F34.2073196
+aF-84.14019259999999
+asS'ON Waterloo (Canada)'
+p4145
+(lp4146
+F43.4642578
+aF-80.5204096
+asS'IL Carpentersville'
+p4147
+(lp4148
+F42.1211364
+aF-88.2578582
+asS'MO Des Peres'
+p4149
+(lp4150
+sS'PA Shrewsbury'
+p4151
+(lp4152
+F39.7687139
+aF-76.679693
+asS'WV Fairmont'
+p4153
+(lp4154
+F39.4850848
+aF-80.1425781
+asS'MO Elkland'
+p4155
+(lp4156
+sS'FL Citrus Springs'
+p4157
+(lp4158
+F28.9974771
+aF-82.47065479999999
+asS'FL The Villages'
+p4159
+(lp4160
+F28.927019
+aF-82.0037608
+asS'CA San diego'
+p4161
+(lp4162
+sS'NS Dartmouth (Canada)'
+p4163
+(lp4164
+F44.6652059
+aF-63.5677427
+asS'ON Kitchener (Canada)'
+p4165
+(lp4166
+F43.450301
+aF-80.48319169999999
+asS'MA Stoughton'
+p4167
+(lp4168
+F42.1229099
+aF-71.10920120000002
+asS'PA Harrison City'
+p4169
+(lp4170
+F40.3547915
+aF-79.6501407
+asS'KY Erlanger'
+p4171
+(lp4172
+sS'PA Bloomsburg'
+p4173
+(lp4174
+sS'CO Lyons'
+p4175
+(lp4176
+sS'CA Hanford'
+p4177
+(lp4178
+F36.3274502
+aF-119.6456844
+asS'TN Christiana'
+p4179
+(lp4180
+F35.7100683
+aF-86.39943699999999
+asS'MI Battle Creek'
+p4181
+(lp4182
+F42.3211522
+aF-85.17971419999999
+asS'NC Sunny View'
+p4183
+(lp4184
+sS'KS Banner Springs'
+p4185
+(lp4186
+F39.059726
+aF-94.8835754
+asS'IN Madurai (India)'
+p4187
+(lp4188
+F9.9252007
+aF78.1197754
+asS'MA Methuen'
+p4189
+(lp4190
+F42.7262016
+aF-71.1908924
+asS'ID Idaho City (10.6 miles NW)'
+p4191
+(lp4192
+sS'OR Silverton'
+p4193
+(lp4194
+F45.0051213
+aF-122.7831455
+asS'BC Cracroft Island (Canada)'
+p4195
+(lp4196
+F50.559529
+aF-126.375634
+asS'OK Antlers'
+p4197
+(lp4198
+F34.231212
+aF-95.6202476
+asS'MI Whitehall'
+p4199
+(lp4200
+F43.4100107
+aF-86.34867919999999
+asS'WV Princeton'
+p4201
+(lp4202
+sS'NY Camden'
+p4203
+(lp4204
+F43.3345138
+aF-75.747964
+asS'VA Portsmouth'
+p4205
+(lp4206
+sS'CO Broomfield'
+p4207
+(lp4208
+F39.9205411
+aF-105.0866504
+asS'ON Elliot Lake (Canada)'
+p4209
+(lp4210
+sS'IN Schererville'
+p4211
+(lp4212
+sS'WI Bloomer'
+p4213
+(lp4214
+F45.1002389
+aF-91.4887724
+asS'WA Renton'
+p4215
+(lp4216
+F47.48287759999999
+aF-122.2170661
+asS'VA Marion'
+p4217
+(lp4218
+sS'MI South Haven'
+p4219
+(lp4220
+F42.4030865
+aF-86.2736407
+asS'NC Hillsborough'
+p4221
+(lp4222
+F36.0754183
+aF-79.0997347
+asS'CO Northglenn'
+p4223
+(lp4224
+F39.8961821
+aF-104.9811468
+asS'SD Alcester'
+p4225
+(lp4226
+F43.02137829999999
+aF-96.6308708
+asS'FL Cape Coral'
+p4227
+(lp4228
+F26.5628537
+aF-81.9495331
+asS'ME Hartford'
+p4229
+(lp4230
+F44.372845
+aF-70.346726
+asS'NJ Monroe Twp'
+p4231
+(lp4232
+F40.336419
+aF-74.43304739999999
+asS'CA Brawley'
+p4233
+(lp4234
+sS'NY Miller Place'
+p4235
+(lp4236
+F40.9598212
+aF-72.99621479999999
+asS'CO Colorado Springs'
+p4237
+(lp4238
+F38.8338816
+aF-104.8213634
+asS'RI East Providence'
+p4239
+(lp4240
+F41.8137116
+aF-71.3700545
+asS'VT Stamford'
+p4241
+(lp4242
+F42.7561535
+aF-73.0679253
+asS'FL Sanford'
+p4243
+(lp4244
+sS'CT Milford'
+p4245
+(lp4246
+F41.2306979
+aF-73.064036
+asS'OH Vienna'
+p4247
+(lp4248
+F41.2476902
+aF-80.6715317
+asS'MI Cement City'
+p4249
+(lp4250
+sS'GA Acworth'
+p4251
+(lp4252
+F34.0659329
+aF-84.6768796
+asS'MI Center Line'
+p4253
+(lp4254
+F42.4850362
+aF-83.0277002
+asS'TX Carmine'
+p4255
+(lp4256
+F30.1493838
+aF-96.68608619999999
+asS'NY Mount Sinai'
+p4257
+(lp4258
+sS'MO Branson ((possibly; unsure))'
+p4259
+(lp4260
+sS'GA Sylvania'
+p4261
+(lp4262
+F32.7504441
+aF-81.636776
+asS'CA American Canyon'
+p4263
+(lp4264
+F38.1749178
+aF-122.2608044
+asS'ON Oshawa (Canada)'
+p4265
+(lp4266
+F43.8970929
+aF-78.86579119999999
+asS'RI West Greenwich'
+p4267
+(lp4268
+sS'AZ Prescott Valley'
+p4269
+(lp4270
+F34.6100243
+aF-112.315721
+asS'CO Thornton'
+p4271
+(lp4272
+F39.8680412
+aF-104.9719243
+asS'WA University Place'
+p4273
+(lp4274
+F47.2356536
+aF-122.5504041
+asS'DE Lewes'
+p4275
+(lp4276
+sS'CA Eureka'
+p4277
+(lp4278
+F40.8020712
+aF-124.1636729
+asS'SC Sumter'
+p4279
+(lp4280
+F33.9204354
+aF-80.3414693
+asS'MD Baltimore City'
+p4281
+(lp4282
+F39.2903848
+aF-76.6121893
+asS'TX Pharr'
+p4283
+(lp4284
+F26.1947962
+aF-98.1836216
+asS'NC Fuquay-Varina'
+p4285
+(lp4286
+F35.5843235
+aF-78.80001279999999
+asS'ON Sault Ste. Marie (Canada)'
+p4287
+(lp4288
+F46.52185799999999
+aF-84.3460896
+asS'CO Fountain'
+p4289
+(lp4290
+F38.682219
+aF-104.7008056
+asS'OH Lewis center'
+p4291
+(lp4292
+F40.1983884
+aF-83.0100987
+asS'WI Mukwonago'
+p4293
+(lp4294
+F42.8666803
+aF-88.33342739999999
+asS'KY Ricetown'
+p4295
+(lp4296
+sS'OH Eaton'
+p4297
+(lp4298
+F39.7439405
+aF-84.6366201
+asS'WV Elkins (near)'
+p4299
+(lp4300
+F38.92593970000001
+aF-79.8467349
+asS'NC High Point'
+p4301
+(lp4302
+F35.9556923
+aF-80.0053176
+asS'CA Palos Verdes Estates'
+p4303
+(lp4304
+sS'FL Gulf of Mexico'
+p4305
+(lp4306
+sS'TX El Paso'
+p4307
+(lp4308
+sS'KS East of Kingman (E of; rural)'
+p4309
+(lp4310
+sS'FL Miramar Beach'
+p4311
+(lp4312
+F30.374367
+aF-86.3585578
+asS'NJ Newark'
+p4313
+(lp4314
+F40.735657
+aF-74.1723667
+asS'FL Summerfield'
+p4315
+(lp4316
+F29.0075671
+aF-82.0204688
+asS'KY Florence'
+p4317
+(lp4318
+sS'WI Irma'
+p4319
+(lp4320
+F45.3516834
+aF-89.6668883
+asS'FL St. Augustine'
+p4321
+(lp4322
+F29.9012437
+aF-81.31243409999999
+asS'PA Ridley Park'
+p4323
+(lp4324
+F39.8812236
+aF-75.32379929999999
+asS'WI Waupaca'
+p4325
+(lp4326
+F44.3580348
+aF-89.0859464
+asS'MA Lawrence'
+p4327
+(lp4328
+sS'IL Aurora'
+p4329
+(lp4330
+F41.7605849
+aF-88.32007150000001
+asS'NJ Manalapan'
+p4331
+(lp4332
+F40.2859203
+aF-74.348582
+asS'KS Manhattan'
+p4333
+(lp4334
+sS'CT Suffield'
+p4335
+(lp4336
+sS'CA Half Moon Bay'
+p4337
+(lp4338
+F37.4635519
+aF-122.4285862
+asS"ID Coeur d'Alene"
+p4339
+(lp4340
+F47.6776832
+aF-116.7804664
+asS'NJ Lavallette'
+p4341
+(lp4342
+F39.9703958
+aF-74.0687475
+asS'FL Fort Lauderdale'
+p4343
+(lp4344
+F26.1224386
+aF-80.13731740000001
+asS'PA Downingtown'
+p4345
+(lp4346
+sS'CA Placerville'
+p4347
+(lp4348
+sS'NY Cold Spring'
+p4349
+(lp4350
+sS'TN Kingsport'
+p4351
+(lp4352
+F36.548434
+aF-82.5618186
+asS'CA Pioneer'
+p4353
+(lp4354
+F38.4318551
+aF-120.5718719
+asS'FL Port Orange'
+p4355
+(lp4356
+F29.1383165
+aF-80.9956105
+asS'CA Sonoma'
+p4357
+(lp4358
+F38.291859
+aF-122.4580356
+asS'FL Palm Coast'
+p4359
+(lp4360
+F29.5844524
+aF-81.20786989999999
+asS'NJ Blackwood'
+p4361
+(lp4362
+sS'TN Murfreesboro'
+p4363
+(lp4364
+F35.8456213
+aF-86.39027
+asS'OH Baltimore'
+p4365
+(lp4366
+sS'NC Reidsville'
+p4367
+(lp4368
+F36.3548586
+aF-79.6644747
+asS'QC Montreal West (Canada)'
+p4369
+(lp4370
+F45.4524845
+aF-73.6475131
+asS'TN Piney Flats'
+p4371
+(lp4372
+F36.4192723
+aF-82.3048542
+asS'MI Saginaw'
+p4373
+(lp4374
+sS'NY Riverhead'
+p4375
+(lp4376
+sS'VA Reston'
+p4377
+(lp4378
+F38.9586307
+aF-77.35700279999999
+asS'MS Camp Shelby'
+p4379
+(lp4380
+F31.1975317
+aF-89.205637
+asS'CO Fort Lupton'
+p4381
+(lp4382
+F40.0847055
+aF-104.8130275
+asS'MI Howell'
+p4383
+(lp4384
+F42.6072552
+aF-83.9293952
+asS'CA Antelope Valley'
+p4385
+(lp4386
+F34.7513712
+aF-118.2522977
+asS'PA Red Lion'
+p4387
+(lp4388
+F39.9009334
+aF-76.6058001
+asS'UT Park City'
+p4389
+(lp4390
+F40.6460622
+aF-111.4979729
+asS"MS D'iberville"
+p4391
+(lp4392
+F30.4263092
+aF-88.89086379999999
+asS'MN Mankato'
+p4393
+(lp4394
+sS'NB Fredericton (Canada)'
+p4395
+(lp4396
+F45.9635895
+aF-66.6431151
+asS'ME Sabattus'
+p4397
+(lp4398
+sS'MO Raymore'
+p4399
+(lp4400
+F38.801953
+aF-94.4527294
+asS'WA Kenmore'
+p4401
+(lp4402
+F47.7583576
+aF-122.2496863
+asS'CA Novato'
+p4403
+(lp4404
+F38.1074198
+aF-122.5697032
+asS'PA West Park'
+p4405
+(lp4406
+F40.4742354
+aF-80.0775555
+asS'OH Fairborn'
+p4407
+(lp4408
+F39.8208925
+aF-84.01937889999999
+asS'CA Mariposa County'
+p4409
+(lp4410
+sS'SC Georgetown'
+p4411
+(lp4412
+F33.376834
+aF-79.2944964
+asS'CA Volcano'
+p4413
+(lp4414
+F38.4429658
+aF-120.6307628
+asS'NJ Millville'
+p4415
+(lp4416
+sS'OH Port Clinton'
+p4417
+(lp4418
+sS'CA Joshua Tree-Twenty Nine Palms'
+p4419
+(lp4420
+sS'WA Wenatchee'
+p4421
+(lp4422
+F47.4234599
+aF-120.3103494
+asS'OH Girard'
+p4423
+(lp4424
+F41.1539465
+aF-80.7014662
+asS'ME Bucksport'
+p4425
+(lp4426
+F44.6289696
+aF-68.7701225
+asS'WI Fremont'
+p4427
+(lp4428
+F44.2597027
+aF-88.86483439999999
+asS'TN Portland'
+p4429
+(lp4430
+F36.5817089
+aF-86.5163833
+asS'FL Wellington'
+p4431
+(lp4432
+F26.6617635
+aF-80.2683571
+asS'CT East Haven'
+p4433
+(lp4434
+F41.2841687
+aF-72.8684565
+asS'OH Mantua'
+p4435
+(lp4436
+sS'KY Corbin'
+p4437
+(lp4438
+F36.9486986
+aF-84.0968761
+asS'MN New Hope'
+p4439
+(lp4440
+sS'NC Cornelius'
+p4441
+(lp4442
+F35.4868032
+aF-80.86007359999999
+asS'IL Springfield'
+p4443
+(lp4444
+F39.78172130000001
+aF-89.6501481
+asS'CA Elk Grove'
+p4445
+(lp4446
+F38.4087993
+aF-121.3716178
+asS'IL Orland Park'
+p4447
+(lp4448
+F41.6303103
+aF-87.85394250000002
+asS'MN Lake Crystal'
+p4449
+(lp4450
+F44.1049223
+aF-94.2185569
+asS'OR Diamond Lake'
+p4451
+(lp4452
+sS'CA Clayton'
+p4453
+(lp4454
+F37.9410341
+aF-121.9357925
+asS'NJ Haworth'
+p4455
+(lp4456
+F40.9609315
+aF-73.9901383
+asS'PA Saylorsburg'
+p4457
+(lp4458
+F40.8958927
+aF-75.32295409999999
+asS'WV Marlinton'
+p4459
+(lp4460
+sS'VA Prince William'
+p4461
+(lp4462
+F38.7838939
+aF-77.6077865
+asS'TX Angleton'
+p4463
+(lp4464
+F29.16941
+aF-95.4318847
+asS'WI Oak Creek'
+p4465
+(lp4466
+sS'GA Decatur'
+p4467
+(lp4468
+F33.7748275
+aF-84.2963123
+asS'WV Barboursville'
+p4469
+(lp4470
+F38.4095298
+aF-82.29459229999999
+asS'MI Eastpointe'
+p4471
+(lp4472
+sS'WA Olympia'
+p4473
+(lp4474
+F47.0378741
+aF-122.9006951
+asS'OR Richland'
+p4475
+(lp4476
+sS'ID Hailey'
+p4477
+(lp4478
+F43.51962880000001
+aF-114.3153245
+asS'MD Germantown'
+p4479
+(lp4480
+F39.1731621
+aF-77.2716502
+asS'NC Fuquay Varina'
+p4481
+(lp4482
+sS'AZ Goodyear'
+p4483
+(lp4484
+F33.4353394
+aF-112.3576567
+asS'MI Three Oaks'
+p4485
+(lp4486
+F41.7986545
+aF-86.6105778
+asS'CT Plainfield'
+p4487
+(lp4488
+sS'WA Ocean Shores'
+p4489
+(lp4490
+F46.9736986
+aF-124.1562852
+asS'WY Glenrock'
+p4491
+(lp4492
+F42.8613552
+aF-105.8722264
+asS'MI Warren'
+p4493
+(lp4494
+F42.5144566
+aF-83.01465259999999
+asS'FL Saint Petersburg'
+p4495
+(lp4496
+F27.7518284
+aF-82.6267345
+asS'NC Boone'
+p4497
+(lp4498
+sS'SC Murrells Inlet'
+p4499
+(lp4500
+sS'KY Prospect'
+p4501
+(lp4502
+F38.345068
+aF-85.615517
+asS'CA Newhall'
+p4503
+(lp4504
+F34.373361
+aF-118.5400404
+asS'WA Whidbey Island'
+p4505
+(lp4506
+sS'TX Baytown'
+p4507
+(lp4508
+F29.7355047
+aF-94.97742740000001
+asS'NS Truro (Nova Scotia)(Canada)'
+p4509
+(lp4510
+F45.3657733
+aF-63.28694069999999
+asS'KS Walker'
+p4511
+(lp4512
+F38.8672339
+aF-99.0759271
+asS'FL High Springs'
+p4513
+(lp4514
+sS'TN Goodlettsville'
+p4515
+(lp4516
+sS'MD Leonardtown'
+p4517
+(lp4518
+F38.291238
+aF-76.63579419999999
+asS'AL Wetumpka'
+p4519
+(lp4520
+F32.5437448
+aF-86.2119127
+asS'PA Limerick'
+p4521
+(lp4522
+sS'KS Mission'
+p4523
+(lp4524
+F39.0277832
+aF-94.6557914
+asS'CA Modesto'
+p4525
+(lp4526
+F37.63909719999999
+aF-120.9968782
+asS'AR Alma'
+p4527
+(lp4528
+sS'MA Pittsfield'
+p4529
+(lp4530
+F42.4500845
+aF-73.2453824
+asS'AR Hot Springs National Park'
+p4531
+(lp4532
+F34.5216915
+aF-93.0423545
+asS'MS Corinth'
+p4533
+(lp4534
+F34.9342548
+aF-88.5222702
+asS'WV St. Albans'
+p4535
+(lp4536
+F38.3793695
+aF-81.8191658
+asS'OH Soringfield'
+p4537
+(lp4538
+F39.9242266
+aF-83.8088171
+asS'FL Orlando'
+p4539
+(lp4540
+F28.5383355
+aF-81.3792365
+asS'NC Thomasville/Greensboro'
+p4541
+(lp4542
+sS'ON Ingersoll (Canada)'
+p4543
+(lp4544
+F43.03816279999999
+aF-80.88404899999999
+asS'WI Stevens Point'
+p4545
+(lp4546
+F44.5289601
+aF-89.5708918
+asS'MD Urbana'
+p4547
+(lp4548
+sS'NY Massena'
+p4549
+(lp4550
+F44.9281049
+aF-74.891865
+asS'AZ Rock Point'
+p4551
+(lp4552
+F36.7180568
+aF-109.6259429
+asS'VT Vergennes'
+p4553
+(lp4554
+sS'PA Verona'
+p4555
+(lp4556
+sS'AR Little Rock'
+p4557
+(lp4558
+F34.7464809
+aF-92.28959479999999
+asS'MI Shelby'
+p4559
+(lp4560
+sS'SC North Charleston'
+p4561
+(lp4562
+sS'TN Nashville'
+p4563
+(lp4564
+F36.1626638
+aF-86.7816016
+asS'IA Dubuque'
+p4565
+(lp4566
+F42.5005583
+aF-90.66457179999999
+asS'AZ Avondale'
+p4567
+(lp4568
+F33.4355977
+aF-112.3496021
+asS'CA Claremont'
+p4569
+(lp4570
+F34.0966764
+aF-117.7197785
+asS'MA Brockton'
+p4571
+(lp4572
+F42.0834335
+aF-71.0183787
+asS'MN Hermantown'
+p4573
+(lp4574
+sS'TN Cleveland'
+p4575
+(lp4576
+sS'AR Centerton'
+p4577
+(lp4578
+F36.359799
+aF-94.2852085
+asS'NE Central City'
+p4579
+(lp4580
+F41.1158476
+aF-98.00172479999999
+asS'PA Bangor'
+p4581
+(lp4582
+F40.86565150000001
+aF-75.2065676
+asS'OH Rootstown'
+p4583
+(lp4584
+sS'MN Apple valley'
+p4585
+(lp4586
+F44.7319094
+aF-93.21772000000001
+asS'MI Troy'
+p4587
+(lp4588
+F42.6064095
+aF-83.1497751
+asS'OH Junction City'
+p4589
+(lp4590
+F39.7211793
+aF-82.2987615
+asS'WA Port Orchard'
+p4591
+(lp4592
+F47.5403732
+aF-122.6362492
+asS'TX Texhoma'
+p4593
+(lp4594
+F33.8946803
+aF-96.6745042
+asS'VA Stephenson'
+p4595
+(lp4596
+F39.237325
+aF-78.1063889
+asS'OH Mount Orab'
+p4597
+(lp4598
+F39.0275659
+aF-83.91965200000001
+asS'NC Trinity'
+p4599
+(lp4600
+F35.894581
+aF-79.9908729
+asS'OH Dayton'
+p4601
+(lp4602
+F39.7589478
+aF-84.1916069
+asS'CA Valley Center'
+p4603
+(lp4604
+F33.2183701
+aF-117.0341967
+asS'SC Dillon'
+p4605
+(lp4606
+F34.4165505
+aF-79.3711579
+asS'TN Oak Ridge'
+p4607
+(lp4608
+F36.0103561
+aF-84.26964490000002
+asS'NY Syracuse'
+p4609
+(lp4610
+F43.0481221
+aF-76.14742439999999
+asS'VA Fredericksburg'
+p4611
+(lp4612
+F38.3031837
+aF-77.4605399
+asS'ND Bismarck'
+p4613
+(lp4614
+F46.8083268
+aF-100.7837392
+asS'CT New London'
+p4615
+(lp4616
+F41.3556539
+aF-72.0995209
+asS'OH Mount Gilead'
+p4617
+(lp4618
+sS'CA Castiac'
+p4619
+(lp4620
+sS'NY Mohawk'
+p4621
+(lp4622
+F42.9581642
+aF-74.41738769999999
+asS'MN Sauk Rapids'
+p4623
+(lp4624
+F45.5919097
+aF-94.16610109999999
+asS'GA Hopulikit'
+p4625
+(lp4626
+F32.5215587
+aF-81.8503916
+asS'SC Cherry  Grove (MCAS)'
+p4627
+(lp4628
+sS'OR Hermiston'
+p4629
+(lp4630
+sS'MN Ely'
+p4631
+(lp4632
+sS'AZ Phoenix'
+p4633
+(lp4634
+F33.4483771
+aF-112.0740373
+asS'PA Reading'
+p4635
+(lp4636
+F40.3356483
+aF-75.9268747
+asS'CA Anza'
+p4637
+(lp4638
+sS'NV Fallon'
+p4639
+(lp4640
+sS'KY Lexington'
+p4641
+(lp4642
+F38.0405837
+aF-84.5037164
+asS'CA Idyllwild'
+p4643
+(lp4644
+F33.7455547
+aF-116.7142835
+asS'MT Poplar'
+p4645
+(lp4646
+sS'UT Sandy (suburb of SLC)'
+p4647
+(lp4648
+sS'WA Grandview'
+p4649
+(lp4650
+F46.2509653
+aF-119.9017049
+asS'VA Covington'
+p4651
+(lp4652
+sS'UT Sandy'
+p4653
+(lp4654
+F40.5649781
+aF-111.8389726
+asS'SC Easley'
+p4655
+(lp4656
+F34.829838
+aF-82.6015206
+asS'IN Nineveh'
+p4657
+(lp4658
+sS'NY Corona (Queens)'
+p4659
+(lp4660
+sS'NJ Pittsgrove'
+p4661
+(lp4662
+F39.5314846
+aF-75.1311874
+asS'CA Sherman Oaks'
+p4663
+(lp4664
+F34.1489719
+aF-118.451357
+asS'MA Lowell'
+p4665
+(lp4666
+F42.6334247
+aF-71.31617179999999
+asS'OH Beavercreek'
+p4667
+(lp4668
+sS'TX Dripping Springs'
+p4669
+(lp4670
+F30.1902067
+aF-98.0866781
+asS'MN Woodbury'
+p4671
+(lp4672
+sS'GA Hiram'
+p4673
+(lp4674
+F33.8756601
+aF-84.7621592
+asS'TX Frisco'
+p4675
+(lp4676
+F33.1506744
+aF-96.82361159999999
+asS'TN Blaine'
+p4677
+(lp4678
+sS'FL Tamarac'
+p4679
+(lp4680
+sS'UT West Valley'
+p4681
+(lp4682
+sS'OH Cincinnati'
+p4683
+(lp4684
+F39.1031182
+aF-84.5120196
+asS'MI Waterford'
+p4685
+(lp4686
+F42.6907443
+aF-83.4066132
+asS'AL Foley'
+p4687
+(lp4688
+F30.4065868
+aF-87.6835974
+asS'KY Stanton'
+p4689
+(lp4690
+sS'TX Uhland'
+p4691
+(lp4692
+F29.95771839999999
+aF-97.7861137
+asS'NY Sanborn'
+p4693
+(lp4694
+F43.1371937
+aF-78.88480679999999
+asS'MI South Marquette County'
+p4695
+(lp4696
+F46.644579
+aF-87.5593823
+asS'MA Belmont'
+p4697
+(lp4698
+sS'NJ Hillsborough'
+p4699
+(lp4700
+sS'RI Providence (Olneyville)'
+p4701
+(lp4702
+sS'WI Crandon'
+p4703
+(lp4704
+F45.5719072
+aF-88.9028922
+asS'NH Farmington/New Durham'
+p4705
+(lp4706
+F43.4367466
+aF-71.1722886
+asS'KS Plains'
+p4707
+(lp4708
+F37.2602994
+aF-100.5926524
+asS'AL Decatur'
+p4709
+(lp4710
+sS'NC Avon'
+p4711
+(lp4712
+sS'NV Winnemucca'
+p4713
+(lp4714
+F40.9729584
+aF-117.7356849
+asS'CA Willows'
+p4715
+(lp4716
+sS'WA Port Townsend'
+p4717
+(lp4718
+sS'NC Highlands'
+p4719
+(lp4720
+F35.0525909
+aF-83.19681729999999
+asS'FL Melbourne Beach'
+p4721
+(lp4722
+F28.0683496
+aF-80.56033029999999
+asS'UT St. George'
+p4723
+(lp4724
+F37.0965278
+aF-113.5684164
+asS'WA Herron Island'
+p4725
+(lp4726
+sS'AL Alabaster'
+p4727
+(lp4728
+F33.2442813
+aF-86.8163773
+asS'CO New Castle'
+p4729
+(lp4730
+F39.5727585
+aF-107.5364443
+asS'FL Satellite Beach'
+p4731
+(lp4732
+F28.1761233
+aF-80.59005189999999
+asS'NY Fulton'
+p4733
+(lp4734
+sS'GA Saint Simons Island'
+p4735
+(lp4736
+F31.1595905
+aF-81.3885517
+asS'ME Augusta'
+p4737
+(lp4738
+F44.3106241
+aF-69.7794897
+asS'MO Buffalo'
+p4739
+(lp4740
+sS'CT Quaker Hill'
+p4741
+(lp4742
+sS'GA Carrollton'
+p4743
+(lp4744
+F33.5801103
+aF-85.0766113
+asS'VA Arlington'
+p4745
+(lp4746
+F38.8799697
+aF-77.1067698
+asS'PA Cheltenham'
+p4747
+(lp4748
+F40.0812601
+aF-75.1370254
+asS'VA Midlothian'
+p4749
+(lp4750
+F37.5061069
+aF-77.6490005
+asS'NY Wassaic'
+p4751
+(lp4752
+F41.8039824
+aF-73.55873679999999
+asS'CA Palomar Mountain'
+p4753
+(lp4754
+sS'ON Newmarket (Canada)'
+p4755
+(lp4756
+F44.05918700000001
+aF-79.46125599999999
+asS'AL Dothan'
+p4757
+(lp4758
+F31.2232313
+aF-85.3904888
+asS'GA Alpharetta'
+p4759
+(lp4760
+F34.0753762
+aF-84.2940899
+asS'TX Garland'
+p4761
+(lp4762
+F32.912624
+aF-96.63888329999999
+asS'GA Stockbridge'
+p4763
+(lp4764
+sS'FL Boynton Beach'
+p4765
+(lp4766
+F26.5317866
+aF-80.0905465
+asS'NC Hickory/Conover'
+p4767
+(lp4768
+F35.7216707
+aF-81.2164621
+asS'ME Carmel'
+p4769
+(lp4770
+sS'IN Demotte'
+p4771
+(lp4772
+sS'PA Washington'
+p4773
+(lp4774
+F40.17396
+aF-80.2461714
+asS'NV Summerlin/Las Vegas'
+p4775
+(lp4776
+F36.1871005
+aF-115.2956118
+asS'LA Central'
+p4777
+(lp4778
+F47.3716836
+aF-122.3003501
+asS'CA Tulare'
+p4779
+(lp4780
+sS'NC Pittsboro'
+p4781
+(lp4782
+sS'MT Hays'
+p4783
+(lp4784
+F54.28388
+aF-130.315561
+asS'PA Philadelphia (100 naut. miles E of; over water)'
+p4785
+(lp4786
+sS'WV Shinnston'
+p4787
+(lp4788
+sS'PA Tamaqua'
+p4789
+(lp4790
+F40.7973112
+aF-75.9693707
+asS'CA Channel Islands Point Magu'
+p4791
+(lp4792
+sS'WA Kirkland'
+p4793
+(lp4794
+F47.6768927
+aF-122.2059833
+asS'CA Buena Park'
+p4795
+(lp4796
+F33.8675143
+aF-117.9981181
+asS'MO Oak Grove'
+p4797
+(lp4798
+F39.0050073
+aF-94.12939089999999
+asS'NH Brentwood'
+p4799
+(lp4800
+F42.9780248
+aF-71.0735503
+asS'CO Littleton'
+p4801
+(lp4802
+F39.613321
+aF-105.0166498
+asS'BC Sooke (Canada)'
+p4803
+(lp4804
+sS'CA Lancaster'
+p4805
+(lp4806
+sS'TX Krum'
+p4807
+(lp4808
+F33.2615068
+aF-97.2380725
+asS'MT Alberton'
+p4809
+(lp4810
+F47.0015869
+aF-114.4734549
+asS'UT Taylorsville'
+p4811
+(lp4812
+F40.66772479999999
+aF-111.9388258
+asS'MS Bay St. Louis'
+p4813
+(lp4814
+F30.3088076
+aF-89.33004609999999
+asS'IL Oregon'
+p4815
+(lp4816
+F42.0147513
+aF-89.3323279
+asS'MO Cedarcreek'
+p4817
+(lp4818
+sS'OR Fairview'
+p4819
+(lp4820
+F45.5384529
+aF-122.4339803
+asS'CA Huntington Beach'
+p4821
+(lp4822
+F33.660297
+aF-117.9992265
+asS'KS Wilson Lake'
+p4823
+(lp4824
+F38.9425595
+aF-98.5116903
+asS'PA Chester'
+p4825
+(lp4826
+F39.849557
+aF-75.3557457
+asS'OK Jenks'
+p4827
+(lp4828
+F36.0228734
+aF-95.9683278
+asS'NH Concord'
+p4829
+(lp4830
+sS'NV North Las Vegas'
+p4831
+(lp4832
+F36.1988592
+aF-115.1175013
+asS'PA Curwensville'
+p4833
+(lp4834
+sS'NY Penfield'
+p4835
+(lp4836
+F43.1303407
+aF-77.475551
+asS'NC Cherryville'
+p4837
+(lp4838
+F35.3787442
+aF-81.37897389999999
+asS'ME Troy'
+p4839
+(lp4840
+sS'AZ Wickenburg'
+p4841
+(lp4842
+sS'ID Melba'
+p4843
+(lp4844
+F43.3754405
+aF-116.5290116
+asS'ON Bobcaygeon (Canada)'
+p4845
+(lp4846
+sS'MA Southbridge'
+p4847
+(lp4848
+sS'TX Fort Worth'
+p4849
+(lp4850
+F32.7554883
+aF-97.3307658
+asS'IA Centerville'
+p4851
+(lp4852
+F40.7290565
+aF-92.8738196
+asS'TX Murphy'
+p4853
+(lp4854
+F33.0151205
+aF-96.6130486
+asS'AZ Buckeye'
+p4855
+(lp4856
+sS'TX Corpus Christi'
+p4857
+(lp4858
+sS'WA Bremerton'
+p4859
+(lp4860
+F47.5650067
+aF-122.6269768
+asS'MA Centerville'
+p4861
+(lp4862
+sS'NY Islip Terrace'
+p4863
+(lp4864
+F40.7494306
+aF-73.18817810000002
+asS'AB Camrose (Canada)'
+p4865
+(lp4866
+sS'OR Tygh Valley'
+p4867
+(lp4868
+F45.247341
+aF-121.17312
+asS'WI Milwaukee'
+p4869
+(lp4870
+sS'ID Nampa'
+p4871
+(lp4872
+F43.5407172
+aF-116.5634624
+asS'NH Sandown'
+p4873
+(lp4874
+F42.928698
+aF-71.1870053
+asS'NY Utica'
+p4875
+(lp4876
+F43.100903
+aF-75.232664
+asS'KS Hays'
+p4877
+(lp4878
+F38.8791783
+aF-99.3267702
+asS'MS Meridian'
+p4879
+(lp4880
+F32.3643098
+aF-88.703656
+asS'MT Great Falls'
+p4881
+(lp4882
+F47.4941836
+aF-111.2833449
+asS'AL Cullman'
+p4883
+(lp4884
+F34.1748208
+aF-86.8436124
+asS'NY New York City'
+p4885
+(lp4886
+F40.7127837
+aF-74.0059413
+asS'PA Gettysburg'
+p4887
+(lp4888
+F39.8309293
+aF-77.2310955
+asS'CA Torrance'
+p4889
+(lp4890
+F33.8358492
+aF-118.3406288
+asS'VA Farmville'
+p4891
+(lp4892
+sS'MI Oscoda'
+p4893
+(lp4894
+sS'FL Marathon'
+p4895
+(lp4896
+sS'RI Riverside'
+p4897
+(lp4898
+sS'NB Saint John (Canada)'
+p4899
+(lp4900
+F45.2733153
+aF-66.0633081
+asS'BC Walnut Grove (Canada)'
+p4901
+(lp4902
+sS'KY Symsonia'
+p4903
+(lp4904
+sS'ND Grand Forks'
+p4905
+(lp4906
+sS'ME Ogunquit'
+p4907
+(lp4908
+sS'QC Gatineau (Canada)'
+p4909
+(lp4910
+sS'CA Temecula'
+p4911
+(lp4912
+F33.4936391
+aF-117.1483648
+asS'MA Stow'
+p4913
+(lp4914
+F42.4370374
+aF-71.5056199
+asS'BC Canada (west coast; Alaskan cruise)'
+p4915
+(lp4916
+sS'MN Rothsay'
+p4917
+(lp4918
+sS'PA Glenside'
+p4919
+(lp4920
+F40.0999077
+aF-75.1527928
+asS'WA West Seattle'
+p4921
+(lp4922
+F47.5666668
+aF-122.3867537
+asS'OH Centerville'
+p4923
+(lp4924
+F39.6283928
+aF-84.15938179999999
+asS'NJ Hackensack'
+p4925
+(lp4926
+F40.8859325
+aF-74.0434736
+asS'AR Conway'
+p4927
+(lp4928
+F35.0886963
+aF-92.4421011
+asS'AL Florence'
+p4929
+(lp4930
+F34.79981
+aF-87.677251
+asS'SC Surfside Beach'
+p4931
+(lp4932
+sS'TX Lakehills'
+p4933
+(lp4934
+F29.604672
+aF-98.9430859
+asS'CA Truckee'
+p4935
+(lp4936
+sS'NJ Marlton'
+p4937
+(lp4938
+sS'WA Kalama'
+p4939
+(lp4940
+F46.0084472
+aF-122.8445509
+asS'VA Petersburg'
+p4941
+(lp4942
+sS'CA Chula Vista'
+p4943
+(lp4944
+F32.6400541
+aF-117.0841955
+asS'MI Manistee'
+p4945
+(lp4946
+F44.2444473
+aF-86.324253
+asS'WA Allyn'
+p4947
+(lp4948
+F47.3818017
+aF-122.8298029
+asS'CA Trabuco Canyon'
+p4949
+(lp4950
+F33.6655081
+aF-117.5869862
+asS'FL Altamonte Springs'
+p4951
+(lp4952
+F28.6611089
+aF-81.3656242
+asS'FL Royal Palm Beach'
+p4953
+(lp4954
+sS'MO Lake of the Ozarks'
+p4955
+(lp4956
+F38.13800030000001
+aF-92.8103551
+asS'TX New Braunfels'
+p4957
+(lp4958
+sS'IL Winthrop Harbor'
+p4959
+(lp4960
+sS'CA Folsom'
+p4961
+(lp4962
+F38.6779591
+aF-121.1760583
+asS'NC Johnsonville'
+p4963
+(lp4964
+sS'PA New Freedom'
+p4965
+(lp4966
+sS'NY St. James'
+p4967
+(lp4968
+sS'GA Loganville'
+p4969
+(lp4970
+F33.8389977
+aF-83.90073819999999
+asS'MA North Adams'
+p4971
+(lp4972
+sS'WI Mequon'
+p4973
+(lp4974
+F43.2159232
+aF-88.0314174
+asS'FL Destin'
+p4975
+(lp4976
+F30.3935337
+aF-86.4957833
+asS'LA Zachary'
+p4977
+(lp4978
+sS'AZ Sahuarita'
+p4979
+(lp4980
+F31.9575818
+aF-110.955646
+asS'WI New Berlin'
+p4981
+(lp4982
+F42.9764027
+aF-88.1084224
+asS'NC Angier'
+p4983
+(lp4984
+sS'NY Dix Hills'
+p4985
+(lp4986
+sS'MD Towson'
+p4987
+(lp4988
+F39.4014955
+aF-76.6019125
+asS'FL Miami (Bal Harbor)'
+p4989
+(lp4990
+F25.8917613
+aF-80.1269896
+asS'MT Bozeman'
+p4991
+(lp4992
+F45.6769979
+aF-111.0429339
+asS'PA Emporium'
+p4993
+(lp4994
+F41.5114521
+aF-78.2352872
+asS'IA Des Moines'
+p4995
+(lp4996
+F41.6005448
+aF-93.6091064
+asS'NJ Swedesboro'
+p4997
+(lp4998
+F39.7476136
+aF-75.3104654
+asS'NC Greensboro'
+p4999
+(lp5000
+F36.0674908
+aF-79.80984289999999
+asS'NE Lincoln'
+p5001
+(lp5002
+F40.8257625
+aF-96.6851982
+asS'MN Renville'
+p5003
+(lp5004
+sS'MA Amherst'
+p5005
+(lp5006
+F42.3732216
+aF-72.5198537
+asS'PA Palmyra'
+p5007
+(lp5008
+F40.3089798
+aF-76.5933012
+asS'OH Lewis Center'
+p5009
+(lp5010
+sS'TX Del Valle'
+p5011
+(lp5012
+sS'PA Hallam'
+p5013
+(lp5014
+F40.00482
+aF-76.6041322
+asS'WA Gold Bar'
+p5015
+(lp5016
+sS'CA La Mesa'
+p5017
+(lp5018
+sS'VT West Pawlet'
+p5019
+(lp5020
+F43.3465552
+aF-73.177286
+asS'RI South Kingston'
+p5021
+(lp5022
+sS'LA Chalmette'
+p5023
+(lp5024
+F29.942783
+aF-89.9635162
+asS'OH Novelty'
+p5025
+(lp5026
+F41.4651134
+aF-81.3509416
+asS'CA Coachella'
+p5027
+(lp5028
+F33.6803003
+aF-116.173894
+asS'NC Mount Airy'
+p5029
+(lp5030
+F36.4993007
+aF-80.6072858
+asS'WI Colby (south of)'
+p5031
+(lp5032
+F44.9099665
+aF-90.3156911
+asS'NJ Hardyston Township'
+p5033
+(lp5034
+F41.11370369999999
+aF-74.5540506
+asS'MI I-196 at Mile Marker 7'
+p5035
+(lp5036
+sS'TX College Station'
+p5037
+(lp5038
+sS'CO Walden'
+p5039
+(lp5040
+sS'MI Hale'
+p5041
+(lp5042
+F44.377972
+aF-83.8047965
+asS'SC Garden City'
+p5043
+(lp5044
+F33.5929472
+aF-79.0086464
+asS'CO Aurora'
+p5045
+(lp5046
+F39.7294319
+aF-104.8319195
+asS'FL Davie'
+p5047
+(lp5048
+F26.0764783
+aF-80.25211569999999
+asS'TN Johnson City'
+p5049
+(lp5050
+F36.3134397
+aF-82.3534727
+asS'MD District Heights'
+p5051
+(lp5052
+sS'NC Mooresville'
+p5053
+(lp5054
+F35.5848596
+aF-80.8100724
+asS'CA Studio City'
+p5055
+(lp5056
+F34.1395597
+aF-118.3870991
+asS'WA Lynnwood'
+p5057
+(lp5058
+F47.8209301
+aF-122.3151313
+asS'FL Delray Beach'
+p5059
+(lp5060
+F26.4614625
+aF-80.0728201
+asS'WA Snohomish'
+p5061
+(lp5062
+F47.91287560000001
+aF-122.0981848
+asS'PA Mechanicsburg'
+p5063
+(lp5064
+F40.2142565
+aF-77.0085876
+asS'TN Harrogate'
+p5065
+(lp5066
+F36.5823046
+aF-83.65685789999999
+asS'CA Antioch'
+p5067
+(lp5068
+F38.0049214
+aF-121.805789
+asS'LA Napoleonville'
+p5069
+(lp5070
+F29.9382674
+aF-91.0274993
+asS'WA Index'
+p5071
+(lp5072
+F47.8206605
+aF-121.5551086
+asS'AL Hartselle'
+p5073
+(lp5074
+F34.4434282
+aF-86.9352842
+asS'CA Boonville'
+p5075
+(lp5076
+sS'CT Middletown'
+p5077
+(lp5078
+F41.5623209
+aF-72.6506488
+asS'NY Johnson City'
+p5079
+(lp5080
+F42.1156308
+aF-75.95880919999999
+asS'TX McKinney'
+p5081
+(lp5082
+F33.1972465
+aF-96.6397822
+asS'NJ Lafayette'
+p5083
+(lp5084
+sS'IL Multiple'
+p5085
+(lp5086
+F41.8828596
+aF-87.6492833
+asS'AL Clio'
+p5087
+(lp5088
+F31.7087753
+aF-85.6104972
+asS'MA Watertown'
+p5089
+(lp5090
+sS'CA Petaluma'
+p5091
+(lp5092
+F38.232417
+aF-122.6366524
+asS'WA Yakima'
+p5093
+(lp5094
+F46.6020711
+aF-120.5058987
+asS'ID Kuna'
+p5095
+(lp5096
+F43.4918307
+aF-116.4201223
+asS'CA Van Nuys'
+p5097
+(lp5098
+sS'AL Maycomb'
+p5099
+(lp5100
+F31.5279399
+aF-87.32470769999999
+asS'SC Johns Island'
+p5101
+(lp5102
+F32.7177248
+aF-80.0646682
+asS'NY Queensbury'
+p5103
+(lp5104
+F43.353627
+aF-73.6771662
+asS'CA Oregon House'
+p5105
+(lp5106
+F39.3443429
+aF-121.2651609
+asS'NC Mt. Airy'
+p5107
+(lp5108
+F36.4993007
+aF-80.6072858
+asS'PA South Park Township'
+p5109
+(lp5110
+F40.2926016
+aF-79.99759159999999
+asS'MN Lester Prairie'
+p5111
+(lp5112
+F44.8838514
+aF-94.0416389
+asS'SK Prince Albert'
+p5113
+(lp5114
+F53.2033494
+aF-105.7530705
+asS'CA Angels Camp'
+p5115
+(lp5116
+F38.0677832
+aF-120.5385299
+asS'MS Ocean Springs'
+p5117
+(lp5118
+F30.4113097
+aF-88.8278057
+asS'OH Greenfield'
+p5119
+(lp5120
+F39.3520084
+aF-83.38269280000002
+asS'TX Moore'
+p5121
+(lp5122
+F29.0552433
+aF-99.0103089
+asS'MS Saucier'
+p5123
+(lp5124
+F30.6357481
+aF-89.13504490000001
+asS'WA Vancouver'
+p5125
+(lp5126
+F45.6318397
+aF-122.6716063
+asS'WI Kenosha'
+p5127
+(lp5128
+sS'IL Yorkville'
+p5129
+(lp5130
+sS'IN Crown Point'
+p5131
+(lp5132
+F41.4169806
+aF-87.3653135
+asS'PA Easton'
+p5133
+(lp5134
+F40.688432
+aF-75.2207323
+asS'AK North Pole'
+p5135
+(lp5136
+F64.7511111
+aF-147.3494444
+asS'PA Williamsport'
+p5137
+(lp5138
+F41.2411897
+aF-77.00107860000001
+asS'IL Chicago'
+p5139
+(lp5140
+F41.8781136
+aF-87.6297982
+asS'MO Town and Country'
+p5141
+(lp5142
+F38.6122751
+aF-90.46345319999999
+asS'WA Seattle'
+p5143
+(lp5144
+F47.6062095
+aF-122.3320708
+asS'MI Clinton'
+p5145
+(lp5146
+sS'NY Deer Park'
+p5147
+(lp5148
+sS'ID DeSmet'
+p5149
+(lp5150
+sS'MA West Springfield'
+p5151
+(lp5152
+sS'CA Baldwin park'
+p5153
+(lp5154
+sS'NC Waves'
+p5155
+(lp5156
+sS'WA Stevens Pass'
+p5157
+(lp5158
+F47.7462223
+aF-121.0859328
+asS'OH Perrysburgh'
+p5159
+(lp5160
+F41.556996
+aF-83.627157
+asS'MS Saltillo'
+p5161
+(lp5162
+F34.3764923
+aF-88.68172009999999
+asS'NM Grants'
+p5163
+(lp5164
+F35.14726
+aF-107.8514466
+asS'MD Gambrills'
+p5165
+(lp5166
+F39.0670456
+aF-76.6654513
+asS'CT Watertown'
+p5167
+(lp5168
+sS'VA Woodbridge'
+p5169
+(lp5170
+F38.6581722
+aF-77.2497049
+asS'OR Redmond'
+p5171
+(lp5172
+F44.2726203
+aF-121.1739212
+asS'FL Spring Hill'
+p5173
+(lp5174
+F28.4831682
+aF-82.5369872
+asS'OR Gresham'
+p5175
+(lp5176
+F45.5001357
+aF-122.4302013
+asS'PA Shavertown'
+p5177
+(lp5178
+sS'MO Arrow Rock'
+p5179
+(lp5180
+sS'NC Holden Beach'
+p5181
+(lp5182
+sS'KS Overland Park'
+p5183
+(lp5184
+sS'WA anywhere'
+p5185
+(lp5186
+sS'KY Hazel Green'
+p5187
+(lp5188
+sS'AZ Prescott'
+p5189
+(lp5190
+F34.5400242
+aF-112.4685025
+asS'IL Glenview'
+p5191
+(lp5192
+sS'NY Schenectady'
+p5193
+(lp5194
+F42.8142432
+aF-73.9395687
+asS'CA Benicia'
+p5195
+(lp5196
+F38.049365
+aF-122.1585777
+asS'MI Dollar Bay'
+p5197
+(lp5198
+F47.1197705
+aF-88.5023411
+asS'VA Aldie'
+p5199
+(lp5200
+sS'UT Ogden'
+p5201
+(lp5202
+sS'BC Victoria (Canada)'
+p5203
+(lp5204
+F48.4284207
+aF-123.3656444
+asS'MN Two Harbors'
+p5205
+(lp5206
+sS'AZ Congress'
+p5207
+(lp5208
+F34.162526
+aF-112.8507374
+asS'MO Saint Joseph'
+p5209
+(lp5210
+F39.7674578
+aF-94.84668099999999
+asS'TX Selma'
+p5211
+(lp5212
+F29.5843948
+aF-98.3058463
+asS'PA Warminster'
+p5213
+(lp5214
+F40.2067884
+aF-75.099807
+asS'MO Bridgeton'
+p5215
+(lp5216
+F38.7669954
+aF-90.41150569999999
+asS'ID Blackfoot'
+p5217
+(lp5218
+sS'NY Wilson'
+p5219
+(lp5220
+F43.2613892
+aF-78.8156113
+asS'NC Millers Creek'
+p5221
+(lp5222
+F36.1892978
+aF-81.23758889999999
+asS'AB Innisfree (Canada)'
+p5223
+(lp5224
+F53.3803537
+aF-111.5297956
+asS'MI Swartz Creek'
+p5225
+(lp5226
+sS'FL Titusville'
+p5227
+(lp5228
+F28.6122187
+aF-80.8075537
+asS'CA Oroville'
+p5229
+(lp5230
+F39.5137752
+aF-121.556359
+asS'ON Sarnia (Canada)'
+p5231
+(lp5232
+F42.974536
+aF-82.4065901
+asS'IN Terre Haute'
+p5233
+(lp5234
+F39.4667034
+aF-87.41390919999999
+asS'MD Havre de Grace'
+p5235
+(lp5236
+F39.5492792
+aF-76.09161700000001
+asS'SK Saskatoon (Canada)'
+p5237
+(lp5238
+F52.1332144
+aF-106.6700458
+asS'ME Portland'
+p5239
+(lp5240
+sS'PA Lehighton'
+p5241
+(lp5242
+F40.8337029
+aF-75.7138008
+asS'WA Kennewick'
+p5243
+(lp5244
+F46.2112458
+aF-119.1372338
+asS'FL Pensacola'
+p5245
+(lp5246
+F30.42130899999999
+aF-87.2169149
+asS'WV Tornado'
+p5247
+(lp5248
+F38.3428575
+aF-81.844319
+asS'WA Mercer Island'
+p5249
+(lp5250
+sS'AB Wetaskiwin (Canada)'
+p5251
+(lp5252
+F52.9695353
+aF-113.3772454
+asS'NC Lexington'
+p5253
+(lp5254
+sS'TN Newbern'
+p5255
+(lp5256
+sS'CA Menifee'
+p5257
+(lp5258
+F33.6971468
+aF-117.185294
+asS'NC Summerfield'
+p5259
+(lp5260
+sS'CA Stockton'
+p5261
+(lp5262
+F37.9577016
+aF-121.2907796
+asS'SC Aiken'
+p5263
+(lp5264
+F33.5740837
+aF-81.76807869999999
+asS'AR Russellville'
+p5265
+(lp5266
+F35.2784173
+aF-93.1337856
+asS'AZ El Mirage'
+p5267
+(lp5268
+F33.6130942
+aF-112.3246042
+asS'MD Columbia'
+p5269
+(lp5270
+F39.2037144
+aF-76.86104619999999
+asS'PA Pennsburg'
+p5271
+(lp5272
+F40.3909328
+aF-75.4921248
+asS'MA Newton'
+p5273
+(lp5274
+F42.3370413
+aF-71.20922139999999
+asS'TN Chattanooga'
+p5275
+(lp5276
+F35.0456297
+aF-85.3096801
+asS'NM Philmont Scout Ranch'
+p5277
+(lp5278
+sS'TX Bivins'
+p5279
+(lp5280
+F33.0195772
+aF-94.1990757
+asS'NB Bathurst (Canada)'
+p5281
+(lp5282
+sS'OH Cleveland'
+p5283
+(lp5284
+F41.49932
+aF-81.6943605
+asS'MA Danvers'
+p5285
+(lp5286
+sS'NM Espanola'
+p5287
+(lp5288
+F35.9910383
+aF-106.0818233
+asS'MS Petal'
+p5289
+(lp5290
+F31.3465627
+aF-89.2600605
+asS'MI St. Charles'
+p5291
+(lp5292
+sS'WA Naches'
+p5293
+(lp5294
+F46.730958
+aF-120.699516
+asS'ID Idaho Falls'
+p5295
+(lp5296
+F43.49165139999999
+aF-112.0339645
+asS'CA Cathedral City'
+p5297
+(lp5298
+F33.7805388
+aF-116.4668036
+asS'IA Cedar Rapids'
+p5299
+(lp5300
+F41.9778795
+aF-91.6656232
+asS'ID Eden'
+p5301
+(lp5302
+sS'IA Burlington'
+p5303
+(lp5304
+sS'AL Hanceville'
+p5305
+(lp5306
+F34.0606545
+aF-86.76749799999999
+asS'UT Morgan'
+p5307
+(lp5308
+F41.03605599999999
+aF-111.6768769
+asS'WA Vantage'
+p5309
+(lp5310
+sS'VA Henrico'
+p5311
+(lp5312
+F37.5059332
+aF-77.3324425
+asS'CA Livermore'
+p5313
+(lp5314
+sS'CA Carmichael'
+p5315
+(lp5316
+F38.617127
+aF-121.3282843
+asS'MA Avon'
+p5317
+(lp5318
+sS'NJ Matawan'
+p5319
+(lp5320
+F40.41482999999999
+aF-74.2295891
+asS'AB Alberta Beach'
+p5321
+(lp5322
+F53.6754391
+aF-114.3535319
+asS'TN Millington'
+p5323
+(lp5324
+F35.3414744
+aF-89.8973084
+asS'WV Chapmanville'
+p5325
+(lp5326
+F37.9737114
+aF-82.0173502
+asS'OR Bend'
+p5327
+(lp5328
+F44.0581728
+aF-121.3153096
+asS'UT Cedar Hills'
+p5329
+(lp5330
+F40.41411739999999
+aF-111.7585414
+asS'CA Redwood City'
+p5331
+(lp5332
+F37.48521520000001
+aF-122.2363548
+asS'CA Santee'
+p5333
+(lp5334
+F32.8383828
+aF-116.9739167
+asS'IL Rock Island'
+p5335
+(lp5336
+sS'WI Westport'
+p5337
+(lp5338
+sS'IL Palatine'
+p5339
+(lp5340
+sS'FL West Palm Beach'
+p5341
+(lp5342
+F26.7153424
+aF-80.0533746
+asS'FL St. Johns'
+p5343
+(lp5344
+F29.9719419
+aF-81.42789839999999
+asS'IL Northbrook'
+p5345
+(lp5346
+F42.1275267
+aF-87.82895479999999
+asS'NC Indian Trail'
+p5347
+(lp5348
+F35.0768141
+aF-80.6692352
+asS'CO Estes Park'
+p5349
+(lp5350
+sS'NY Wappingers Falls'
+p5351
+(lp5352
+F41.5964825
+aF-73.91096999999999
+asS'UT Bountiful'
+p5353
+(lp5354
+F40.8893895
+aF-111.880771
+asS'MD Silver Spring'
+p5355
+(lp5356
+sS'FL Fort Myers'
+p5357
+(lp5358
+F26.640628
+aF-81.8723084
+asS'IL Wheaton'
+p5359
+(lp5360
+F41.8661403
+aF-88.1070127
+asS'OH Dresden (near)'
+p5361
+(lp5362
+sS'PA Bushkill'
+p5363
+(lp5364
+F41.09342900000001
+aF-75.0018401
+asS'KY Paducah'
+p5365
+(lp5366
+F37.0833893
+aF-88.6000478
+asS'FL Longwood'
+p5367
+(lp5368
+F28.7030519
+aF-81.3384011
+asS'WI Greendale'
+p5369
+(lp5370
+sS'GA Lilburn'
+p5371
+(lp5372
+F33.8901036
+aF-84.14297189999999
+asS'IN Alexandria'
+p5373
+(lp5374
+F38.8048355
+aF-77.0469214
+asS'NJ Edison'
+p5375
+(lp5376
+F40.5187154
+aF-74.4120953
+asS'MO Florissant'
+p5377
+(lp5378
+F38.789217
+aF-90.322614
+asS'FL Naples'
+p5379
+(lp5380
+F26.1420358
+aF-81.7948103
+asS'GA Stone Mountain'
+p5381
+(lp5382
+sS'AZ Lake Havasu City'
+p5383
+(lp5384
+F34.483901
+aF-114.3224548
+asS'CA Palmdale'
+p5385
+(lp5386
+sS'AZ Chandler'
+p5387
+(lp5388
+F33.3061605
+aF-111.8412502
+asS'MI Pinckney'
+p5389
+(lp5390
+F42.4567013
+aF-83.9463358
+asS'AL Odenville'
+p5391
+(lp5392
+F33.6773237
+aF-86.396648
+asS'TX Round Rock'
+p5393
+(lp5394
+F30.5082551
+aF-97.678896
+asS'CO Erie'
+p5395
+(lp5396
+F40.0502623
+aF-105.0499817
+asS'NY Ronkonkoma'
+p5397
+(lp5398
+s.
