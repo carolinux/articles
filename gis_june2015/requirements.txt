@@ -1,0 +1,4 @@
+pandas
+geocoder
+beautifulsoup
+basemap # only for the map visualization
